@@ -1,0 +1,53 @@
+PREGNANCY FOLATE AND CREATINE - PARTIAL COLLECTION
+Updated 2026-09-09. Coverage is NOT complete.
+
+Verified original PDFs with pdf2md-generated NAME.pdf.md companions:
+folate/1981-Laurence-periconceptional-folate-recurrence.pdf
+folate/1992-Kirke-periconceptional-folic-acid-neural-tube-defects.pdf
+folate/1993-Czeizel-periconceptional-multivitamins-congenital-abnormalities.pdf
+creatine/2019-Sartini-maternal-creatine-rat-offspring.pdf
+creatine/2025-Lopez-pregnant-gilts-fetal-development.pdf
+creatine/2025-Tran-fetal-sheep-creatine-infusion-asphyxia.pdf
+
+The three creatine reports above are randomized ANIMAL experiments.
+Tran administered creatine directly to fetal sheep, not maternal oral dosing.
+Czeizel 1993 reports the Hungarian trial; it does not replace the 1992 NEJM
+original when tracking which publications have been obtained.
+
+No human pregnancy creatine supplementation RCT was verified in this search.
+Naidu 2025 (PMC12291183) is an open-label pharmacokinetic conference abstract.
+The 2014 Cochrane review found no human RCTs through November 2014 only.
+The current search is not proof that no later trial exists.
+
+Important unresolved original PDFs:
+MRC 1991: 10.1016/0140-6736(91)90133-A
+Czeizel 1992: 10.1056/NEJM199212243272602
+ICMR 2000: PMID 11247198
+FASSTT McNulty 2013: AJCN 98:92-98
+FACT Wen 2018: 10.1136/bmj.k3478
+Other historical trials and animal creatine reports also remain unresolved.
+
+Other files in folate/ and pdfs/ are NOT an eligibility-screened collection.
+The earlier commit ea47550 contains 51 candidate PDFs, including unrelated
+interventions. Do not interpret that count as 51 eligible pregnancy trials.
+Many files in pdfs/ are duplicates, HTML error responses or rendered copies.
+WeasyPrint-generated *_fulltext.pdf files are not original publisher PDFs.
+PDF signatures alone do not verify article identity or completeness.
+
+Corrections to earlier candidate descriptions:
+- Peters' folic-acid/creatine arsenic trial is not a pregnancy trial.
+- EAGeR randomizes aspirin, not folate.
+- Berry 1999 is not a randomized supplementation trial.
+- JMEST neonatal-jaundice paper is not verified as a randomized experiment.
+- PMC11032415 is observational, despite random sampling terminology.
+- Protocols, reviews and conference abstracts are not full RCT reports.
+- Follow-up publications must not be counted as independent experiments.
+- Trials varying several nutrients cannot isolate folate effects.
+
+Search evidence:
+folate-database.json: 1505 retrieved search records, not eligible trials.
+folate-historical-database.json: 536 retrieved historical search records.
+creatine-database.json: 166 retrieved search records.
+folate-historical-references.txt: references from two Cochrane reviews.
+The historical reviews include quasi-random allocation; methods need checking.
+Full-text screening and conversion of the remaining candidates are unfinished.
