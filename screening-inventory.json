@@ -1,0 +1,830 @@
+[
+  {
+    "filename": "folate/10743479_Low_dose_folic_acid_supplementation_does_not_influ.pdf.md",
+    "sha256": "e35ea20f5efe3dd4b42ed384534072f18554d2eb334dc982f693cefbb1924e47"
+  },
+  {
+    "filename": "folate/11432768_Inter_pregnancy_folate_and_iron_status_of_women_in.pdf.md",
+    "sha256": "9e8a87e170478cea596aa351409d5e8fdc44b4e4c086372b4e72998862806a86"
+  },
+  {
+    "filename": "folate/11737959_Vitamin_A_and_iron_supplementation_of_Indonesian_p.pdf.md",
+    "sha256": "5f5d9f856bdcbfdd17fa518a771ded9201b651688f314f2389bba1a410da3449"
+  },
+  {
+    "filename": "folate/12207835_Effects_of_folic_acid_and_vitamin_B12_supplements_.pdf.md",
+    "sha256": "053580593062e9bb2d59f3e8e45af9bf75f657e218e01631392170f4d044d194"
+  },
+  {
+    "filename": "folate/12700794_Changes_in_plasma_zinc_and_folic_acid_concentratio.pdf.md",
+    "sha256": "c39c4fb177dd1f8376a3f2a6b3e1900bad0900edeef44ea0b84964a56455a6e8"
+  },
+  {
+    "filename": "folate/14756914_Mental_and_psychomotor_development_in_Indonesian_i.pdf.md",
+    "sha256": "9ad37b90eb9ce192bb4cf26270f79e4a2bcb24d11b10f4ea2d67a288d55f93ef"
+  },
+  {
+    "filename": "folate/16870008_The_effect_of_docosahexaenoic_acid_and_folic_acid_.pdf.md",
+    "sha256": "3842bf277e069c47030ea6a05b97463d98f763563eb640a779b7c77f6ff8e9c9"
+  },
+  {
+    "filename": "folate/17181885_Impact_of_dietary_counselling_on_nutrient_intake_d.pdf.md",
+    "sha256": "798c2dcb353ae463b1e73a21ab2dcf709f6dadb88b7780c6ca51da596fc9b2e6"
+  },
+  {
+    "filename": "folate/17764606_Determinants_of_compliance_with_iron_supplementati.pdf.md",
+    "sha256": "9cc0db783fe65ff2c653cce347408ca487e637fd706be76946df75ca1e3d69df"
+  },
+  {
+    "filename": "folate/1981-Laurence-periconceptional-folate-recurrence.pdf.md",
+    "sha256": "5403a8b2abbef3e01fd8ffe7964a1dcb1d7e7e0396017f63147bfa01c4aed012"
+  },
+  {
+    "filename": "folate/1992-Kirke-periconceptional-folic-acid-neural-tube-defects.pdf.md",
+    "sha256": "31deb81cdd94d5c525fc3d04280c0be15efe4ecdfb667dbcb308ace3f4a5c7b1"
+  },
+  {
+    "filename": "folate/1993-Czeizel-periconceptional-multivitamins-congenital-abnormalities.pdf.md",
+    "sha256": "555e70dcfe6b435d45e9582488f9d9aadcdf0891b25de1e82c2d3d42a41c45af"
+  },
+  {
+    "filename": "folate/2003-Christian-Nepal-maternal-folate-micronutrients.pdf.md",
+    "sha256": "edc41bb7a0ddf0eeb7699e87fd704becfc1cb41eafa9fe7267c0672117b974d6"
+  },
+  {
+    "filename": "folate/2006-Ouma-folate-malaria-treatment-pregnancy.pdf.md",
+    "sha256": "170fdbf85676a8236ad2910861f7712b101f08c67e67fc12e3a5035903045bf2"
+  },
+  {
+    "filename": "folate/2007-Krauss-Etschmann-NUHEAL-fish-oil-and-methylfolate.pdf.md",
+    "sha256": "ae85d83e953837d5eefd5490bdf8650b0f4f3285ad5b27bdc0ab294ec5a62704"
+  },
+  {
+    "filename": "folate/2013-Wehby-folic-acid-oral-cleft-recurrence.pdf.md",
+    "sha256": "47032391f463dd5c1e3462a0ba5ffe933806e21eb9a2584fb93dc0139fcf2814"
+  },
+  {
+    "filename": "folate/2014-EAGeR-preconception-aspirin-pregnancy-UCC.pdf.md",
+    "sha256": "6c20e962532197a5681938047f3f16cfa0cea2ad63699df43988e46343c6e4ec"
+  },
+  {
+    "filename": "folate/2014-FACTS-folic-acid-preeclampsia-RCT.pdf.md",
+    "sha256": "523bc77f8590a8a5038dfbc7c9db5916fe7969055b75204f73b411e28dba4efb"
+  },
+  {
+    "filename": "folate/2016-Hashemi-folic-acid-preeclampsia-endothelial-function.pdf.md",
+    "sha256": "0948f2bcd8dd10698f8080034bfd3fd4470d8eaec57b96f1ef434d7134ee813e"
+  },
+  {
+    "filename": "folate/2016-High-dose-folic-acid-throughout-pregnancy-RCT.pdf.md",
+    "sha256": "8f2f187136f87c91b5779df14ac50866a794a8bcb3e9f71b96ca0fdc8280d1e2"
+  },
+  {
+    "filename": "folate/2016-Shahraki-folic-acid-dose-preeclampsia.pdf.md",
+    "sha256": "8c8f393647fcb4fca270f5125c1194fc45638b68d87ea3a444e39a4d1be6dc08"
+  },
+  {
+    "filename": "folate/2018-FASSTT-epigenetic-folic-acid-RCT.pdf.md",
+    "sha256": "2a68b6dfff54acc6497195e9fded7c2a484a12a3b9f63d11ed14a5643b66946b"
+  },
+  {
+    "filename": "folate/2019-AFAST-folic-acid-DNA-methylation-RCT.pdf.md",
+    "sha256": "420c481bf6dc42828496f4d41170b71b7cdae1a696b563eeb349251ee857d109"
+  },
+  {
+    "filename": "folate/2019-FASSTT-biomedica-summary.pdf.md",
+    "sha256": "e91e91214a5853ff8e3fead9bd756e6198e4d48629bb9319233a58e65c6212f4"
+  },
+  {
+    "filename": "folate/2020-FASSTT-study-protocol-RCT.pdf.md",
+    "sha256": "7454b43e971944916907ab89a730fa87038957d7873b05bfc94a1e8cf8363e87"
+  },
+  {
+    "filename": "folate/2020-NCT04395183-creatine-pregnancy-protocol.pdf.md",
+    "sha256": "8c5f08da3d5c81dc46fe960d6d2c7065fa9d4bd4b305348ab0eb3834bb09cb3a"
+  },
+  {
+    "filename": "folate/2020-Quadros-folinic-acid-pregnancy.pdf.md",
+    "sha256": "621f73e1f161becf33f73354b2729e77150c3090d1a1461f29834f860333c14a"
+  },
+  {
+    "filename": "folate/2021-Bortolus-periconceptional-folic-acid-4mg-versus-0.4mg.pdf.md",
+    "sha256": "1a152723bcea74044560532958abce7fa5901954fbc5afc925c0c95aa1f06b66"
+  },
+  {
+    "filename": "folate/2021-FASSTT-followup-folic-acid.pdf.md",
+    "sha256": "92d83df0c52fc2c4255269b7438210c061514fd797943421e86cdedc9a7e5684"
+  },
+  {
+    "filename": "folate/2021-FASSTT-high-dose-folic-acid-biomarkers-RCT.pdf.md",
+    "sha256": "5c97eec6ce140b9d1eac12f035b7c85f25c591790e1a64915479a62d0e6d1c42"
+  },
+  {
+    "filename": "folate/2021-fish-oil-folate-supplementation-RCT.pdf.md",
+    "sha256": "ae85d83e953837d5eefd5490bdf8650b0f4f3285ad5b27bdc0ab294ec5a62704"
+  },
+  {
+    "filename": "folate/2021-frontiers-folate-levels-pregnancy.pdf.md",
+    "sha256": "990be21370e80ec21bd421482cde7812715e8e3e74aa8259cd33738016e3807f"
+  },
+  {
+    "filename": "folate/20211038_Influence_of_fish_oil_or_folate_supplementation_on.pdf.md",
+    "sha256": "49520221af101ed81780a08b1e4a9cc957ae5f5dbb8aba1dded7b75f98d8ed6b"
+  },
+  {
+    "filename": "folate/2022-FASSTT-ibms-research-update.pdf.md",
+    "sha256": "45dd5dbe09a47002ba3796f2e9faf461264c060a8952254ba667e43f5212b6dd"
+  },
+  {
+    "filename": "folate/2024-Cochrane-pregnancy-methylfolate-versus-folic-acid.pdf.md",
+    "sha256": "726f69e4913af355d0ef5345caac0d7c89e8f4738521a5d8e607488e89bdf5a4"
+  },
+  {
+    "filename": "folate/2024-Sharma-pregnancy-iron-folic-acid-vitamin-B12.pdf.md",
+    "sha256": "d216b05a8f3ddcd02fc6ee19feb34eae42a8593b71f314d98a77acbb182523d3"
+  },
+  {
+    "filename": "folate/2026-Draicchio-pregnancy-methylfolate-multivitamin-comparison.pdf.md",
+    "sha256": "a73d4d577ba8e4848896c4b0797d90cde82bc0e329e984d5f348f45cfd7664d2"
+  },
+  {
+    "filename": "folate/20412605_Effect_of_multiple_micronutrient_supplementation_o.pdf.md",
+    "sha256": "acff02eec8cc68ed30453e077d7c1c08190ea522008149528d09ae69c3d88140"
+  },
+  {
+    "filename": "folate/20615267_Supplementation_of_iron_alone_and_combined_with_vi.pdf.md",
+    "sha256": "262a3af185dc220c6ea223133fe9b0e4cee54abc9202f5b0979b571d1c652961"
+  },
+  {
+    "filename": "folate/22427850_The_effect_of_maternal_multiple_micronutrient_supp.pdf.md",
+    "sha256": "b7b5b02564a574a72bd3fb61621aec426205e9a0637b1709d9db0b86cbc79205"
+  },
+  {
+    "filename": "folate/23469947_Plasma_zinc_vitamin_B_12_and_tocopherol_are_positi.pdf.md",
+    "sha256": "8009621db93dd17e9e50a3aac9bbd4b7de37875b434a1a6f5814688dbe99be22"
+  },
+  {
+    "filename": "folate/23853552_The_effect_of_intermittent_antenatal_iron_suppleme.pdf.md",
+    "sha256": "e38483b9551bfc5349d87bc2f75fb2086aa5736caa262419ca2be6f881aa2890"
+  },
+  {
+    "filename": "folate/24168874_Animal_source_foods_have_a_positive_impact_on_the_.pdf.md",
+    "sha256": "9e552296b06662bb7bb4d33641b3d3ebad0a879f7e5829e617ba392d8e71041d"
+  },
+  {
+    "filename": "folate/24999785_Adherence_in_a_pragmatic_randomized_controlled_tri.pdf.md",
+    "sha256": "abc89660c6d764718320bee660db251848595469d1ee4700ecf1432949926fc2"
+  },
+  {
+    "filename": "folate/25052890_Folate_Augmentation_of_Treatment_Evaluation_for_De.pdf.md",
+    "sha256": "254cd5025e6977f4766c0a9832a66b4f1b79a843d40ce79d128ce369cef656e1"
+  },
+  {
+    "filename": "folate/25084280_Effects_of_poly_bioactive_compounds_on_lipid_profi.pdf.md",
+    "sha256": "a0245b5061f473be16c46809fe2fdf1f675f5160e30e203d592e6e4fcba92999"
+  },
+  {
+    "filename": "folate/25677713_Effects_of_a_food_based_intervention_on_markers_of.pdf.md",
+    "sha256": "9892ed964ed93988602008805ff7d033d31e3e2a4db67a67b19ece0fa9ddcfde"
+  },
+  {
+    "filename": "folate/25905863_Multivitamin_and_iron_supplementation_to_prevent_p.pdf.md",
+    "sha256": "cccf3de1b33d6f27584d88b04f964c52d7a2b854169c20e3c8083e8d0930a5d0"
+  },
+  {
+    "filename": "folate/26431336_Effects_of_Prenatal_Multiple_Micronutrient_Supplem.pdf.md",
+    "sha256": "3cd66ad10595e51473c3ee0ab785d8054dcdf44849a187be79fff33f58558af9"
+  },
+  {
+    "filename": "folate/26630680_Methyltetrahydrofolate_vs_Folic_Acid_Supplementati.pdf.md",
+    "sha256": "bd81730a1a963e40a1cb3f9b37a78ec43fa60bb393179bf13cb26c4d8c41e792"
+  },
+  {
+    "filename": "folate/26824731_Modifying_effects_of_maternal_Hb_concentration_on_.pdf.md",
+    "sha256": "1ed4ff0823a6b511b8d7966cd0695921f31872c510fc36ac505267ae03eee0f8"
+  },
+  {
+    "filename": "folate/26847388_Inositol_for_the_prevention_of_neural_tube_defects.pdf.md",
+    "sha256": "d6394003976ded820ca149ea2e244cb3f019ebe515bd431e7bafd5d9bc35f0b8"
+  },
+  {
+    "filename": "folate/27166794_The_Effect_of_High_Dose_Folic_Acid_throughout_Preg.pdf.md",
+    "sha256": "e36bb5f5fb8d1e8611ddffe93ff2cb2bba75225dbaadab24d24ea243a7d2e354"
+  },
+  {
+    "filename": "folate/27918586_Impact_of_Preconception_Micronutrient_Supplementat.pdf.md",
+    "sha256": "c1903282fba5f5d75527f37a57685e31746bb8c198c1d2baf5497a97d04a6401"
+  },
+  {
+    "filename": "folate/28382892_Effect_of_12_month_intervention_with_lipid_based_n.pdf.md",
+    "sha256": "3f236ecc7b91b1118dcb1b5565ed871a74ee77a42ab234d7703e7caeb81a6dcb"
+  },
+  {
+    "filename": "folate/30998747_Effect_of_preconception_low_dose_aspirin_on_pregna.pdf.md",
+    "sha256": "0e036ecca6713da1de780f9a8f49c8bb1dfa81d043c9be8fc8834724e2ec4ee1"
+  },
+  {
+    "filename": "folate/31386660_Impact_of_nutritional_supplementation_during_pregn.pdf.md",
+    "sha256": "8bade44d0109228265261b71ea7a72d1d1f72dd0f82a89cdeaf13945d4b3f80b"
+  },
+  {
+    "filename": "folate/31408467_A_novel_nutritional_supplement_to_reduce_plasma_ho.pdf.md",
+    "sha256": "b2f09e021ac8a981272dac0a74b35d90cbbd0cbfbeb3c87b81627a18832fa47c"
+  },
+  {
+    "filename": "folate/31584939_Maternal_nutrition_intervention_and_maternal_compl.pdf.md",
+    "sha256": "05a98aa6b777ef9dc4e127c84e4b03906a9397ad7ca90aabab9067ab8fc8640f"
+  },
+  {
+    "filename": "folate/31625483_Computer_based_tailored_dietary_counselling_improv.pdf.md",
+    "sha256": "416d056542ffd8fe8effe28fa9237096d045606a37bb6d32a4a4a8c9b1964a50"
+  },
+  {
+    "filename": "folate/32469870_Effect_of_a_nutrient_rich_food_based_supplement_gi.pdf.md",
+    "sha256": "522bfe294aa072cf6ed366a136f059a6bf14375a829db32da068d0ea7037e4cf"
+  },
+  {
+    "filename": "folate/33054890_Consumption_of_multiple_micronutrients_or_small_qu.pdf.md",
+    "sha256": "41fbb78f43f3d4a3be2c51f079dba1d4df910062dabdd1608c0f63b18dc36a3d"
+  },
+  {
+    "filename": "folate/34263919_Effect_of_cord_clamping_time_on_neonatal_vitamin_B.pdf.md",
+    "sha256": "c5d87c8fdb68593ba5c74d06e2b8593d2bc65faf6a536e96981eaaa807a62dc6"
+  },
+  {
+    "filename": "folate/34375336_Immunogenicity_of_an_oral_rotavirus_vaccine_admini.pdf.md",
+    "sha256": "09c819a4dc7c8da3845e658436dd22c4d4cefc5b4c1286390dfe9e7bf50df985"
+  },
+  {
+    "filename": "folate/34422259_Cobalamin_and_folate_status_in_women_during_early_.pdf.md",
+    "sha256": "9a960480b8aad069a68c1ca778b78e497eba552c4c284f79eab8811a6dce03d3"
+  },
+  {
+    "filename": "folate/35222266_Association_of_the_Serum_Folate_and_Total_Calcium_.pdf.md",
+    "sha256": "39c9987bdf942d00932216d8e1dd1659de841b5831934189a5c36e689decf10d"
+  },
+  {
+    "filename": "folate/35500028_Evaluation_of_multiple_micronutrient_supplementati.pdf.md",
+    "sha256": "b6be049afa9a6276c3204e58f65f4df30f03024dc2359d467c0aaeba206ef436"
+  },
+  {
+    "filename": "folate/35912303_Effect_of_Picture_based_health_education_and_couns.pdf.md",
+    "sha256": "0e3d3605202e680c000edc7ed8d2de0fbf13dc5a3ebe83eb46e291e3ff0caa32"
+  },
+  {
+    "filename": "folate/36745684_Fortified_balanced_energy_protein_supplementation_.pdf.md",
+    "sha256": "f7436d3543504ec6bab4116cf0b374cec5348717da2a93d240b79b1e4ad15abc"
+  },
+  {
+    "filename": "folate/37486952_Effect_of_prenatal_micronutrient_fortified_balance.pdf.md",
+    "sha256": "5c977c6079b96a97d9271eb7d369d047f9c7fde93658527d29dd8b7cc30e01a3"
+  },
+  {
+    "filename": "folate/37649241_Supplementation_with_6.pdf.md",
+    "sha256": "4ce2d67c2ca958d170370c3b2162900561e58e2ea4c7e857fe5d90039562573c"
+  },
+  {
+    "filename": "folate/38051700_Maternal_B_vitamin_and_vitamin_D_status_before_dur.pdf.md",
+    "sha256": "cab7fcb3d2caaca80529407b51701aa6f2cc72a2577c742fcdec9f17ee21e1e8"
+  },
+  {
+    "filename": "folate/39324335_Impact_of_nutritional_and_multiple_micronutrients_.pdf.md",
+    "sha256": "132617cbc493eb8ce6922477337d7a9e0f9c706bc7553a7c5ea8e6a283ec2014"
+  },
+  {
+    "filename": "folate/40190544_Influence_of_mobile_phone_calls_on_the_compliance_.pdf.md",
+    "sha256": "90f26b2ee5b0ab3e2764a337c7725397f342cfdbef5578ffdfb0d36f8673f016"
+  },
+  {
+    "filename": "folate/40968471_The_effects_of_small_quantity_lipid_based_nutrient.pdf.md",
+    "sha256": "0451dcd21a2609fb0ca14827f121247069b984da2540fd00ee0f41f63464d9af"
+  },
+  {
+    "filename": "folate/41178447_The_effect_of_facility_based_nutrition_education_a.pdf.md",
+    "sha256": "f6bbff2ea9d092772c171ab83470ae6af8305525dd94de61a0f250a38377adf2"
+  },
+  {
+    "filename": "folate/41800295_Coenzyme_Q10_Impact_on_Ovarian_Reserve_Measures_an.pdf.md",
+    "sha256": "1435d92a4326388ec7bc99e976046e189ab5c9dd596bdafc3c0729965ccfa07d"
+  },
+  {
+    "filename": "folate/8588492_The_higher_rate_of_multiple_births_after_periconce.pdf.md",
+    "sha256": "8dc9e81c72062ef773c0de3fbd946ad83525c21b4632d665f530865da587e464"
+  },
+  {
+    "filename": "folate/awsli-brazilian-folate-study.pdf.md",
+    "sha256": "c574c6e0081807ccc1f2887976d2f9b190d12edf48a8d43459371b9031bcb649"
+  },
+  {
+    "filename": "folate/iijls-vascular-hypertensive-pregnancy-homocysteine.pdf.md",
+    "sha256": "5419d09c73843d9416d6a764dc24cde05d4418c87e64b13045349c69129c4273"
+  },
+  {
+    "filename": "folate/jmest-synthetic-folic-acid-RCT.pdf.md",
+    "sha256": "ca265bcb118261475dceabe20e0b35e3427fec48fbd5ba9e7ba2dbb4f06f8101"
+  },
+  {
+    "filename": "folate/plosone-0143569-folate-pregnancy.pdf.md",
+    "sha256": "b638ba518e6371959e1b35a5757f60ae4665eed8e53c6a9b0be5d99bdd49ba3c"
+  },
+  {
+    "filename": "creatine/2015-Peters-folic-acid-creatine-Bangladesh-RCT.pdf.md",
+    "sha256": "a58f7133cf42bd1d8ddc15a881333d292bd350744a01bbd3fbd2a0676b487616"
+  },
+  {
+    "filename": "creatine/2019-Sartini-maternal-creatine-rat-offspring.pdf.md",
+    "sha256": "f2570cafccce12b47b1d57dcacd03973930b5e0047bca09795839596dbd9fdd4"
+  },
+  {
+    "filename": "creatine/2019-creatine-pregnancy-review.pdf.md",
+    "sha256": "97943f77955a52e0d0e0d39447d4767703989914b484f02bc76679bee6598c57"
+  },
+  {
+    "filename": "creatine/2019-frontiers-creatine-neuroprotection-review.pdf.md",
+    "sha256": "a17c6369b983afc5fa507783bd6c3f1d91338aa352263dc4957c67ef8cb9f5c0"
+  },
+  {
+    "filename": "creatine/2022-Tran-fetal-sheep-creatine-hypoxia-metabolic-response.pdf.md",
+    "sha256": "4d11f489dd7e0515b8a47d948495bea7badc7b4d483f4ea304a2b8112112fae6"
+  },
+  {
+    "filename": "creatine/2023-Tran-fetal-sheep-creatine-regional-brain-followup.pdf.md",
+    "sha256": "3557c11a41030e9ee80aca5db4bc779bdd40c52f1c3e753acc1b166c10a70187"
+  },
+  {
+    "filename": "creatine/2024-creatine-gynecology-review.pdf.md",
+    "sha256": "c77ab1e34dce824c19838a97fb5d8e907b4d47ddb07df5f72bdd58d3b33648f7"
+  },
+  {
+    "filename": "creatine/2024-creatine-monohydrate-pregnancy-supplement.pdf.md",
+    "sha256": "2f9d75f677684c817ea2836f4340914b809ed5a15573acf69fb9d1fd378c3e37"
+  },
+  {
+    "filename": "creatine/2024-creatine-pregnancy-adverse-outcomes.pdf.md",
+    "sha256": "80cc1b91c7a4700a8b4f82618db01aeaf00c23058bbadb84acfbea133b2f2f7f"
+  },
+  {
+    "filename": "creatine/2025-Lopez-pregnant-gilts-fetal-development.pdf.md",
+    "sha256": "1fc031aeb5d41a7269b05341985314df1a6c2b05e2d8e421eba46def6da54191"
+  },
+  {
+    "filename": "creatine/2025-Tran-fetal-sheep-creatine-infusion-asphyxia.pdf.md",
+    "sha256": "ed4ae36660d0cdd6c38faa0157e9676ca290a025203f9eb011346b9674c34007"
+  },
+  {
+    "filename": "creatine/2025-frontiers-creatine-safety-review.pdf.md",
+    "sha256": "6abb7327f4e9a2e903bf813268db7ed80d288b09dba805d1c7f811a506de5c42"
+  },
+  {
+    "filename": "creatine/PMC3745711.pdf.md",
+    "sha256": "1f327f9c5a372bf372d578671aca466120daaf8edb585588e2948a5300c125c0"
+  },
+  {
+    "filename": "folate_rcts/folate_400_vs_800_ug_folate_RBC_folate_concentrations.pdf.md",
+    "sha256": "b5f5c261e1b30f1db15e793f913c8547e21d3c53dbd14aa588999ae21d6b49d6"
+  },
+  {
+    "filename": "folate_rcts/folate_400_vs_800_ug_folate_RBC_folate_concentrations.pdf_7050bb.md",
+    "sha256": "b5f5c261e1b30f1db15e793f913c8547e21d3c53dbd14aa588999ae21d6b49d6"
+  },
+  {
+    "filename": "folate_rcts/folate_4mg_vs_0_4mg_folic_acid_followup_1yr_2025.pdf.md",
+    "sha256": "682d56ff21cc677c25aa19a67ce700002f798ea79b2091ca79f29031c6660bc1"
+  },
+  {
+    "filename": "folate_rcts/folate_4mg_vs_0_4mg_folic_acid_followup_1yr_2025.pdf_09c74a.md",
+    "sha256": "682d56ff21cc677c25aa19a67ce700002f798ea79b2091ca79f29031c6660bc1"
+  },
+  {
+    "filename": "folate_rcts/folate_4mg_vs_0_4mg_folic_acid_reproductive_outcomes.pdf.md",
+    "sha256": "682d56ff21cc677c25aa19a67ce700002f798ea79b2091ca79f29031c6660bc1"
+  },
+  {
+    "filename": "folate_rcts/folate_4mg_vs_0_4mg_folic_acid_reproductive_outcomes.pdf_aa0a03.md",
+    "sha256": "2f2b0b1b7595123f2d2e8c947fde501a61024012a9b498073f633a8b8c0dc753"
+  },
+  {
+    "filename": "folate_rcts/folate_5methylTHF_vs_folic_acid_serum_RBC_folate.pdf.md",
+    "sha256": "7a1ad00a137014fe7af0a0bb8f77b10383f3f319f090aa8b933d8aa7df50b21b"
+  },
+  {
+    "filename": "folate_rcts/folate_5methylTHF_vs_folic_acid_serum_RBC_folate.pdf_36456f.md",
+    "sha256": "7a1ad00a137014fe7af0a0bb8f77b10383f3f319f090aa8b933d8aa7df50b21b"
+  },
+  {
+    "filename": "folate_rcts/folate_6S_5_methylTHF_vs_folic_acid_prenatal_2026.pdf.md",
+    "sha256": "a729bf9c2db8dbbcb764dcc3b6ecbe3a054626cde5859113e9c0fa353dd62f03"
+  },
+  {
+    "filename": "folate_rcts/folate_6S_5_methylTHF_vs_folic_acid_prenatal_2026.pdf_d094ee.md",
+    "sha256": "a729bf9c2db8dbbcb764dcc3b6ecbe3a054626cde5859113e9c0fa353dd62f03"
+  },
+  {
+    "filename": "folate_rcts/folate_FACT_trial_main_results_preeclampsia.pdf.md",
+    "sha256": "523bc77f8590a8a5038dfbc7c9db5916fe7969055b75204f73b411e28dba4efb"
+  },
+  {
+    "filename": "folate_rcts/folate_FACT_trial_main_results_preeclampsia.pdf_9345ac.md",
+    "sha256": "7ffc9a4b76ede6dbf92306fec35994c9d11337383336c01ef3d3599909c619c8"
+  },
+  {
+    "filename": "folate_rcts/folate_FACT_trial_preeclampsia_pilot_2013.pdf.md",
+    "sha256": "523bc77f8590a8a5038dfbc7c9db5916fe7969055b75204f73b411e28dba4efb"
+  },
+  {
+    "filename": "folate_rcts/folate_FACT_trial_preeclampsia_pilot_2013.pdf_e50f30.md",
+    "sha256": "523bc77f8590a8a5038dfbc7c9db5916fe7969055b75204f73b411e28dba4efb"
+  },
+  {
+    "filename": "folate_rcts/folate_FASSTT_followup_cognitive_performance.pdf.md",
+    "sha256": "6c54ace522e046622f3feee32a23dd99981bbd9928fad77657d39b55f53f28cc"
+  },
+  {
+    "filename": "folate_rcts/folate_FASSTT_followup_cognitive_performance.pdf_944511.md",
+    "sha256": "6c54ace522e046622f3feee32a23dd99981bbd9928fad77657d39b55f53f28cc"
+  },
+  {
+    "filename": "folate_rcts/folate_FASSTT_protocol_beyond_first_trimester_2020.pdf.md",
+    "sha256": "6c54ace522e046622f3feee32a23dd99981bbd9928fad77657d39b55f53f28cc"
+  },
+  {
+    "filename": "folate_rcts/folate_FASSTT_protocol_beyond_first_trimester_2020.pdf_5f5fe2.md",
+    "sha256": "c5efe91a67b56c89105d9254dc63534bb533ac6b4c7d8d770e5ddb2dd818b2ac"
+  },
+  {
+    "filename": "folate_rcts/folate_aberdeen_folic_acid_DNA_methylation_followup.pdf.md",
+    "sha256": "0f8e439ee1a2446ed3ee9739a95c9aefb15a14bda5a5c212c9deb283a041ea38"
+  },
+  {
+    "filename": "folate_rcts/folate_aberdeen_folic_acid_DNA_methylation_followup.pdf_726ec4.md",
+    "sha256": "c1a1c09f85965ccb816de4d7e531efaf20e0641e6044e5052ea8961719b3b4f3"
+  },
+  {
+    "filename": "folate_rcts/folate_aberdeen_folic_acid_cancer_CVD_followup.pdf.md",
+    "sha256": "0f8e439ee1a2446ed3ee9739a95c9aefb15a14bda5a5c212c9deb283a041ea38"
+  },
+  {
+    "filename": "folate_rcts/folate_aberdeen_folic_acid_cancer_CVD_followup.pdf_58d8cb.md",
+    "sha256": "0f8e439ee1a2446ed3ee9739a95c9aefb15a14bda5a5c212c9deb283a041ea38"
+  },
+  {
+    "filename": "folate_rcts/folate_active_folate_biochemical_parameters_childbearing.pdf.md",
+    "sha256": "3c7d4db2eef388dbf829eef8359baeff26be2b8c7d4fd59db2a0529d969ba12c"
+  },
+  {
+    "filename": "folate_rcts/folate_active_folate_biochemical_parameters_childbearing.pdf_f7c4f6.md",
+    "sha256": "3c7d4db2eef388dbf829eef8359baeff26be2b8c7d4fd59db2a0529d969ba12c"
+  },
+  {
+    "filename": "folate_rcts/folate_aston_maternal_folic_acid_effects_2021.pdf.md",
+    "sha256": "7ae4647d335433121c6bf34a26a02f26010f493f56bf9c393bf58a7d976ba236"
+  },
+  {
+    "filename": "folate_rcts/folate_aston_maternal_folic_acid_effects_2021.pdf_a32cbf.md",
+    "sha256": "7ae4647d335433121c6bf34a26a02f26010f493f56bf9c393bf58a7d976ba236"
+  },
+  {
+    "filename": "folate_rcts/folate_bristol_continuation_folic_acid_epigenetics_2019.pdf.md",
+    "sha256": "6e58d112d74ade830d16dfb5253a92817f54fcffec90d4601334a5a507cb5e82"
+  },
+  {
+    "filename": "folate_rcts/folate_bristol_continuation_folic_acid_epigenetics_2019.pdf_4ed496.md",
+    "sha256": "6e58d112d74ade830d16dfb5253a92817f54fcffec90d4601334a5a507cb5e82"
+  },
+  {
+    "filename": "folate_rcts/folate_cognitive_benefits_folic_acid_epigenetic_2024.pdf.md",
+    "sha256": "2e4b1a5b1a5e418980b6214c41a73db1dfc13e6a3f3e70960fb040eec3de1ab5"
+  },
+  {
+    "filename": "folate_rcts/folate_cognitive_benefits_folic_acid_epigenetic_2024.pdf_88eae3.md",
+    "sha256": "2e4b1a5b1a5e418980b6214c41a73db1dfc13e6a3f3e70960fb040eec3de1ab5"
+  },
+  {
+    "filename": "folate_rcts/folate_czeizel_hungarian_folic_acid_NTD_1992.pdf.md",
+    "sha256": "badf8babb0f9be5e32536dfefa705405181dbcdbbc65cde881b52810e6879e60"
+  },
+  {
+    "filename": "folate_rcts/folate_czeizel_hungarian_folic_acid_NTD_1992.pdf_dd08c9.md",
+    "sha256": "badf8babb0f9be5e32536dfefa705405181dbcdbbc65cde881b52810e6879e60"
+  },
+  {
+    "filename": "folate_rcts/folate_different_folic_acid_doses_pregnancy_outcomes.pdf.md",
+    "sha256": "d8d4dd77e5115b7b066c1c141daf67806ea2af9b25cc5af300605a430b8286ab"
+  },
+  {
+    "filename": "folate_rcts/folate_different_folic_acid_doses_pregnancy_outcomes.pdf_9b0be5.md",
+    "sha256": "d8d4dd77e5115b7b066c1c141daf67806ea2af9b25cc5af300605a430b8286ab"
+  },
+  {
+    "filename": "folate_rcts/folate_ferrous_bisglycinate_folinic_acid_iron_deficiency_pregnancy.pdf.md",
+    "sha256": "1dd9adc2160cb9e345f4754394d90c35b32e6dcb5bb978487aa4fbcd4f2b593d"
+  },
+  {
+    "filename": "folate_rcts/folate_ferrous_bisglycinate_folinic_acid_iron_deficiency_pregnancy.pdf_ac1fc8.md",
+    "sha256": "1dd9adc2160cb9e345f4754394d90c35b32e6dcb5bb978487aa4fbcd4f2b593d"
+  },
+  {
+    "filename": "folate_rcts/folate_fish_oil_5methylTHF_offspring_brain_pregnancy.pdf.md",
+    "sha256": "3ed4bde2318499eb73fd57dc39591c1c0977435787392160d21f3892c744f008"
+  },
+  {
+    "filename": "folate_rcts/folate_fish_oil_5methylTHF_offspring_brain_pregnancy.pdf_c096f1.md",
+    "sha256": "3ed4bde2318499eb73fd57dc39591c1c0977435787392160d21f3892c744f008"
+  },
+  {
+    "filename": "folate_rcts/folate_fish_oil_folate_supplementation_AJCN_2008.pdf.md",
+    "sha256": "3ed4bde2318499eb73fd57dc39591c1c0977435787392160d21f3892c744f008"
+  },
+  {
+    "filename": "folate_rcts/folate_fish_oil_folate_supplementation_AJCN_2008.pdf_3b534a.md",
+    "sha256": "fdee75c3b5a8475f81f70b9e82f299994d06da0c298aaefbde5390ae9728b98c"
+  },
+  {
+    "filename": "folate_rcts/folate_folic_acid_DNA_methylation_neural_genes_pregnancy.pdf.md",
+    "sha256": "25db873ef89a93317e487685aeb720f3a08e72c9c6b5def713e3a0b44b2ad3f3"
+  },
+  {
+    "filename": "folate_rcts/folate_folic_acid_DNA_methylation_neural_genes_pregnancy.pdf_1b2b24.md",
+    "sha256": "79e2388ed84de8f53528455dddb8dfa317b68acc5662476f4476fa30f26a8ca1"
+  },
+  {
+    "filename": "folate_rcts/folate_folic_acid_diminished_ovarian_reserve_protocol.pdf.md",
+    "sha256": "25db873ef89a93317e487685aeb720f3a08e72c9c6b5def713e3a0b44b2ad3f3"
+  },
+  {
+    "filename": "folate_rcts/folate_folic_acid_diminished_ovarian_reserve_protocol.pdf_45c113.md",
+    "sha256": "03fac10808c3099b44102f76cb80a0100f602de92e437b0a87d3ca945c7e7826"
+  },
+  {
+    "filename": "folate_rcts/folate_folic_acid_fetal_brain_growth_maternal_smoking.pdf.md",
+    "sha256": "25db873ef89a93317e487685aeb720f3a08e72c9c6b5def713e3a0b44b2ad3f3"
+  },
+  {
+    "filename": "folate_rcts/folate_folic_acid_fetal_brain_growth_maternal_smoking.pdf_e4a868.md",
+    "sha256": "25db873ef89a93317e487685aeb720f3a08e72c9c6b5def713e3a0b44b2ad3f3"
+  },
+  {
+    "filename": "folate_rcts/folate_high_dose_folic_acid_biomarkers_AJCN_2021.pdf.md",
+    "sha256": "1b09daacc6cfd98ce7217346f103daa24c2fa18097572f52918baa141dfc0784"
+  },
+  {
+    "filename": "folate_rcts/folate_high_dose_folic_acid_biomarkers_AJCN_2021.pdf_f217ea.md",
+    "sha256": "1b09daacc6cfd98ce7217346f103daa24c2fa18097572f52918baa141dfc0784"
+  },
+  {
+    "filename": "folate_rcts/folate_high_dose_folic_acid_vascular_preeclampsia.pdf.md",
+    "sha256": "1b09daacc6cfd98ce7217346f103daa24c2fa18097572f52918baa141dfc0784"
+  },
+  {
+    "filename": "folate_rcts/folate_high_dose_folic_acid_vascular_preeclampsia.pdf_1ba922.md",
+    "sha256": "aea40e0d06300cff63b574cd6885ac0a2930f2f9bc9c5956f432fffe32271cbd"
+  },
+  {
+    "filename": "folate_rcts/folate_human_milk_oligosaccharide_folic_acid_vs_5methylTHF.pdf.md",
+    "sha256": "06abf3f2d9b643deacd3da7ba979fc8b4cec2f2297b77a2f1983e1791b6ce7fe"
+  },
+  {
+    "filename": "folate_rcts/folate_human_milk_oligosaccharide_folic_acid_vs_5methylTHF.pdf_c607e5.md",
+    "sha256": "dfe0de37415645bcb716746711dc3f5ad04cde41215803660da97f1655419fe1"
+  },
+  {
+    "filename": "folate_rcts/folate_human_milk_unmetabolized_folic_acid_synthetic.pdf.md",
+    "sha256": "06abf3f2d9b643deacd3da7ba979fc8b4cec2f2297b77a2f1983e1791b6ce7fe"
+  },
+  {
+    "filename": "folate_rcts/folate_human_milk_unmetabolized_folic_acid_synthetic.pdf_87bd4c.md",
+    "sha256": "06abf3f2d9b643deacd3da7ba979fc8b4cec2f2297b77a2f1983e1791b6ce7fe"
+  },
+  {
+    "filename": "folate_rcts/folate_iron_folic_acid_vs_iron_folic_acid_B12_anaemia_2024.pdf.md",
+    "sha256": "954148a96cfd4961f685611553b2d1cc7b1f4deb4f324a4e715fb92dc244aa99"
+  },
+  {
+    "filename": "folate_rcts/folate_iron_folic_acid_vs_iron_folic_acid_B12_anaemia_2024.pdf_a46243.md",
+    "sha256": "954148a96cfd4961f685611553b2d1cc7b1f4deb4f324a4e715fb92dc244aa99"
+  },
+  {
+    "filename": "folate_rcts/folate_maternal_folic_acid_2nd_3rd_trimester_neurocognitive.pdf.md",
+    "sha256": "4055388b43e3e59cb7fe2ecd1ba6c6d68b54c2e5f555fb7d5a2d6511d369ba73"
+  },
+  {
+    "filename": "folate_rcts/folate_maternal_folic_acid_2nd_3rd_trimester_neurocognitive.pdf_099873.md",
+    "sha256": "4055388b43e3e59cb7fe2ecd1ba6c6d68b54c2e5f555fb7d5a2d6511d369ba73"
+  },
+  {
+    "filename": "folate_rcts/folate_mcnulty_continued_folic_acid_cognitive_performance_child.pdf.md",
+    "sha256": "606c250ffeee1e43bd1afa10d88e194f88d8811e846a933b290dba9ace83d5d9"
+  },
+  {
+    "filename": "folate_rcts/folate_mcnulty_continued_folic_acid_cognitive_performance_child.pdf_1dcaea.md",
+    "sha256": "606c250ffeee1e43bd1afa10d88e194f88d8811e846a933b290dba9ace83d5d9"
+  },
+  {
+    "filename": "folate_rcts/folate_methylTHF_vs_folic_acid_recurrent_miscarriage_MTHFR.pdf.md",
+    "sha256": "ad8e429f2a96228f250ca6de9766e119a3fb9d3bf399f958a1fd87a9bc3d1813"
+  },
+  {
+    "filename": "folate_rcts/folate_methylTHF_vs_folic_acid_recurrent_miscarriage_MTHFR.pdf_66b279.md",
+    "sha256": "ad8e429f2a96228f250ca6de9766e119a3fb9d3bf399f958a1fd87a9bc3d1813"
+  },
+  {
+    "filename": "folate_rcts/folate_one_carbon_biomarkers_folic_acid_dose_2024.pdf.md",
+    "sha256": "9ed574bff0efbeda89be22c2f0b79a82f5e78fd9780df7c8495797afefd34f67"
+  },
+  {
+    "filename": "folate_rcts/folate_one_carbon_biomarkers_folic_acid_dose_2024.pdf_e9a5c2.md",
+    "sha256": "9ed574bff0efbeda89be22c2f0b79a82f5e78fd9780df7c8495797afefd34f67"
+  },
+  {
+    "filename": "folate_rcts/folate_plosone_methylTHF_vs_folic_acid_2015.pdf.md",
+    "sha256": "4a60e95d2fb8dbd01faa931225cf6f541582cac1d02310b560e0ae850753ee20"
+  },
+  {
+    "filename": "folate_rcts/folate_plosone_methylTHF_vs_folic_acid_2015.pdf_66b279.md",
+    "sha256": "4a60e95d2fb8dbd01faa931225cf6f541582cac1d02310b560e0ae850753ee20"
+  },
+  {
+    "filename": "folate_rcts/folate_sayyah_melli_high_dose_folic_acid_preeclampsia_2016.pdf.md",
+    "sha256": "7acbbf5ee3e389f4b357449d58b5df4025803688ecb815a2682ff7d414f57e18"
+  },
+  {
+    "filename": "folate_rcts/folate_sayyah_melli_high_dose_folic_acid_preeclampsia_2016.pdf_add0ae.md",
+    "sha256": "7acbbf5ee3e389f4b357449d58b5df4025803688ecb815a2682ff7d414f57e18"
+  },
+  {
+    "filename": "folate_rcts/folate_serum_folate_forms_multimicronutrient_400mcg_2024.pdf.md",
+    "sha256": "a668f059d49aa099aa3354b2b7699afe7f472af63671e302c5844c133c70a55c"
+  },
+  {
+    "filename": "folate_rcts/folate_serum_folate_forms_multimicronutrient_400mcg_2024.pdf_ab74f0.md",
+    "sha256": "a668f059d49aa099aa3354b2b7699afe7f472af63671e302c5844c133c70a55c"
+  },
+  {
+    "filename": "folate_rcts/folate_synthetic_folic_acid_supplementation_JMEST.pdf.md",
+    "sha256": "c7e522b63b0aa2a3f267f0c6938013a9349755ab0d124c1a4622f31ba2c496b6"
+  },
+  {
+    "filename": "folate_rcts/folate_synthetic_folic_acid_supplementation_JMEST.pdf_fa380a.md",
+    "sha256": "c7e522b63b0aa2a3f267f0c6938013a9349755ab0d124c1a4622f31ba2c496b6"
+  },
+  {
+    "filename": "folate_rcts/folate_ulster_FASSTT_ZFP57_methylation_RCT_2018.pdf.md",
+    "sha256": "c84a88a941a0f8802fe2fb05ce06c25e1d1515a8a055cb20875dd24dfc92ee73"
+  },
+  {
+    "filename": "folate_rcts/folate_ulster_FASSTT_ZFP57_methylation_RCT_2018.pdf_6cb21e.md",
+    "sha256": "c84a88a941a0f8802fe2fb05ce06c25e1d1515a8a055cb20875dd24dfc92ee73"
+  },
+  {
+    "filename": "folate_rcts/folate_unmetabolized_folic_acid_remove_after_12wk_2024.pdf.md",
+    "sha256": "380cdc3d273acba2589ef70ddb83a109d9be3e2885517a1964e54354b15ac097"
+  },
+  {
+    "filename": "folate_rcts/folate_unmetabolized_folic_acid_remove_after_12wk_2024.pdf_ef3e15.md",
+    "sha256": "380cdc3d273acba2589ef70ddb83a109d9be3e2885517a1964e54354b15ac097"
+  },
+  {
+    "filename": "folate_rcts/folate_weekly_iron_folic_acid_genital_tract_infection.pdf.md",
+    "sha256": "d54245e9bbb9745bed0ae6361892da559aba914085cbbaf1e9ef67abc5f88805"
+  },
+  {
+    "filename": "folate_rcts/folate_weekly_iron_folic_acid_genital_tract_infection.pdf_6fb287.md",
+    "sha256": "d54245e9bbb9745bed0ae6361892da559aba914085cbbaf1e9ef67abc5f88805"
+  },
+  {
+    "filename": "folate_rcts/folate_weekly_iron_folic_acid_malaria_risk_Burkina_Faso.pdf.md",
+    "sha256": "d54245e9bbb9745bed0ae6361892da559aba914085cbbaf1e9ef67abc5f88805"
+  },
+  {
+    "filename": "folate_rcts/folate_weekly_iron_folic_acid_malaria_risk_Burkina_Faso.pdf_024258.md",
+    "sha256": "6e992c8e71141730229d1232a6cbab7fd4a3924ca813d6aea49f586349041c6c"
+  },
+  {
+    "filename": "creatine_rcts/creatine_NCT04395183_trial_protocol.pdf.md",
+    "sha256": "7621df463410cb11aa68a89bbb0f3f2674293f6ce317d056bdbad182c532f994"
+  },
+  {
+    "filename": "creatine_rcts/creatine_NCT04395183_trial_protocol.pdf_871a6b.md",
+    "sha256": "7621df463410cb11aa68a89bbb0f3f2674293f6ce317d056bdbad182c532f994"
+  },
+  {
+    "filename": "creatine_rcts/creatine_cochrane_review_neuroprotection_fetus_2023.pdf.md",
+    "sha256": "b99c7c4911183e4af4b865201d4746222f4d06103ca9873db40fe8a95e43942e"
+  },
+  {
+    "filename": "creatine_rcts/creatine_cochrane_review_neuroprotection_fetus_2023.pdf_6161c5.md",
+    "sha256": "b99c7c4911183e4af4b865201d4746222f4d06103ca9873db40fe8a95e43942e"
+  },
+  {
+    "filename": "creatine_rcts/creatine_peters_folic_acid_creatine_arsenic_RCT_2015.pdf.md",
+    "sha256": "4516dbe338cf192a1661ce531cd6baa348cafb5b0406b1d2b9289a91c5d04a9c"
+  },
+  {
+    "filename": "creatine_rcts/creatine_peters_folic_acid_creatine_arsenic_RCT_2015.pdf_cfef29.md",
+    "sha256": "4516dbe338cf192a1661ce531cd6baa348cafb5b0406b1d2b9289a91c5d04a9c"
+  },
+  {
+    "filename": "pdfs/Cochrane_2024_methylfolate.pdf_4c1b07.md",
+    "sha256": "726f69e4913af355d0ef5345caac0d7c89e8f4738521a5d8e607488e89bdf5a4"
+  },
+  {
+    "filename": "pdfs/PMC10097948.pdf_fc0f0a.md",
+    "sha256": "3557c11a41030e9ee80aca5db4bc779bdd40c52f1c3e753acc1b166c10a70187"
+  },
+  {
+    "filename": "pdfs/PMC11032415.pdf_501f3d.md",
+    "sha256": "faea75fc3480ed6cb8d82e2c29ad755d8a82b14768bcd2240689c4642fb53ad0"
+  },
+  {
+    "filename": "pdfs/PMC11547940.pdf_0d2145.md",
+    "sha256": "3ecb470579c2277303d58ee475db75a9dd021f94d909b57d9f86e3428c9c92eb"
+  },
+  {
+    "filename": "pdfs/PMC11871691.pdf_1d546d.md",
+    "sha256": "1fc031aeb5d41a7269b05341985314df1a6c2b05e2d8e421eba46def6da54191"
+  },
+  {
+    "filename": "pdfs/PMC11889532.pdf_0375c1.md",
+    "sha256": "ed4ae36660d0cdd6c38faa0157e9676ca290a025203f9eb011346b9674c34007"
+  },
+  {
+    "filename": "pdfs/PMC1505459.pdf_f2499a.md",
+    "sha256": "5403a8b2abbef3e01fd8ffe7964a1dcb1d7e7e0396017f63147bfa01c4aed012"
+  },
+  {
+    "filename": "pdfs/PMC151518.pdf_a43917.md",
+    "sha256": "edc41bb7a0ddf0eeb7699e87fd704becfc1cb41eafa9fe7267c0672117b974d6"
+  },
+  {
+    "filename": "pdfs/PMC1617124.pdf_e42ba8.md",
+    "sha256": "170fdbf85676a8236ad2910861f7712b101f08c67e67fc12e3a5035903045bf2"
+  },
+  {
+    "filename": "pdfs/PMC1678103.pdf_94d5e2.md",
+    "sha256": "555e70dcfe6b435d45e9582488f9d9aadcdf0891b25de1e82c2d3d42a41c45af"
+  },
+  {
+    "filename": "pdfs/PMC1793975.pdf_253bb4.md",
+    "sha256": "31deb81cdd94d5c525fc3d04280c0be15efe4ecdfb667dbcb308ace3f4a5c7b1"
+  },
+  {
+    "filename": "pdfs/PMC3635165.pdf_e80a15.md",
+    "sha256": "47032391f463dd5c1e3462a0ba5ffe933806e21eb9a2584fb93dc0139fcf2814"
+  },
+  {
+    "filename": "pdfs/PMC3745711.pdf_e40e89.md",
+    "sha256": "1f327f9c5a372bf372d578671aca466120daaf8edb585588e2948a5300c125c0"
+  },
+  {
+    "filename": "pdfs/PMC4773130.pdf_adb6ce.md",
+    "sha256": "d3ec4288a28421ab70f504fd02c273a1bd18979fcef92ba7d8ec15c963c7caed"
+  },
+  {
+    "filename": "pdfs/PMC5221122.pdf_47f016.md",
+    "sha256": "8c8f393647fcb4fca270f5125c1194fc45638b68d87ea3a444e39a4d1be6dc08"
+  },
+  {
+    "filename": "pdfs/PMC5331770.pdf_d9dc9d.md",
+    "sha256": "0948f2bcd8dd10698f8080034bfd3fd4470d8eaec57b96f1ef434d7134ee813e"
+  },
+  {
+    "filename": "pdfs/PMC5439041.pdf_2e67d6.md",
+    "sha256": "f9ae2038c95842b9db53c8295610cbf99827f5ef2a9bfaaa3b0e3fcdbaaa824e"
+  },
+  {
+    "filename": "pdfs/PMC6529553.pdf_e4a868.md",
+    "sha256": "a11ffc649535376fbead0d5482a97c88aa2f1206011a46d5fd98c50582089dc7"
+  },
+  {
+    "filename": "pdfs/PMC6770830.pdf_ff034e.md",
+    "sha256": "f2570cafccce12b47b1d57dcacd03973930b5e0047bca09795839596dbd9fdd4"
+  },
+  {
+    "filename": "pdfs/PMC9542404.pdf_c425ab.md",
+    "sha256": "4d11f489dd7e0515b8a47d948495bea7badc7b4d483f4ea304a2b8112112fae6"
+  },
+  {
+    "filename": "pdfs/columbia_Peters_EHP.pdf_cfef29.md",
+    "sha256": "24d3f300053219ed0a9cb9443256766fc5cc2548fe7e3c0ef7a6ace05c76c014"
+  },
+  {
+    "filename": "pdfs/folate_2026_1679067.pdf_b3fb23.md",
+    "sha256": "a73d4d577ba8e4848896c4b0797d90cde82bc0e329e984d5f348f45cfd7664d2"
+  },
+  {
+    "filename": "pdfs/helmholtz_13071.pdf_3aa747.md",
+    "sha256": "ae85d83e953837d5eefd5490bdf8650b0f4f3285ad5b27bdc0ab294ec5a62704"
+  },
+  {
+    "filename": "pdfs/ijogr_13696.pdf_a46243.md",
+    "sha256": "d216b05a8f3ddcd02fc6ee19feb34eae42a8593b71f314d98a77acbb182523d3"
+  },
+  {
+    "filename": "pdfs/jmest_42351986.pdf_fa380a.md",
+    "sha256": "215f7c833093fcc9ad6e14bbaa315ee007beb8449f3c444dca8974b576f2edc6"
+  },
+  {
+    "filename": "pdfs/semanticscholar_creatine.pdf_7057dd.md",
+    "sha256": "57110f541891db2b6445c3d0fbc4fd3cd7c148bc2c7c278d2b0927e06e0551b1"
+  }
+]
