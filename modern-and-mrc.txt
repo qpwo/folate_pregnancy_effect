@@ -1,0 +1,1849 @@
+begin https://www.sjsu.edu/faculty/gerstman/hs261/Lancet1991-338-8760-131-137.htm
+begin https://www.bmj.com/content/362/bmj.k3478
+begin https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full
+cloudflare
+
+We have received a high number of requests from this session.
+
+To keep the service fast and reliable for everyone, this page will reload automatically in 29 seconds.
+
+Ray ID
+a38889e9fd85ed3f
+Your IP
+70.229.14.81
+Need help? Copy details for support Copied! Paste into your email.
+end https://www.bmj.com/content/362/bmj.k3478
+
+FULL TEXT FOR URL https://www.bmj.com/content/362/bmj.k3478 SAVED TO ./.webcats/https-www-bmj-com-content-362-bmj-k3478-7a011d5.txt
+Record: 1
+
+Title:                           Prevention of neural tube defects: Results of the Medical Research Council Vitamin Study.
+Authors:                         Wald, N. Sneddon, J.
+Source:                          Lancet; 7/20/91, Vol. 338 Issue 8760, p131, 7p, 7 charts, 1 graph
+Document Type:                   Article
+Subject Terms:                   *BRAIN -- Diseases
+Abstract:                        Describes a randomized double-blind prevention trial with a factorial design, conducted at 33 centers in seven countries to determine whether supplementation with folic acid or a mixture of seven other vitamins around the time of conception can prevent neural tube defects. Planning the study; Research methods; Results; Analysis; Conclusion that folic acid supplementation can prevent neural tube defects.
+Full Text Word Count:            6395
+ISSN:                            0099-5355
+Accession Number:                9108192209
+Persistent link to this record:  http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=9108192209&site=ehost-live
+Cut and Paste:                   <A href="http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=9108192209&site=ehost-live">Prevention of neural tube defects: Results of the Medical Research Council Vitamin Study.</A>
+Database:                        Academic Search Premier
+
+Section: ORIGINAL ARTICLES
+PREVENTION OF NEURAL TUBE DEFECTS: RESULTS OF THE MEDICAL RESEARCH COUNCIL VITAMIN STUDY
+
+MRC VITAMIN STUDY RESEARCH GROUP[*]
+
+A randomised double-blind prevention trial with a factorial design was conducted at 33 centres in seven countries to determine whether supplementation with folic acid (one of the vitamins in the B group) or a mixture of seven other vitamins (A, D, B1, B2, B6, C, and nicotinamide) around the time of conception can prevent neural tube defects (anencephaly, spine bifida, encephalocele). A total of 1817 women at high risk of having a pregnancy with a neural tube defect, because of a previous affected pregnancy, were allocated at random to one of four groups--namely, folic acid, other vitamins, both, or neither. 1195 had a completed pregnancy in which the fetus or infant was known to have or not have a neural tube defect; 27 of these had a known neural tube defect, 6 in the folic acid groups and 21 in the two other groups, a 72% protective effect (relative risk 0 28, 95% confidence interval 0.12-0 71). The other vitamins showed no significant protective effect (relative risk 0.80, 95% Cl 0.32-1 72). There was no demonstrable harm from the folic acid supplementation, though the ability of the study to detect rare or slight adverse effects was limited. Folic acid supplementation starting before pregnancy can now be firmly recommended for all women who have had an affected pregnancy, and public health measures should be taken to ensure that the diet of all women who may bear children contains an adequate amount of folic acid.
+
+Lancet 1991; 338: 131-37.
+
+Introduction
+
+It has long been suspected that diet has a role in the causation of neural tube defects, which are among the most common severe congenital malformations. The possibility that folic acid (a vitamin in the B group) might be involved was raised in 1964.( n1, n2) In 1980 and 1981 the results of two intervention studies were published in which vitamin supplementation around the time of conception was given to women who had had a pregnancy with a neural tube defect.( n3, n4) These suggested that folic acid or other vitamin supplementation might reduce the risk of a recurrence. In the first study,( n3) which was not randomised, participating women were given a mixture of eight vitamins which included folic acid (0.36 mg/day), and women who were already pregnant or had declined to take part in the study served as controls. The risk of a recurrence in supplemented women was about one-seventh that in the unsupplemented women.
+
+The second study was a small randomised trial of folic acid supplementation alone (4 mg/day).( n4) It yielded inconclusive results when analysed according to randomly allocated treatment group (so avoiding bias), but when analysed after the transfer of women in the folic acid group who did not take their capsules to the control group (de, ignoring the randomisation and so introducing the possibility of bias) the supplemented women had a significantly lower recurrence rate.
+
+The lower recurrence rate in the supplemented women in these two studies is unlikely to have arisen purely by chance. Two explanations were possible. One is chat folic acid or possibly the other vitamins can prevent some cases of neural tube defects. A second plausible explanation is that women who chose to take the vitamins represented a selected group, perhaps with a more affluent or health-conscious diet, who were therefore at low risk of having a further affected pregnancy. Indeed, it is likely chat such selection was operating; however, it was not known whether there was also a genuine preventive effect, and, if so, its magnitude and whether the responsible component was folic acid or one of the other vitamins.
+
+Neither further statistical analysis of the results of these studies nor the accumulation of further results without appropriate controls would have solved the problem.( n5) The issue could be resolved only by performing a large trial in which, to avoid bias, women at risk would be randomly allocated to various groups, including a control group that did not receive the extra vitamins. Furthermore, such a study would also permit the unbiased detection of any major adverse effects. A trial was launched in July, 1983, with the aim of recruiting women known to be at high risk through having had a previous affected pregnancy. It was the intention to obtain information on the outcome of at least 2000 pregnancies unless a suffeciently clear result emerged sooner. By April, 1991, sufficiently conclusive results had emerged to warrant ending the trial. The results at that time are the subject of this paper.
+
+Methods
+
+The study was an international, multicentre, double-blind randomised trial involving 33 centres (17 in the UK and 16 in six other countries). Women with a previous pregnancy affected by a neural tube defect, not associated with the autosomal recessive disorder Meckel's syndrome, were eligible for the study if they were planning another pregnancy and were not already taking vitamin supplements. Women with epilepsy were excluded in case the folic acid supplementation adversely affected their treatment. Antenatal diagnosis of neural tube defects was available at all centres in the study. The effect of supplementation both with folic acid and with a selection of other vitamins was investigated by use of a factorial study design. Women were allocated at random to one of four supplementation groups, the supplements containing folic acid, other vitamins, both, or neither, in the following way:
+
+Group                      Folic Acid            Other Vitamins
+
+A                            Yes                     No
+
+B                            Yes                     Yes
+
+C                            No                      No
+
+D                            No                      Yes
+
+Comparison of the outcomes in groups A and B with those in groups C and D tested the effect of folic acid supplementation; comparison of the outcomes in groups B and D with those in groups A and C tested the effect of the other vitamins. Separate sets of random allocations were used for each centre to ensure that there would be approximately equal numbers of women in each supplementation group at each centre.
+
+The capsules used in the study were prepared by the Boots Company and packaged in 2-week calendar "blister" packs. Women in the trial were asked to take a single capsule each day from the date of randomisation until 12 weeks of pregnancy (estimated from the first day of the last menstrual period). Capsules for those in the folic acid groups contained 4 mg of folic acid--the larger of the two doses used in the previous studies being chosen because a negative result with the lower dose would have left the matter open. Capsules for those in the multivitamin groups contained vitamin A 4000 U, D 400 U, B1 1.5 mg, B2 1.5 mg, B6 1.0 mg, C 40 ma, and nicotinamide 15 ma. The control substance in the capsules was dried ferrous sulphate 120 mg and all-calcium phosphate 240 ma. The potency of the capsules was independently checked every three months by Hoffmann La Roche in Basel, Switzerland. The trial was double-blind, in that neither the doctor nor the patient knew which regimen had been allocated. It was agreed that the groups to which patients were allocated would normally be revealed only at the end of the trial. The randomisation was carried out through the Clinical Trials Service Unit in Oxford.
+
+Women invited to join the trial were given a week to decide if they wished to take part, so that they could consider the matter at leisure and discuss the matter further with others if they wished. All patients were given a printed information leaflet about the trial.
+
+No special advice was specified regarding diet. On entry into the trial, samples of blood and urine were collected and sent to the central trial office in the Department of Environmental and Preventive Medicine at St Bartholomew's Hospital for folic acid analysis, performed by radioimmunoassay( n6) (Amersham International). Patients were then given capsules and requested to attend every three months so that a note could be made of their general health and how many capsules they had taken. Blood and urine samples were collected at each visit for despatch to the trial office laboratory and a further supply of capsules was given. The last visit took place in the 12th week of pregnancy. The outcomes of all completed pregnancies were recorded, including details of any fetal malformation, sex, birthweight, and head circumference. In the event of a termination of pregnancy or miscarriage the fetus was examined if possible. A woman remained in the trial until she had had a pregnancy in which the fetus could be classified as having a neural tube defect or not ("informative pregnancy"). If, for example, she had a miscarriage and the fetus was not examined she remained in the study in the same randomisation group until the end of the trial or until she had an informative pregnancy. In this way each woman contributed no more than one informative event to the study. The final results are based on the outcome of all informative pregnancies. Whenever a neural tube defect (anencephaly, spine bifida cystica, or encephalocele) was reported, independent corroboration was sought, with a necropsy report if one was performed, or a description of the lesion for independent review at the trial centre in London (done without knowledge of the allocated group). To monitor possible toxicity associated with the supplementation, forms were provided for the notification of any medical event arising among the women in the trial irrespective of whether this was thought to be associated with the capsules. The health of each child born into the study was ascertained annually by sending a questionnaire to the mother on the infant's first, second, and third birthday. This part of the study is continuing. The results of the study, available only to the principal investigator, the study administrator, and the data monitoring committee, were reviewed every six months to enable the study to be stopped early if, as indeed occurred, a clear result emerged.
+
+Results
+
+Table I shows the numbers of women randomised and the numbers of informative pregnancies according to centre. Just over half were from outside the UK. All four groups were similar with respect to age and the outcome of previous pregnancies; thus randomisation had ensured that like was being compared with like (table IT). Women in the UK centres were also categorised according to social class as defined by the Registrar General; the proportions in social class distributions were similar in the four groups--for example, the proportions in classes IV and V combined were 25%, 29%, 29%, and 28% in groups A, B, C, and D, respectively. Table III gives the outcome of all pregnancies according to randomisation group and whether or not the pregnancy was informative. The miscarriage rate was similar in the four groups. Most (23/30) of the terminations were performed on account of antenatal diagnosis of a neural tube defect.
+
+Table IV shows the prevalence of neural tube defects in each of the four groups. Among women allocated to the groups receiving folic acid the rate was 1.0% and among those allocated to the other groups it was 3.5%, yielding a relative risk of 0.28 (95% confidence interval 0.12 to 0.71). The relative risk among women allocated to the "other vitamin" groups compared with the remaining groups was 0.80, a result that was not statistically significant (95% CI 0.37-1.72). Table IV also provides data after exclusion of the 164 women who may have been pregnant at the time of randomisation (de, the first day of the last menstrual period occurred less than 14 days after the date of randomisation). The results of these analyses are virtually identical. In table v we give the results after excluding women who reported that they had stopped taking the capsules before their last scheduled visit (an "on-treatment" analysis). The recurrence rate among such women in the folic acid groups of the trial was 0.7% and in the groups without folic acid the recurrence rate was 3 4%, yielding a relative risk of 0.21 (95% CI 0.07-0.62). The relative risk among women allocated to the "other vitamin" groups, excluding those who stopped taking capsules, was 0.93 (95% CI 0.41-2.12). There is no indication that the vitamins other than folic acid conferred any preventive effect nor that they enhanced the effect of folic acid, although the power of the study to detect an interaction is limited. The effect of folic acid on the risk of anencephaly was not significantly different from that on spine bifida/encephalocele (the relative risks were 0.44 [3/593 vs 7/602] and 0.22 [3/332 vs 14/602], respectively), nor did it differ significantly between the UK centres and the other centres (the relative risks were 0.38 [3/261 vs 8/262] and 0.24 [3/332 vs 13/340], respectively).
+
+The trial results were regularly reviewed. The figure shows the results of a sequential analysis up to April 12, 1991, when the data monitoring committee recommended that the trial be stopped--a decision that was endorsed by the steering committee. The difference between the number of neural tube defects in the non-folic-acid groups and in the folic-acid groups is plotted sequentially against the total number of neural tube defects in the trial. The boundaries define the limits for stopping the trial early at values calculated to give 75% power to detect a halving in the relative risk (at p = 0.05). It can be seen that the boundary was crossed after the 27th case. This sequential analysis was used as a guide, in the decision whether to terminate the trial, rather than as an absolute indication.
+
+The observed relative risk estimate of the effect of folic acid supplementation will tend to be exaggerated, since the trial was stopped early because of the results. An estimate of the relative risk allowing for early stopping,( n7) itself an approximation that is influenced by the exact choice of the boundaries in the figure, was 0.33 (p=0.013, 95% CI 0.06 -0.80)--close to the directly observed estimate of 0.28. The use of alternative reasonable boundaries yields similar results. Early stopping has not, therefore, distorted our measure of effect to any material extent.
+
+Possible adverse effects of folic acid to the fetus and the mother were examined. Table VI shows the number of reported congenital abnormalities other than neural tube defects (together with any reported details) according to randomisation group. The details of the abnormalities are as notified, irrespective of severity. There were more reports in the vitamin groups, but this excess could readily have arisen by chance. In addition two of the disorders in the vitamin groups were inherited single gene defects--Adams-Oliver syndrome (autosomal dominant) and lethal multiple pterygium syndrome (autosomal recessive). Examination of the individual disorders did not reveal any excess that provides grounds for concern. The mean birthweights and head circumferences of infants with notified abnormalities born in the study were similar in all four randomisation groups (3387,3376,3344,and 3382 g and 34.2, 34.1, 34 ., and 34.1 cm, respectively in groups A, B, C, and D). Among all women randomised the mean number of women reporting a medical disorder (typically non-specific ailments such as infertility, irregular menses, vomiting in pregnancy, upper respiratory illness) was similar in all four groups ( 16, 15, 11,and 19% respectively) with no single medical problem giving rise to particular concern.
+
+7% of women who had informative pregnancies stopped taking their capsules before they became pregnant, usually because they lost interest in participating in the trial; among the remaining women, 95 4% took 80% or more of their assigned capsules, 3.8% took 50-79%, and 0.8% took less than 50%, as judged by capsule counts at their quarterly visits. Table VII shows the 10th, 50th, and 90th percentile of serum folate concentrations according to randomisation group. The samples were taken at the visit immediately before they became pregnant (median interval between this visit and the first day of the last menstrual period was 7 days). The concentrations were substantially higher in the women allocated to folic acid than in those who were not (even at the 10th centile) while those in the groups without folic acid were not materially different from the baseline concentrations at the time of randomisation. The red cell folate results were similar. Compliance, therefore, was good.
+
+Discussion
+
+Our results show that folic acid supplementation can prevent neural tube defects. The relative risk estimate for the women allocated to take folic acid was 0 28 compared with the control groups--that is, 72% of neural tube defects were prevented (95% CI 29% to 88%). The result is unlikely to be due to chance and the randomised double-blind design excludes bias as an explanation. The results also demonstrate that it is folic acid, rather than any of the other vitamins, that is responsible for the preventive effect.
+
+We can be confident about the reliability of the diagnoses of neural tube defects in the trial. In the 27 cases recorded, 23 of the women had a termination of pregnancy and 4 had live births. Of these 4, in 2 cases the mothers were known to have declined termination and in 2 the reason was not known; 2 of the 4 survived. 18 of the 25 dead cases were confirmed by necropsy reports and in the remaining 7 descriptions confirmed the diagnosis. The diagnosis was unbiased with respect to randomisation group, since this was not known to the local participants.
+
+6 women allocated to folic acid had neural tube defect pregnancies. Their serum folic acid concentrations ( 22,36,38,118,186,194ng/ml) were not unusually low for supplemented women. Lack of compliance with the regimen, or failure of folic acid absorption, is unlikely to be an explanation for these failures of prevention.
+
+Results have been reported from two other randomised trials--the South Wales trial( n4) referred to earlier, and more recently an interim analysis from a study performed in Budapest in which a multivitamin capsule containing 0 8 mg of folic acid was given daily to unselected women instead of women with a previous neural tube defect pregnancy.( n8) In the first the recurrence rate was 2/60 in the folic acid group compared with 4/51 in the controls, and in the second the occurrence rates were 0/599 and 3/703, respectively. Both results suggested an effect but were inconclusive. Six observational studies of dietary folate or the use of folic acid and other vitamin supplements and neural tube defects have been published( n9-n14) and one recent non-randomised folic acid supplementation study.( n15) All but one showed an association but all may have suffered from the selection bias outlined above, and none could specifically identify folic acid as the responsible vitamin.
+
+The non-randomised intervention study reported by Smithells and his colleagues yielded a sevenfold ratio in risk between supplemented and unsupplemented women,( n3, n16) compared with our threefold ratio. A likely explanation for this difference is that the result from the non-randomised study reflects a combination of vitamin prophylaxis and selection bias, while our randomised trial reflects the prophylactic effect alone. However, the size of the studies is too small to exclude chance as a possible explanation.
+
+Our trial was conducted among women who had had one or more neural tube defect pregnancies because of their higher risk of a recurrence, about ten times the general risk. There is, however, no reason to believe that the preventive effect of folic acid is restricted to this group. If additional folic acid can prevent a second neural tube defect pregnancy it is also likely to prevent a first one. It is implausible that serial occurrences of the same event have separate causes. Each woman who has had a recurrent neural tube defect pregnancy must have had a first; it is extremely unlikely that a method of preventing the second will not also tend to prevent the first, though the quantitative effect may be different in women having recurrences from that in women in general. If women who have already had an affected infant were genetically more susceptible to having affected pregnancies clan women in general, the relative effect of an environmental cause such as a lack of folic acid would, in expectation, be the same in causing first cases as in causing subsequent ones if the effects of the environmental and genetic factors combine as the product of the two alone. It would be an underestimate if they combined additively. Insofar as the former is the more likely model, our result will be an unbiased estimate of the effect in the general population; if it were the latter, it would be conservative. If the genetic factor relied exclusively on a relative lack of folic acid to express the defect but otherwise folic acid had no role in the causation of neural tube defects, the effect would be greater in preventing recurrences than in preventing first cases. It is, however, a less likely model and one that does not explain the results of observational studies of folic acid intake and neural tube defects among women in the general population.( n10, n11, n13, n14) Prophylaxis may, in practice, be lower in general because a smaller proportion of women who have not had an affected pregnancy may take folic acid supplements than women seeking to avoid a recurrence.
+
+Women at high risk, having already experienced an affected pregnancy, have more to gain from supplementation clan women at low risk, so a risk of toxicity that is acceptable in the former may be less acceptable in the latter. We recognise that a trial such as our own that has sufficient statistical power to demonstrate efficacy usually has insufficient power to answer the question of safety for public health purposes. A judgment on safety needs to be taken on wider grounds. Folic acid is water soluble and readily excreted, and is not known to be toxic. Over 95% of pregnancies with neural tube defects occur in women without a previous affected pregnancy and this, taken with the fact that there is now a proven benefit, argues for increasing the intake of folic acid among all women who wish to become pregnant, not only those at high risk.
+
+There remains the question of the dose of folic acid. If a 4 mg per day supplement is effective, a lower dose (for example, 0 36 mg per day as used by Smithells and his colleagues( n3)) is also likely to be effective, though possibly less so. A very large trial would be needed to estimate the relative efficacy of the two doses.
+
+One reason for questioning the view that a relative lack of folic acid is a major cause of neural tube defects has been the observation that the United Kingdom has had one of the highest rates of neural tube defects in the world but was unlikely to be unusually deficient in folic acid. Either the UK does, in fact, have a lower folic acid intake than other countries, perhaps partly through losses in cooking, or the conjugates of folic acid in foods typically eaten in the UK may be relatively poorly absorbed, or there are other dietary factors that interfere with its absorption or metabolism, or there is an interaction with a genetically controlled disturbance of folic acid metabolism.
+
+Another reason to question the efficacy of folic acid is the fact that individual studies have not shown a significant difference in the serum folic acid concentrations of women with affected and unaffected pregnancies; differences in red cell folate levels have been found but they have not been very large.( n17-n21) It is possible that the range of values of blood folic acid levels among women in most populations is too narrow for such differencies (if present) to be readily demonstrable. The position would then be analogous to examining the mean difference in number of cigarettes between lung cancer cases and controls in a study of smoking and lung cancer among individuals who all smoke between 15 and 20 cigarettes a day. The mean difference would be extremely small, and not discernible except in very large studies. The lack of a clear association between serum folate levels and neural tube defects and only a modest difference in red cell folate levels is not, therefore, inconsistent with the protective effect of folic acid supplementation.
+
+Folic acid supplementation can now be recommended for all women who have had a previously affected pregnancy, and public health measures should be taken to ensure that all women of childbearing age receive adequate dietary folic acid. The demonstration that folic acid is the effective agent avoids the need to use a mixture of vitamins with the associated extra costs and concern over possible toxicity (eg, from vitamin A). It is less clear whether all women planning a pregnancy should take folic acid supplements. The case rests upon questions of safety and cost. In any event, community-wide prevention may be difficult to achieve by providing supplements to everyone and consideration should be given to extending the fortification of staple foods with folic acid.
+
+This study has established the specific role of folic acid in the prevention of neural tube defects. It has produced a clear answer to an important medical question on which opinion and practice have been divided. The trial has resolved the uncertainty and has provided a basis for concerted preventive practice.
+
+TABLE I--NUMBER OF WOMEN RANDOMISED AND NUMBER WITH FORMATIVE PREGNANCIES ACCORDING TO CENTRE
+                                No of women      Informative
+Centre                          randomised      pregnancies[*]
+
+UK
+
+Glasgow                             383               287
+Cardiff                              64                40
+St Bartholomew's Hospital            61                46
+Newcastle                            54                28
+Oxford                               49                38
+Edinburgh                            32                19
+Queen Charlotte's                    25                21
+Sheffield                            15                 7
+Dundee                               13                 8
+East Birmingham                      11                 9
+The London Hospital                  10                 9
+Southampton                           5                 5
+St George's Hospital                  5                 3
+University College Hospital           3                 3
+Aberdeen                              3                 0
+Ashton-under-Lyne                     1                 0
+Leicester                             1                 0
+
+Total UK                            735               523
+
+Hungary
+
+Budapest                            284               201
+Debrecen                            149                86
+Miskolc                             111                65
+Pecs                                 88                56
+Szombathely                          62                47
+Szeged                               54                66
+Gyor                                 21                 2
+
+Israel                              140               107
+
+Australia
+
+Adelaide                             31                19
+Melbourne                            24                 8
+Sydney                               20                14
+
+Canada
+
+Hamilton                             23                19
+Halifax                              10                 2
+Vancouver                             8                 8
+
+USSR, Moscow                         53                 5
+
+France, Lyon                          4                 0
+
+Total non-UK                       1082               672
+
+Grand total                        1817              1195
+
+[*] An informative pregnancy was one in which the fetus
+or infant was known to have or not have a neural
+tube defect by the time the trial was stopped.
+
+TABLE II--MEAN AGE, MEAN NUMBER OF PREVIOUS BIRTHS, AND MEAN NUMBER OF PREVIOUS NEURAL TUBE DEFECT PREGNANCIES AMONG ALL WOMEN RANDOMISED ACCORDING TO RANDOMISATION GROUP
+Legend for table:
+
+A = Folic acid
+B = Other vitamins
+C = No. of women
+D = Mean age (yr)
+E = Total births
+F = Livebirths
+G = Miscarriages and other intrauterine deaths[*]
+H = Terminations of pregnancy
+I = Mean no of previous NTD pregnancies
+
+Randomisation                   In previous pregnancies,
+group                                mean no of:
+
+      A    B      C      D      E        F     G      H       I
+
+A     +    -     449    27.0   2.05    0.88   0.43   0.74   1.03
+B     +    +     461    27.4   2.12    0.94   0.48   0.70   1.04
+C     -    -     454    26.8   2.05    0.91   0.43   0.71   1.01
+D     -    +     453    26.5   1.88    0.81   0.39   0.68   1.01
+
+[*] Including ectopic pregnancies.
+
+TABLE III-OUTCOME OF ALL PREGNANCIES ACCORDING TO RANDOMISATION GROUP AND WHETHER THE PREGNANCY WAS INFORMATIVE
+Legend for table:
+
+A = Folic Acid
+B = Other vitamins
+C = No of women randomised
+D = Miscarriage
+E = Ectopic pregnancy
+F = Termination of pregnancy
+G = Total
+H = Livebirth
+I = Miscarriage
+J = Stillbirth
+K = Termination of pregnancy
+
+                            Number of completed
+                                 pregnancies
+
+Randomisation                 Not Informative
+ group
+         A    B      C      D      E    F     G
+
+A        +    -     449     39     1    0     40
+B        +    +     461     41     3    0     44
+C        -    -     454     41     4    1     46
+D        -    +     453     33     2    2     37
+
+Total              1817    154    10    3    167
+
+                      Number of completed
+                          pregnancies
+
+Randomisation             Informative
+ group
+                   H       I     J      K     Total
+
+A                 290      3     2      3      298
+B                 285      4     2      4      295
+C                 283      3     3     11      300
+D                 287      6     0      9      302
+
+Total            1145     16     7     27     1195
+
+TABLE IV--PREVALENCE OF NEURAL TUBE DEFECTS (NTD) ACCORDING TO RANDOMISED WHO HAD AN INFORMATIVE PREGNANCY CLASSIFIED ACCORDING TO RANDOMISATION GROUP (INTENTION-TO-TREAT ANALYSIS)
+Legend for table:
+
+A = Folic acid
+B = Other vitamins
+C = NTD/all
+D = Relative risk: folic acid vs non-folic acid (95% CI)
+
+                                 All women
+
+Randomisation
+ group
+      A    B               C                 D
+
+A     +    -     2/298}  6/593 (1.0%)} 0.28 (0.12-0.71)
+B     +    +     4/295}  6/593 (1.0%)} 0.28 (0.12-0.71)
+C     -    -    13/300} 21/602 (3.5%)} 0.28 (0.12-0.71)
+D     -    +     8/302} 21/602 (3.5%)} 0.28 (0.12-0.71)
+
+                      Women not already pregnant at
+                            randomisation[*]
+
+Randomisation
+ group
+                             C                 D
+
+A                 2/258}  5/514 (1.0%)} 0.28 (0.11-0.75)
+B                 3/256}  5/514 (1.0%)} 0.28 (0.11-0.75)
+C                11/260} 18/517 (3.5%)} 0.28 (0.11-0.75)
+D                 7/257} 18/517 (3.5%)} 0.28 (0.11-0.75)
+
+[*] First day of last menstrual period was 14 days or more
+after date of randomisation.
+
+TABLE V--PREVALENCE OF NEURAL TUBE DEFECTS ACCORDING TO RANDOMISATION GROUP AMONG WOMEN WITH INFORMATIVE PREGNANCIES: SUBORDINATE ANALYSIS EXCLUDING WOMEN STOPPED TAKING CAPSULES (ON-TREATMENT ANALYSIS)
+Legend for table:
+
+A = Folic acid
+B = Other vitamins
+C = NTD/all
+D = Relative risk: folic acid vs non-folic acid (95% CI)
+
+                                 All women
+
+Randomisation
+ group
+      A    B               C                 D
+
+A     +    -     1/280}  4/558 (0.7%)} 0.21 (0.07-0.62)
+B     +    +     3/278}  4/558 (0.7%)} 0.21 (0.07-0.62)
+C     -    -    11/281} 19/558 (3.4%)} 0.21 (0.07-0.62)
+D     -    +     8/277} 19/558 (3.4%)} 0.21 (0.07-0.62)
+
+                      Women not already pregnant at
+                            randomisation[*]
+
+Randomisation
+ group
+                             C                 D
+
+A                 1/242}  3/483 (0.6%)} 0.17 (0.05-0.59)
+B                 2/241}  3/483 (0.6%)} 0.17 (0.05-0.59)
+C                10/243} 17/477 (3.6%)} 0.17 (0.05-0.59)
+D                 7/234} 17/477 (3.6%)} 0.17 (0.05-0.59)
+
+[*] First day of last menstrual period was 14 days or more
+after date of randomisation.
+
+TABLE VI--INFORMATIVE PREGNANCIES: ABNORMALITIES OTHER THAN NEURAL TUBE DEFECTS ACCORDING TO RANDOMISATION GROUP
+    Randomisation
+                                         No with abnormal
+        Folic    Other        Total       outcomes other
+        acid     vitamins    non-NTD         than NTD
+
+A        +          -           296              7
+B        +          +           291             12
+C        -          -           287              5
+D        -          +           294              8
+
+Total                          1168             32
+
+         All reported abnormalities as notified
+         (T = termination of pregnancy; M = miscarriage)
+
+A        Agenesis of corpus callosum and hydrocephalus
+         (T); Down's syndrome; tetralogy of Fallot;
+         severe asphyxia with low birthweight and
+         cleft palate; pes varus; intrauterine
+         growth retardation; polydactyly
+
+B        Lethal multiple pterygium syndrome (M); trisomy
+         15 (M); Adams-Oliver syndrome; Turner's
+         syndrome (T); talipes; hypospadias; pyloric
+         stenosis; dislocatable hips; persistent
+         fetal circulation; pectus excavatum; purple
+         birthmark/lump between eyes; unexplained
+         neutropenia
+
+C        Partial deletion chromosome 18 (M); Down's
+         syndrome; bilateral talipes (2); cardiac
+         murmur
+
+D        Hydropic fetus with cervical cystic lymphangioma,
+         complex cardiac malformation, and ganglioneuroblastic
+         hamartoma of adrenals; hydropic fetus and cervical
+         hygroma (T); Klinefelter's syndrome (T); congenital
+         nystagmus and dilated ventricles; arthrogryposis;
+         pes equinovarus; mongolian blue spot; skin
+         tag at base of spine
+
+Total    --
+
+TABLE VII--SERUM FOLIC ACID CONCENTRATIONS AT LAST VISIT BEFORE BECOMING PREGNANT ACCORDING TO RANDOMISATION GROUP AMONG WOMEN WITH INFORMATIVE PREGNANCIES
+Randomisation                       Serum folic acid (ng/ml)
+
+    Folic    Other                  10th      50th      90th
+    acid     vitamins    No[*]     centile   centile   centile
+
+A    +         -       277  538    21  23    44  44    187  194
+B    +         +       261  538    25  23    46  44    204  194
+C    -         -       267  541     3   3     5   5     10    9
+D    -         +       274  541     3   3     5   5      9    9
+
+[*] Number tested was less than number of informative
+pregnancies because women became pregnant the first-three
+monthly visit (64) or because a blood sample was not taken at
+the last visit before becoming pregnant (52).
+
+GRAPH: Sequential analysis. showing cumulative difference between number of neural tube defects (NTDs) in the folic acid and non-folic-acid groups plotted against total number of NTDs.
+
+The boundaries of the diagram define the stopping points of the study. 8Upper and lower boundaries of the figure were constructed by use of approximation that number of events in the folic acid groups minus number in the groups without folic acid follows a gaussian distribution with mean N( 1- r)/(1 + r) and variance N, where r is the relative risk and N is the total number of neural tube defects in the study.( n22) By taking the parameters of this gaussian distribution, equations given by Armitage( n23) can be used to specify the upper and lower boundaries of the figure.
+
+Steering committee
+
+John Burn, Malcolm Ferguson-Smith, Edmund Hey, Paul Polani, Charles Rodeck, Geoffrey Rose (chairman), Nicholas Wald (study coordinator and principal investigator), and J. Modle and M. Hennigan (departments of health observers).
+
+Data monitoring committee
+
+Eva Alberman, Peter Armitage (chairman), and Geoffrey Chamberlain.
+
+Trial office
+
+Administration: Joan Sneddon, Karen Fordham (formerly Alison Bickmore and Patricia Collins). Computing: James Densem. Statistics: Chris Frost. Laboratory analysis: Rossana Stone, Stephanie Collishaw (formerly Robert Barlow and Christine Jones).
+
+Participating centres
+
+Representatives in the United Kingdom were: M. Hall, D. Campbell, and P. Terry (Aberdeen); W. Goldthorp (Ashton-under-Lyne); B. Hibbard, K. M. Laurence, E. M. Williams, E. Jones, and C. Morgan (Cardiff); D. Taylor (Dundee); M. Hulten and B. Baverstock (East (Birmingham); J. A. Raeburn A. Lowie (Edinburgh); M. Connor, M. A. Ferguson-Smith, Sir Malcolm Macnaughton, and M. White (Glasgow); C. R. Stewart (Leicester); J. G. Grudzinskas and R. Hamer (The London Hospital); J. Bum, A. Hill, and D. Gibson (Newcastle-upon-Tyne); the late Sir Alec Tumbull, D. Barlow, N. Wald, and Nancy Wald (Oxford); C. Rodeck and L. Abramsky (Queen Charlotte's Hospital, London); I. D. Cooke, R. B. Fraser, and H. King (Sheffield); J. F. Miller (Southampton); T. Chard, N. Wald, and R. Hamer (St Bartholomew's Hospital, London); M. Pearce (St George's Hospital, London); and M. Lucas and H. Ward (University College Hospital, London).
+
+Representatives outside the UK were: E. F. Robertson (Adelaide, Australia); B. Field (Sydney, Australia); L. Sheffield and T. Colgan (Melbourne, Australia); E. Winsor and C. Veinot (Halifax, Canada); R. G. Davidson, S. Epstein, D. Whelan, and S. Steele (Hamilton, Canada); J. G. Hall and B. Keena (Vancouver, Canada); S. Guibaud and E. Robert (Lyon France); A. Czeizel and L. Timar (Budapest, Hungary); Z. Papp and O. Torok (Debrecen, Hungary); S. Gardo and K. Bajnoczky (Gyor, Hungary); H. Kovacs, A. Harsanyi and M. Garvai (Miskolc, Hungary); B. Pejtsik (Pecs, Hungary); G. Szemere (Szeged, Hungary); L. Szabo (Szombathely, Hungary); G. Barkai and J. Shmueli (Israel); and E. Lillyn and O. Gerasimova (Moscow, USSR).
+
+We thank all the women who participated in the study; Sir James Gowans, past Secretary of the Medical Research Council, for his personal involvement in judging the need for the trial and his commitment to it once the case of need was clear; and Prof John Davis, chairman of the steering committee for the first year of the study and Prof Ian Cooke, member of the steering committee until 1989. The capsules used in this trial were provided free of charge by the Boots Company plc and we are indebted to the Medical Director of the company, Dr Mervyn Busson, and his colleagues for their help and unstinting support during the course of this trial. We thank Hoffmann La Roche, and in particular Dr Richard Salkeld and Dr R. E. Wacheberger, for carrying out independent quality control checks on the potency of the capsule constituents without charge; Margaretha White-van Mourik for her contribution to the recruitment of women into the trial in Scotland, the Association for Spina Bifida and Hydrocephalus, particularly its past Executive Director, Moyna Gilbertson, for its continuing assistance and cooperation; the staff of the Clinical Trials Service Unit in Oxford for providing the randomisation service; Malcolm Law and Leo Kinlen for their helpful criticisms and comments; and Jan Clarke for typing the manuscript. The trial was supported financially by the Medical Research Council.
+
+[*] This report was prepared by Nicholas Wald, with assistance from Joan Sneddon, James Densem, Christopher Frost, and Rossana Stone. For membership of steering committee, data monitoring committee, trial office staff, and representation of participating centres, see end of paper Correspondence to Prof Nicholas Wald, Department of Environmental and Preventive Medicine, Medical College of St Bartholomew's Hospital, Charterhouse Square, London EC1M 6BQ, UK.
+
+REFERENCES
+
+(n1.) Hibbard BM. The rote of folic and in pregnancy with particular reference to anaemia, abruption and abortion. J Obstet Gynaecol Br Commomw 1964; 71:529 42.
+
+(n2.) Hibbard ED, Smithells RW. Folic acid metabolism and human embryopathy. Lancet 1965; i: 1254.
+
+(n3.) Smithells RW, Shephard S, Schorah CJ, et al. Possible prevention of neural-tube defects by periconceptional vitamin supplementation. Lancet 1980; i: 339-40.
+
+(n4.) Laurence KM, James N, Miller MH, Tennant GB, Campbell H. Double-blind randomised controlled trial of folate treatment before conception to prevent recurrence of neural-tube defects. Br Med J 1981; 282: 1509-11.
+
+(n5.) Wald NJ, Polani PE. Neural-tube defects and vitamins: the need for a randomized clinical teal. Br J Obstet Gynaecol 1984; 91:516 23.
+
+(n6.) Longo D, Herbert V. Radioassay for serum and red cell folate. Lab Clin Med 1976; 87: 138-51. 51.
+
+(n7.) Whitehead J, Brunier H. Planning and evaluation of sequential trials. Manual to software package PEST 2.0, University of Reading, 1989.
+
+(n8.) Czeizel A, Fritz G. Ethics of a randomized trial of periconceptual vitamins. J AMA 1989; 262; 1633 34.
+
+(n9.) Laurence KM, James N, Miller MH, Tennant GB, Campbell H. Increased risk of recurrence of pregnancies complicated by fetal neural tube defects in mothers receiving poor diets, and possible benefit of dietary counselling. Br Med J 1980; 281: 1592-94.
+
+(n10.) Winship KA, Cahal DA, Weber JCP, Griffin JP. Maternal drug histories and central nervous system anomalies. Arch Dis Child 1984; 59: 1052-60.
+
+(n11.) Mulinare J, Cordero JF, Erickson D, Berry RJ. Periconceptional use of multivitamins and the occurrence of neural tube defects. J AMA 1988; 260:3141 45.
+
+(n12.) Mills JL, Rhoads GG, Simpson JL, et al. The National Institute of Child Health and Human Development Neural Tube Defect Study Group. The absence of a relation between the periconceptional use of vitamins end neural-rube defects. N Engl J Med 1989; 321: 430-35.
+
+(n13.) Bower C, Stanley FJ. Dietary folate as a risk factor for neural-tube defects: evidence from a case-control study in Western Australia. Med J Aust 1989;150: 613-18.
+
+(n14.) Milunsky A, Jick H, Jick SS, et al. Multivitamin/folic acid supplementation in early pregnancy reduces the prevalence of neural tube defects. J AMA 1989, 262: 2847-52.
+
+(n15.) Vergel RG, Sanchez LR, Heredero BL, Rodriguez PL, Martinez AJ. Primary prevention of neural tube defects with folic acid supplementation: Cuban experience. Prenat Diagn 1990,10: 149-52.
+
+(n16.) Smithells RW, Seller MJ, Harris R, et al. Further experience of vitamin supplementation for prevention of neural tube defect recurrences Lancet 1983; i: 1027-31.
+
+(n17.) Emery AEH, Timson J, Watson-Williams EJ. Pathogenesis of spina bifida. Lancet 1969, ii: 909-10.
+
+(n18.) Smithells RW, Sheppard S, Schorah CJ. Vitamin deficiencies and neural tube defects. Arch Dis Child 1976; 51: 944-49.
+
+(n19.) Hall MH. Folates and the fetus. Lancet 1977; i: 648 49.
+
+(n20.) Molloy AM, Kirke P, Hillary I, Weir DG, Scott JM. Maternal serum folate and vitamin B, concentrations in pregnancies associated with neural tube defects. Arch Dis Child 1985 60: 660-65.
+
+(n21.) Yates JRW, Ferguson-Smith MA, Shenkin A, Guzman-Rodriguez R, White M, Clark BJ. Is disordered folate metabolism the basis for the genetic predisposition to neural tube defects? Clin Genet 1987, 31: 279 87.
+
+(n22.) Whitehead J. The design and analysis of sequential clinical trials. Chichester: Ellis Horwood, 1983.
+
+(n23.) Armitage P. Restricted sequential procedures. Biometrika 1957; 44: 9-26.
+
+Copyright of Lancet is the property of Lancet and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+
+The link information above provides a persistent link to the article you've requested.
+
+Persistent link to this record: Following the link above will bring you to the start of the article or citation.
+
+Cut and Paste: To place article links in an external web document, simply copy and paste the HTML above, starting with "<A HREF"
+
+If you have any problems or questions, contact Technical Support at http://support.epnet.com/contact/askus.php or call 800-758-5995.
+
+This e-mail was generated by a user of EBSCOhost who gained access via the SAN JOSE STATE UNIV account. Neither EBSCO nor SAN JOSE STATE UNIV is responsible for the content of this e-mail.
+
+LINKS
+http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=9108192209&site=ehost-live
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib1
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib2
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib3
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib4
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib5
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib6
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib7
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib16
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib15
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib11
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib22
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib8
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib9
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib10
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib13
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib14
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib17
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib23
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#toc
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib1up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib2up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib3up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib4up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib5up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib6up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib7up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib8up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib9up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib10up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib11up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib12up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib13up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib14up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib15up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib16up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib17up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib18up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib19up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib20up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib21up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib22up
+http://us.f600.mail.yahoo.com/dc/launch?action=welcome&YY=2066589312&.rand=49kgcr3h07v49#bib23up
+http://support.epnet.com/contact/askus.php
+end https://www.sjsu.edu/faculty/gerstman/hs261/Lancet1991-338-8760-131-137.htm
+
+FULL TEXT FOR URL https://www.sjsu.edu/faculty/gerstman/hs261/Lancet1991-338-8760-131-137.htm SAVED TO ./.webcats/https-www-sjsu-edu-facult-1991-338-8760-131-137-htm-4949646.txt
+About us
+All journals
+All articles
+Submit manuscript
+Submit data
+Search
+Login
+Frontiers in Nutrition
+Sections
+Articles
+Research Topics
+Editorial board
+About journal
+Published in
+
+Frontiers in Nutrition
+
+Nutrition and Metabolism
+5.5 impact factor
+9.6 citescore
+Editor & Reviewers
+
+Edited by
+
+K
+N
+
+Kenji Nagao
+
+Reviewed by
+
+D
+F
+
+Dorota Formanowicz
+
+A
+J
+
+Amanda J. MacFarlane
+
+Outline
+
+Abstract
+
+1 Introduction
+
+2 Materials and methods
+
+3 Results
+
+4 Discussion
+
+Statements
+
+References
+
+Figures and Tables
+
+Figure 1
+
+View in article
+
+Table 1
+
+Participant demographics.
+
+View in article
+
+Table 2
+
+Folate intake of study participants.
+
+View in article
+
+Table 3
+
+Maternal serum folate metabolites.
+
+View in article
+
+Table 4
+
+Folate levels in participants with different MTHFR C677T genotypes.
+
+View in article
+
+Table 5
+
+Placenta and cord blood folate metabolite and DNA methylation levels.
+
+View in article
+CLINICAL TRIAL article
+
+Front. Nutr., 25 March 2026
+
+Sec. Nutrition and Metabolism
+
+Volume 13 - 2026 | https://doi.org/10.3389/fnut.2026.1679067
+
+Using 6S-5-methyltetrahydrofolate instead of folic acid in prenatal multivitamin reduces unmetabolized folic acid concentrations in the mother-fetus dyad: a 24-week randomized controlled trial
+F
+D
+
+Fulvia Draicchio 1
+
+J
+H
+
+Jeanette Hausser 1
+
+M
+S
+
+Mastaneh Sharafi 2
+
+A
+G
+
+Adeline Grier-Welch 2
+
+A
+V
+
+Arianne Vance 2
+
+N
+A
+
+Nima Alamdari 2
+
+I
+D
+
+Itamar D. Futterman 3
+
+S
+C
+
+Scott Chudnoff 3
+
+O
+M
+
+Olga Malysheva4
+
+M
+A
+
+Marie A. Caudill4
+
+I
+H
+
+Isabelle Hanson1
+
++3 more
+X
+J
+
+Xinyin Jiang 1*
+
+1. Department of Health and Nutrition Sciences, Brooklyn College of the City University of New York, Brooklyn, NY, United States
+
+2. Ritual, Los Angeles, CA, United States
+
+See more
+Abstract
+
+A growing number of prenatal multivitamin (MVI) products use 5-methyltetrahydrofolate (5-MTHF) in place of the synthetic folic acid (FA), because FA needs to be reduced to 5-MTHF for use in cellular methylation reactions and excess FA consumption can increase unmetabolized FA (UMFA) concentrations in circulation. However, the efficacy of 5-MTHF supplementation on maintaining maternal and fetal folate status in comparison to FA has not been sufficiently investigated. This study examined whether using 6S-5-MTHF instead of FA in a prenatal MVI affected total folate and UMFA status in maternal and fetal tissues. Eighty first-trimester pregnant participants were randomized to receive either a prenatal MVI containing 1,000 μg DFE of 6S-5-MTHF (MTHF-MVI group) or 1,330 μg DFE of FA (FA-MVI group) for 24 weeks (n = 40/group) beginning at their second trimester. Fasting blood samples were collected at week 0, 12, and 24 of the study whereas cord blood and placental samples were collected at delivery. Thirty-one participants in each group completed the study. By week 24 of the study, 5-MTHF and total folate concentrations in maternal and cord serum and the placenta did not differ between groups. There were significantly fewer participants (7% vs. 31%) with detectable UMFA and lower average UMFA concentrations in maternal blood of the MTHF-MVI group vs. the FA-MVI group (p < 0.01). UMFA concentrations in the placenta were lower in the MTHF-MVI group than the FA-MVI group (p < 0.01). Few cord blood samples (n = 2) contained detectable UMFA and both were from the FA-MVI group. In conclusion, during the second and third trimesters of pregnancy, prenatal MVIs providing 6S-5-MTHF may be an efficacious alternative to FA to maintain total folate status while reducing UMFA concentrations in maternal and fetal compartments. More research is needed to delineate the influence of different folate forms on fetal health and developmental outcomes.
+
+Clinical trial registration: 
+
+ClinicalTrials.gov, identifier: NCT05673070.
+
+1 Introduction
+
+Folate is a water-soluble B vitamin naturally found in a wide range of foods, particularly in dark green leafy vegetables, fruits and their juices, beans, nuts, grains, eggs, seafood, and grains. A series of randomized controlled trials (RCTs) have consistently demonstrated that folic acid (FA) supplementation during the periconceptional period can reduce the risk of neural tube defects (NTDs) of fetuses (1). As a result, mandatory FA fortification in enriched cereal grain products was implemented in the United States in 1998 and continues to the present day (2). FA is the synthetic, oxidized form of folate, which is metabolically inactive. For FA to be used in biological processes, it must be reduced by dihydrofolate reductase (DHFR) sequentially to form tetrahydrofolate (THF). THF can then be converted to different forms of folate such as 5, 10-methylene-THF, 10-formyl-THF, and 5-methyltetrahydrofolate (5-MTHF), and participate in nucleotide synthesis and the methionine cycle for methyl group transfer reactions (3).
+
+FA supplementation as low as 200 μg in combination with normal intake of foods fortified with FA has been found to cause increases in unmetabolized folic acid (UMFA) in the blood. Further, some animal and in vitro studies indicate that high UMFA status may inhibit folate metabolizing enzymes such as DHFR and methyltetrahydrofolate reductase (MTHFR) (4, 5). However, the clinical implications of UMFA elevation in humans remain unclear (6–8).
+
+It is recommended that women capable of becoming pregnant or who are pregnant consume 400 μg of FA per day to reduce the risk of NTDs (1). However, the benefits of FA supplementation throughout the remainder of pregnancy beyond neural tube closure (which typically occurs around day 28 of gestation), remain less well understood (9). Specifically, questions remain regarding the necessity of continued high FA intake later in pregnancy, particularly in FA-fortified populations where cumulative intake may be excessive.
+
+Studies that examine how supplementation of other forms of folate, such as 5-MTHF, during mid and late pregnancy influences maternal and fetal folate status and health outcomes are limited. Nevertheless, there are an increasing number of prenatal multivitamin mineral (MVI) supplements on the market that use the metabolically active 5-MTHF form of folate instead of FA, representing the growing interest in these products among both women trying to conceive and those who are pregnant (10). The gap in knowledge regarding the safety and comparative effectiveness of taking supplements containing different forms of folate for the mother-fetus dyad is apparent. Pharmacokinetic studies demonstrate that the bioavailability of 5-MTHF may be slightly higher than FA initially, yet this difference may disappear after a few days of supplementation. Additionally, the response may vary among different populations (11–13). A 2024 RCT demonstrated that pregnant women receiving 625 μg of either 5-MTHF (n = 30) or FA (n = 30) as a supplement daily for 16 weeks showed no difference in their red blood cell or serum folate status (14). However, how placental and fetal folate status may be affected by different forms of folate in prenatal MVI supplements remains largely unknown.
+
+Given the unresolved questions regarding the health impact of folate forms during preconception and pregnancy, RCTs are necessary to clarify how these differing folate forms influence the folate status of the mother-fetus dyad, especially considering possible interaction with other nutrients in a prenatal MVI. Therefore, the current study aimed to compare the differential effects of using a prenatal MVI containing 5-MTHF vs. FA on maternal and fetal folate status, UMFA concentrations, and DNA methylation beyond the first trimester of pregnancy.
+
+2 Materials and methods
+2.1 Study population and study procedures
+
+The study was a 24-week double-blind RCT. Pregnant individuals (n = 80) who received prenatal care at the Maimonides Medical Center in Brooklyn, NY, USA were recruited to participate in the study from October 2023 to October 2024. Inclusion criteria included English-speaking, over 18 years of age, gestational age between 12 and 16 weeks, and singleton pregnancy. Exclusion criteria were chronic illnesses including diabetes, cardiovascular conditions including hypercholesterolemia and hypertension that required medical treatment, kidney disease, and liver disease. Using simple randomization, participants were assigned to either take a prenatal multivitamin (Essential for Women Prenatal Multivitamin, Ritual, USA) providing 1,000 μg dietary folate equivalents (DFE) of 6S-5-MTHF (approximately 588 μg of 6S-5-MTHF based on a conversion factor of 1.7) per serving (n = 40) (MTHF-MVI group) or a standard control prenatal multivitamin, which provided 800 μg of FA (approximately 1,330 μg DFE) (n = 40) (FA-MVI group). While the two MVIs did not contain equivalent amounts of folate, they were matched as closely as possible using commercially available options in order to mimic the real-world circumstances facing pregnant individuals. It should be noted that the two MVIs had other differences in composition, such as the content of other B vitamins, choline, and vitamin D, which are detailed in Supplementary Table 1. Participants took their assigned MVI daily for 24 weeks during the second and third trimesters of pregnancy.
+
+At enrollment, each participant completed a baseline questionnaire which included demographic and medical information. Three 24-h dietary recalls, two on weekdays and one on a weekend day, were obtained from each participant by a trained research assistant via phone following the baseline visit (15). In addition to dietary recalls, blood samples were collected at baseline, and at study weeks 12 and 24, corresponding to gestational weeks 24 and 36, respectively. Prior to study visits, participants were instructed to fast for at least 4 h, then 10 mL of blood was drawn into a serum separator SST tube (BD, Franklin Lakes, NJ, USA) to retrieve serum and an EDTA BD vacutainer tube to retrieve plasma and buffy coat. Adherence to the protocol was assessed by a pill count at the second and third visits.
+
+Immediately after delivery, cord venous blood was collected to retrieve plasma, buffy coat, and serum. Full thickness placenta biopsies (0.5 × 0.5 cm) were retrieved at the center of four virtually divided quadrants of the placental disk and pooled for analysis (16). These pooled placental samples were either fixed with RNAlater® (Thermo Fisher, Suwanee, GA, USA) or homogenized in liquid nitrogen. All samples were stored at −80°C until analysis. Obstetric and birth outcome information including neonate sex, mode of delivery, and birth weight was collected through medical chart review.
+
+The study protocol was reviewed and approved by both the City University of New York (CUNY) Institutional Review Board (IRB) (Approval ID:2022-0670) and the Maimonides Medical Center IRB (Approval ID: 2023-08-07). Written informed consent was obtained from each participant before participation in the study. The trial was registered on ClinicalTrials.gov (NCT05673070).
+
+2.2 Sample size calculation
+
+The sample size calculation was based on detecting a 40% difference in UMFA concentrations between groups at 80% power and a 0.05 significance level. A 25% attrition rate was also factored in the calculation given the high mobility of the urban population, to reach the n = 40/group sample size. The sample size chosen was considered as generally sufficient for similar pilot RCTs (17).
+
+2.3 Diet analysis
+
+Dietary data was analyzed with the Nutrition Data System for Research (NDSR) software to analyze nutrient intake. Average daily intakes were calculated as the average daily consumption of nutrients over the three days of dietary recalls (18). Dietary recalls with extremely low (< 500 kcal/day) or high (>5,000 kcal/day) total energy intake were excluded from data analysis. Total folate intake was calculated as the sum of folate intake from both diet and supplements. The tolerable upper intake level (UL) for folate is 1,000 μg FA which does not include intake from naturally-occurring food folates. To compare whether a participant's intake exceeded the UL, the European Food Safety Authority (EFSA) interpretation of UL was used (19), that is, in addition to FA consumed from fortified foods and the FA-MVI supplement, folate as 6S-5-MTHF from the MTHF-MVI supplement was also added after being converted to μg FA equivalent. Since an official conversion factor has not been established, a conversion factor of 1.7 that assumes similar bioavailability of 5-MTHF and FA was used. The sum of FA and FA equivalent from fortified food and supplement was compared to the UL (19).
+
+2.4 Analytical measurements
+2.4.1 Folate quantification
+
+Serum and placenta folate species were measured by liquid chromatography mass spectrometry liquid chromatography-mass spectrometry (LC-MS)/MS using published methods (20). Folates were quantified using Thermo QExactive mass spectrometer operating in PRM positive mode with Vanquish UPLC.
+
+2.4.2 Genotyping
+
+DNA was extracted from the cord blood samples using the GeneJET Genomic DNA Purification Kit (Thermo Fisher) following manufacturer's instructions. Amplification for the target SNP MTHFR C677T (rs1801133) was performed using ThermoFisher Scientific TaqMan assays with pre-designed TaqMan probes (Thermo Fisher). Real-time PCR condition was 95°C for 10 min, followed by 40 cycles of 95°C for 15 s and 60 C for 1 min and fluorescence of the two probes FAM and VIC, labeling the two alleles of a SNP, was detected and analyzed by the genotyping program in the BioRad CFX Manager software.
+
+2.4.3 Global DNA methylation
+
+Global methylation was assessed after nuclease P1, alkaline phosphatase, and phosphodiesterase (Sigma-Aldrich, St. Louis, MO) trienzyme treatment of the genomic DNA samples, followed with measurements using the DNA methylation ELISA kit (Cayman Chemical, Ann Arbor, Michigan, USA) according to the manufacturer's instructions.
+
+2.5 Statistical analyses
+
+Demographic characteristics at baseline were compared using Student's t-test for continuous variables and χ-square test for nominal variables. To compare the differences in folate intakes and placental and cord blood measurements, a generalized linear model was used with intervention groups as the independent variable and controlling for a predefined set of covariates including maternal age, race/ethnicity, education levels, parity, sex of the neonate, gestational age, and maternal pre-pregnancy BMI initially (21). The covariates were dropped from the model in a step-wise process if they did not reach statistical significance. For maternal serum folates, a general linear mixed model was used with group and week of visit as independent variables and participant code as a nested variable. The maternal demographics and folate levels at baseline were also included as covariates. Maternal demographic variables were removed from the model in a step-wise process when they did not reach statistical significance. Data that were not normally distributed were log-transformed before analyses. Data were presented as mean ± standard deviation (SD). A p value of < 0.05 was considered significant. Data were analyzed with SPSS software (version 24, IBM Inc., Armonk, NY, USA).
+
+3 Results
+3.1 Demographic characteristics
+
+Of the total of 80 participants enrolled in the study, 18 dropped out and 62 completed the study, including 31 from the MTHF-MVI group and 31 from the FA-MVI group. Reasons for drop-out included nausea and vomiting and other symptoms related to pregnancy (n = 5), transferring to another healthcare group (n = 4), pregnancy loss or congenital defects unrelated to study activities (n = 2), lost to follow-up (n = 3), non-compliance (n = 1), and not feeling comfortable to take supplements from a study (n = 3) (Figure 1). There were no significant differences in the number of drop-outs between groups for any of the reasons. Since no data or samples were collected beyond the baseline for participants who dropped out, we only included the 62 participants who completed the study for per-protocol final data analyses. At baseline, there were no differences in most demographic or anthropometric characteristics such as maternal age, prepregnancy BMI, race/ethnicity, education levels, prior tobacco and alcohol use, current vitamin use, and parity between the two groups. However, there were more participants that were married in the FA-MVI vs. the MTHF-MVI group (p = 0.03) (Table 1).
+
+Figure 1
+
+Study flow chart. FA, folic acid; MTHF, methyltetrahydrofolate; MVI, multivitamin.
+
+Table 1
+
+Participant information            MTHF-MVI (n = 31)  FA-MVI (n = 31)  p-value
+---------------------------------  -----------------  ---------------  -------
+Age (year)                         31.2 ± 5.5         32.4 ± 5.5       0.40
+Prepregnancy BMI (kg/m2)           27.7 ± 6.2         26.1 ± 5.0       0.27
+Race                                                                   0.84
+White                              9 (29%)            12 (38.7%)
+Black                              9 (29%)            9 (29%)
+Asian                              8 (25.8%)          6 (19.4%)
+Other                              5 (16.1%)          4 (12.9%)
+Ethnicity                                                              0.79
+Hispanic                           10 (32.3%)         11 (35.5%)
+Non-Hispanic                       21 (67.7%)         20 (64.5%)
+Education                                                              0.63
+Less than or equal to high school  5 (16.1%)          8 (25.8%)
+Some college                       22 (71%)           20 (64.5%)
+College graduate and higher        4 (12.9%)          3 (9.7%)
+Marital status                                                         0.03*
+Single                             17 (54.8%)         8 (25.8%)
+Married                            13 (41.9%)         23 (74.2%)
+Separated                          1 (3.2%)           0 (0%)
+Prior tobacco use                  2 (6.5%)           2 (6.5%)         0.30
+Prior alcohol use                  8 (25.8%)          6 (19.4%)        0.77
+Current prenatal vitamin user      27 (87.1%)         24 (77.4%)       0.32
+Nulliparity                        11 (35.5%)         13 (41.9%)       0.60
+
+Participant demographics.
+
+Analyzed with χ-square test for categorical variables and Student's t-test for continuous variables (data were presented as mean and standard deviation). *p < 0.05 is considered as significantly different from the FA-MVI group.
+
+3.2 More FA-MVI participants had a supplemental folate intake exceeding the UL
+
+All dietary intake data were collected after enrollment and randomization to one of the two MVIs. There were no differences in the dietary intake of natural folate and FA from fortified food between groups at week 0 and week 12. At week 24, the MTHF-MVI group had 30% lower natural food folate intakes (p = 0.033) (Table 2). After accounting for folate intake from prenatal MVIs, the MTHF-MVI group had lower total folate intakes than the FA-MVI group (p = 0.001). Nevertheless, all participants had intake levels above the folate RDA of 600 μg DFE for pregnant women. However, at the end of the 24-week study, 29% of participants in the FA-MVI group had FA intake levels exceeding the UL of 1,000 μg throughout the study period while none of the MTHF-MVI participants had supplemental and fortified folate intakes exceeding the UL.
+
+Table 2
+
+Folate intake                                                           MTHF-MVI (n = 31)  FA-MVI (n = 31)  p-value   Difference or RR  95% CI
+----------------------------------------------------------------------  -----------------  ---------------  --------  ----------------  ------------
+Dietary natural folate (μg DFE)                                                                                       Difference
+Week 0                                                                  188 ± 117          144 ± 72         0.076     44                −5, 94
+Week 12                                                                 151 ± 75           203 ± 205        0.19      −52               −130, 27
+Week 24                                                                 143 ± 54           206 ± 148        0.033*    −63               −121, −5
+Week 0                                                                  156 ± 154          189 ± 245        0.53      −33               −137, 71
+Week 12                                                                 140 ± 137          194 ± 206        0.23      −54               −142, 35
+Week 24                                                                 145 ± 139          196 ± 203        0.27      −51               −141, 50
+Week 0a                                                                 1454 ± 268         1825 ± 405       < 0.001*  −371              −546, −197
+Week 12                                                                 1357 ± 327         1893 ± 500       < 0.001*  −536              −750, −321
+Week 24                                                                 1345 ± 344         1777 ± 627       < 0.001*  −432              −688, −330
+Participants with fortified and supplement folates exceeding UL (n,%)b  RR
+Week 0                                                                  0                  5 (16%)          0.053     0.091             0.0052, 1.58
+Week 12                                                                 0                  8 (26%)          0.005*    0.059             0.0035, 0.98
+Week 24                                                                 0                  9 (29%)          0.001*    0.051             0.0031, 0.84
+
+Folate intake of study participants.
+
+aWeek 0 data were collected after enrollment and randomization to receive one of the two multivitamins. bBased on the European Food Safety Authority (EFSA) interpretation of UL, 6S-5-MTHF from supplement (1,000 μg DFE) was converted to μg FA equivalent using a conversion factor of 1.7 assuming similar bioavailability of 5-MTHF and FA. The sum of FA and FA equivalent from fortified food and supplement was compared to the UL (19). Analyzed with χ-square test for categorical variables and Student's t-test for continuous variables (data were presented as mean and standard deviation). *p < 0.05 is considered as significantly different from the FA-MVI group. CI, confidence interval; FA, folic acid; MTHF, methyltetrahydrofolate; MVI, multivitamin; RR, relative risk; UL, upper tolerable intake level.
+
+3.3 More participants had UMFA in their blood in the FA-MVI group
+
+Upon examination of the serum folate metabolites in the two groups, there were no differences in 5-MTHF or total folate (FA+5-MTHF) concentrations between groups in the maternal blood throughout the study (Table 3). There were no changes in the concentrations of these metabolites over time either. At the end of the study, 12 and 17 participants had supraphysiologic concentrations (>20 ng/mL) of total folate (22), concentrations that are higher than the physiologic need, in the two groups, respectively. There were no differences in total folate status between groups (p = 0.21). Serum UMFA was detectable among 26% and 32% of participants in the MTHF-MVI and FA-MVI groups at week 0, respectively, which was not significantly different (p = 0.78). The MTHF-MVI group had a drop in FA detection rate over time which was not observed in the FA-MVI group. As a result, at week 24 there were significantly more participants with detectable UMFA (31% vs. 7% detection rate) and significantly higher average UMFA concentrations in the FA-MVI group vs. in the MTHF-MVI group (p = 0.013) (Table 3).
+
+Table 3
+
+Serum folate                                 MTHF–MVI (n = 31)  FA–MVI (n = 31)  Difference or RR  95% CI       p group  p week  p group × week interaction
+-------------------------------------------  -----------------  ---------------  ----------------  -----------  -------  ------  --------------------------
+Serum total folate (ng/mL)                                                       Difference                     0.16     0.08    0.77
+Week 0                                       21.5 ± 6.6         22.0 ± 8.8       −0.5              −4.5, 3.4
+Week 12                                      21.5 ± 7.0         24.4 ± 11.0      −2.9              −7.6, 1.8
+Week 24                                      19.7 ± 7.0         22.0 ± 6.5       −2.3              −5.8, 1.1
+Serum methyltetrahydrofolate (ng/mL)                                                                            0.99     0.14    0.52
+Week 0                                       21.0 ± 6.2         20.8 ± 6.6       0.2               −3.1, 3.4
+Week 12                                      21.5 ± 7.0         22.7 ± 9.3       −1.2              −5.4, 3.0
+Week 24                                      19.9 ± 7.0         20.7 ± 6.6       −1.6              −4.9, 1.7
+Unmetabolized folic acid (ng/mL)                                                                                0.014*   0.39    0.27
+Week 0                                       0.5 ± 1.4          1.2 ± 3.5        −0.7              −2.1, 0.7    0.32
+Week 12                                      0.06 ± 0.3         1.8 ± 4.6        −1.7              −3.3, −0.04  0.044*
+Week 24                                      0.02 ± 0.1         0.8 ± 1.7        −0.7              −1.3, −0.2   0.013*
+Presence of unmetabolized folic acid (n, %)                                      RR                             0.001*   0.63    0.63
+Week 0                                       8 (26%)            10 (32%)         0.80              0.36, 1.75   0.78
+Week 12                                      2 (6%)             11 (35%)         0.18              0.04, 0.75   0.011*
+Week 24                                      2 (7%)             9 (31%)          0.22              0.25, 0.91   0.041*
+
+Maternal serum folate metabolites.
+
+Analyzed with mixed model controlling for baseline folate metabolite levels. *p < 0.05 is considered as significantly different. The serum total folate concentration is calculated as folic acid + methyltetrahydrofolate concentrations. CI, confidence interval; FA, folic acid; MTHF, methyltetrahydrofolate; MVI, multivitamin; RR, relative risk.
+
+3.4 The MTHFR C677T genotypes did not have a clear effect on maternal blood folate metabolites in either group
+
+The potential modifying effect of the MTHFR C677T (rs1801133) genotype on maternal blood folate metabolites and their response to the two different MVIs were also assessed (Table 4). The MTHFR C677T SNP did not result in different 5-MTHF or total folate concentrations at any time point in either group. However, at baseline those with the TT genotype had significantly higher concentrations of UMFA than those with the CC and CT genotypes (p < 0.05), yet such differences were eliminated at week 12 and 24 in both groups.
+
+Table 4
+
+Serum folate  CC (n = 23)  CT (n = 20)  TT (n = 19)  CT vs. CC  TT vs. CC    p genotype  p group × genotype interaction
+------------  -----------  -----------  -----------  ---------  -----------  ----------  ------------------------------  ------  ----
+Difference    95% CI       Difference   95% CI
+Week 0        22.4 ± 7.4   19.3 ± 4.9   20.7 ± 6.1   −3.2       −7.0, 0.6    −1.7        −5.6,2.2                        0.24    0.37
+Week 12       23.1 ± 10.8  20.7 ± 6.0   22.1 ± 6.5   −2.4       −7.5, 2.6    −1.0        −6.1, 4.1                       0.59    0.98
+Week 24       19.8 ± 6.5   21.2 ± 6.2   20.5 ± 7.1   1.5        −2.5, 5.5    0.7         −3.4, 4.8                       0.86    0.98
+Week 0        22.8 ± 7.6   19.5 ± 5.1   22.8 ± 9.8   −3.3       −8, 1.4      0.06        −4.7,4.8                        0.26    0.49
+Week 12       23.3 ± 10.9  22.0 ± 7.2   23.6 ± 9.6   −1.3       −7.0, 4.5    0.3         −5.6, 6.1                       0.80    0.83
+Week 24       20.0 ± 6.7   22.1 ± 6.8   20.6 ± 7.1   2.1        −2.1, 6.3    0.6         −3.6, 4.9                       0.75    0.90
+Week 0a       0.33 ± 0.52  0.25 ± 0.46  2.10 ± 4.72  −0.08      −1.53, 1.70  1.77        0.73, 3.40                      0.047*  0.36
+Week 12       0.13 ± 0.35  1.34 ± 2.99  1.39 ± 5.14  1.21       −0.82, 3.24  1.26        −0.80, 3.31                     0.44    0.45
+Week 24       0.22 ± 0.77  0.86 ± 1.89  0.12 ± 0.37  0.63       −0.09, 1.36  −0.10       −0.84, 0.64                     0.25    0.26
+
+Folate levels in participants with different MTHFR C677T genotypes.
+
+Analyzed with generalized linear model with intervention group and the rs1801133 genotype as independent variables; aThis model controlled for prepregnancy BMI additionally. *p < 0.05 is considered as significantly different. The serum total folate concentration is calculated as folic acid + methyltetrahydrofolate concentrations. CI, confidence interval.
+
+3.5 Placental UMFA concentrations were higher in the FA-MVI group
+
+Next, folate metabolites in the full thickness placental samples (which contained both the maternal and fetal tissues and blood) and cord blood were measured. There were three major forms of folate metabolites in the placenta, including 5-MTHF, FA, and 5-formyl-THF. 5-MTHF (p = 0.71) and total folate metabolite (p = 0.33) concentrations did not differ between groups. Both 5-formyl-THF (p = 0.012) and UMFA (p < 0.01) concentrations were higher in the FA-MVI group vs. the MTHF-MVI group (Table 5). Accordingly, the UMFA detection rate was significantly higher in the FA-MVI group than the MTHF-MVI group (p < 0.01).
+
+Table 5
+
+Folate status                             MTHF-MVI     FA-MVI       Difference  95% CI        p-value
+----------------------------------------  -----------  -----------  ----------  ------------  -------
+5-MTHF (ng/g tissue)                      412 ± 95     422 ± 81     −10         −60, 41       0.71
+UMFA (ng/g tissue)                        0.52 ± 0.63  2.93 ± 2.13  −2.41       −3.29, −1.53  < 0.01*
+5-formyl THF (ng/g tissue)                29.4 ± 9.6   43.6 ± 25.1  −14.2       −24.8, −3.5   0.01*
+Total folate (ng/g tissue)                442 ± 95     469 ± 91     −26         −79, 27       0.33
+Global DNA methylation (fold difference)  0.7 ± 0.5    1.0 ± 1.0    −0.3        −0.8, 0.1     0.14
+Serum 5-MTHF (ng/mL)                      32.1 ± 9.2   40.8 ± 17.1  −8.7        −14.6, 0.5    0.08
+Global DNA methylation (fold difference)  0.7 ± 0.4    1.0 ± 0.5    −0.3        −0.5, 003     0.08
+
+Placenta and cord blood folate metabolite and DNA methylation levels.
+
+Analyzed with generalized linear models controlling for maternal folate intake at week 24. FA, folic acid; 5-MTHF, 5-methyltetrahydrofolate. *p < 0.05 is considered as significantly different from the FA-MVI group. The placental total folate concentration is calculated as FA + 5-MTHF + 5-formyl THF concentrations. CI, confidence interval; FA, folic acid; MTHF, methyltetrahydrofolate; MVI, multivitamin; UMFA, unmetabolized folic acid.
+
+The main form of folate detected in the cord blood was 5-MTHF. There were no differences in cord blood 5-MTHF levels between groups (p = 0.08) (Table 5). Two cord blood samples had detectable UMFA, both of which belonged to the FA-MVI group.
+
+3.6 Global DNA methylation levels
+
+Global DNA methylation was measured in the placenta and cord blood, but no significant differences were found between the two groups (p = 0.14 and 0.082, respectively) (Table 5).
+
+4 Discussion
+
+The National Institutes of Health (NIH) identified knowledge gaps related to the differential effects of 5-MTHF vs. FA supplementation during pregnancy on folate status and functional outcomes of the mother-fetus dyad in a 2019 expert workshop (23), yet studies that address these questions are still limited. In this RCT, supplementation with a prenatal MVI containing 6S-5-MTHF, as compared to FA, resulted in reduced concentrations of UMFA in both the maternal and placental compartments while having no significant difference in total folate status. These results suggest that 5-MTHF is an efficacious form of folate for pregnant women and their fetuses in the second and third trimesters of pregnancy.
+
+FA is the predominant and recommended form of folate to be used for women are pregnant or may become pregnant, mainly for its important role in reducing NTD risk in early gestation (1). It should be noted, however, that human studies investigating whether other forms of folate could be as effective as FA for NTD risk reduction are lacking (24). There remains uncertainty regarding the necessity and dosage of FA supplementation beyond the window of neural tube closure, i.e., during mid and late gestation (14). This is particularly relevant given that FA must be reduced to THF to participate in folate metabolism, then the folates are interconvertible within the folate cycle. Theoretically speaking, if the other forms of folate supplement raise folate status comparably to FA in the maternal and fetal compartments, it is intuitive that they may share the same effect as FA on disease risk reduction. While the current study did not capture the periconceptional period, it provided comparative evidence regarding the efficacy of 5-MTHF vs. FA supplementation during pregnancy for maintaining folate status in both maternal and fetal compartments in mid and late gestation.
+
+While 5-MTHF supplementation has been shown to improve serum folate levels in women of childbearing age (25), comparative studies evaluating the effect of 5-MTHF vs. FA supplementation on folate status and maternal and fetal outcomes across pregnancy remain limited (9). Most available data instead evaluated FA alone. In a 2016 study, low-dose FA supplementation (400 μg per day) did not significantly alter folate status or UMFA concentrations in maternal and cord blood compared to placebo (26). However, this finding may have limited relevance to typical prenatal FA intake, as a 2019 review found that 99% of prescription and 91% of non-prescription prenatal MVIs contained ≥800 μg FA per serving, an amount substantially higher than the 400 μg dose that is currently recommended for women of childbearing age and the amount used in the aforementioned study (27). Several RCTs have demonstrated that 5-MTHF is at least as effective as FA in lowering plasma homocysteine levels (4, 28). A small number of studies have also examined the use of 5-MTHF vs. FA in fertility treatment and pregnancy loss, finding that 5-MTHF provided greater protection against pregnancy loss than FA (29, 30). The present study's findings build upon the literature comparing 5-MTHF to FA by providing longitudinal tracing of folate status in response to supplementation with these two forms of folate during the latter two-thirds of pregnancy, a pattern consistent with prenatal MVI use in pregnant women in the U.S. population as many women take prenatal MVIs through the duration of their pregnancy (31). The folate content in the FA-MVI was about 30% higher than that in the MTHF-MVI, yet there was no difference in 5-MTHF and total folate status across maternal blood, placenta, and fetal blood between the two groups, indicating that 6S-5-MTHF provided in a MVI supplement is at least as effective as FA-containing MVI in maintaining maternal and fetal folate status. Further, the similar effectiveness on folate status maintenance was not modified by a major folate genetic polymorphism (MTHFR C677T) or differential exposure to other nutrients (e.g., other B vitamins and vitamin D) in the two MVIs. Our results were consistent with findings from a similar RCT conducted on a Canadian cohort, where supplementation of FA vs. 5-MTHF for 16 weeks yielded similar folate concentrations in maternal blood (14). The current study further confirms that folate status in the placenta and fetal cord blood were also not differentially affected by folate supplement forms.
+
+The growing use of 5-MTHF in prenatal MVIs instead of FA is partly driven by concern of UMFA detection in tissues, although the clinical implications of UMFA remain unclear (23). Earlier research has reported that FA intake exceeding 200 μg per day led to detectable amounts of UMFA in blood, while, as mentioned previously, 400 μg FA per day did not alter UMFA concentrations and more recent findings indicate that trace levels of UMFA may be present in the blood of individuals not consuming FA from fortified foods or supplements (6–8, 32). Further, UMFA has been detected in the majority of blood samples from NHANES participants (32) and 93% of cord blood samples from a 2015 Canadian cohort study (33). Consistent with prior reports, the present study demonstrated that supplementation with a prenatal MVI containing FA led to UMFA elevation in both maternal and fetal compartments (33, 34). This elevation in UMFA is generally understood to be transient during periods of supplementation, mitigating the long-term concern of overaccumulaton (35). In the present cohort, UMFA was chronically elevated in maternal blood and was primarily retained in the placenta with only two cord blood samples, both from the FA-MVI group, showing detectable amounts of UMFA. Supplementation with a 5-MTHF-containing MVI significantly reduced UMFA concentrations in maternal blood and placenta, although it did not completely eliminate UMFA detection. This is likely attributable to FA intake from foods (participants in the MTHF-VMI group had an average intake of 110 μg/day of FA) due to mandatory FA fortification of enriched cereal grain products in the U.S. Despite detection of UMFA in some participants in the MTHF-MVI group, the MTHF-MVI group experienced significant decreases in serum UMFA over the study period, while UMFA concentrations remained unchanged in the FA-MVI group. These findings suggest that formulation with 5-MTHF instead of FA in prenatal MVIs may be an effective strategy to minimize UMFA's presence in maternal and fetal circulation.
+
+It has been hypothesized that UMFA may inhibit key enzymes in the folate cycle. For example, UMFA may inhibit DHFR, a rate-limiting enzyme responsible for converting FA to THF (36). Inhibition of MTHFR, which catalyzes the conversion of 5,10-methylene-THF to 5-MTHF, a critical point of entry into the methionine cycle of one-carbon metabolism, has also been shown in vitro (37, 38). Further, very high dose FA supplementation (20 mg/kg diet or 10 × recommended intake) in mice has been shown to result in a pseudo-MTHFR deficiency and ensuing liver injury (38). Also in mice, high maternal FA intake (5 × recommended intake) has been shown to induce neurocognitive damages in the rodent offspring (39).
+
+UMFA has a higher affinity to bind folate receptor 1 (FOLR1) than 5-MTHF and variable affinity to folate transporters, potentially competing with 5-MTHF for cellular uptake (23, 40). In vitro studies suggest that UMFA may influence cellular growth during tumorigenesis as well as natural killer cell toxicity (41–45). The current study did not identify differences in global DNA methylation in the cord blood, consistent with the notion that UMFA may not have a substantial effect on global epigenetic regulation to be observed in studies with a small sample size (23). However, targeted methylome profiling would be necessary to determine whether specific epigenetic sites are susceptible to alteration in the presence of UMFA. Overall, further studies that investigate the association between UMFA and the health of the mother-fetus dyad are needed.
+
+Some speculation exists regarding the notion that excess folate intake, independent of UMFA levels, may be a risk factor for diseases such as cancer, cardiometabolic disorders, and abnormalities in neurodevelopmental development including autism spectrum disorder (ASD). This speculation is grounded in data from multiple epidemiological studies, although it must be considered along with the counter evidence suggesting no correlation between high folate intake and these diseases (2, 23, 46–49). Moreover, the UL for supplemental and fortified folate was established partly because it may enable nucleotide synthesis despite a deficiency in vitamin B12, which serves as a co-factor in the methionine cycle that converts 5-MTHF to THF. Nevertheless, this concern of folate excess masking B12 deficiency may be less relevant to pregnant individuals who receive a prenatal MVI which almost certainly contains vitamin B12. Despite the contradictory evidence, preventing pregnant women from exceeding the UL is still a reasonable precaution. This is especially pertinent in countries with mandatory FA fortification programs, as studies have found that pregnant women routinely approach or exceed the UL for FA from food and MVIs combined (50–52). The UL was established by the National Academy of Medicine (formerly the Food and Nutrition Board of the Institute of Medicine) in 1998. It applies to synthetic forms of folate from obtained from supplements, fortified foods, or a combination of the two, similar to the more recent interpretation made by the European Food Safety Authority (EFSA) (19). Regardless, significantly fewer participants in the MTHF-MVI group reached and exceeded the UL compared to the FA-MVI group as a function of the dose being higher in the FA-MVI group. Consistent with prior findings, the present study demonstrates that nearly one-third of participants in the FA-MVI group exceeded the current UL by the end of the intervention despite taking a commonly consumed prenatal MVI containing 800 μg of FA, one of the lowest doses readily available on the market. This excessive intake could be entirely prevented by taking a prenatal MVI containing a lower dose of folate. Notably, while the FA-MVI provided in the study supplied 1,330 μg DFE and the MTHF-MVI provided 1,000 μg DFE, 330 μg DFE less, total folate concentrations in maternal serum, cord blood, and placental tissue did not differ between groups. This suggests that the higher FA dose in the FA-MVI may have exceeded the body's capacity for utilization. Nevertheless, the proportion of participants with high folate levels (>20 ng/mL) did not differ between groups, suggesting that both doses likely meet or exceed adequate intakes.
+
+This study has several limitations. Since the intervention did not capture the periconceptional period or the first trimester of pregnancy, whether supplementing 5-MTHF vs. FA during these periods has similar effects on maternal and fetal folate status and birth outcomes remains unclear. The sample size was relatively small, and only a single dosage level of 6S-5-MTHF or FA was tested in each group. Additionally, participants had relatively low background FA intake from their diets, limiting the generalizability to populations with higher prenatal dietary FA exposure. The two MVIs have dosage differences in not only folate but also other nutrients, yet this imperfect comparison reflects the complexity of the decision that pregnant individuals make regarding MVI selection in real world conditions. It also reflects that in prenatal MVIs with complex inter-nutrient interactions, 5-MTHF and FA have similar performance in maintaining maternal and fetal folate status.
+
+In conclusion, prenatal MVIs containing 6S-5-MTHF may offer an efficacious alternative to those containing FA in the latter two trimesters of pregnancy, as they reduce concentrations of UMFA in maternal and fetal tissues, without compromising total folate status. However, additional well-designed clinical and mechanistic studies are needed to confirm long-term maternal and fetal outcomes and to inform evidence-based guidelines across diverse populations.
+
+Statements
+Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+Ethics statement
+
+The studies involving humans were approved by the City University of New York (CUNY) Institutional Review Board (IRB) (Approval ID: 2022-0670) and the Maimonides Medical Center IRB (Approval ID: 2023-08-07). The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study.
+
+Author contributions
+
+FD: Investigation, Writing – original draft. JH: Investigation, Writing – original draft. MS: Conceptualization, Writing – review & editing. AG-W: Writing – review & editing. AV: Writing – review & editing. NA: Conceptualization, Writing – review & editing. IF: Conceptualization, Writing – review & editing. SC: Writing – review & editing. OM: Investigation, Writing – review & editing. MC: Conceptualization, Writing – review & editing. IH: Investigation, Writing – original draft. XJ: Conceptualization, Formal analysis, Investigation, Writing – original draft, Writing – review & editing.
+
+Funding
+
+The author(s) declared that financial support was received for this work and/or its publication. This research was supported by a research grant funded by Ritual.
+
+Acknowledgments
+
+The authors would like to thank the support of the staff in the Department of Obstetrics and Gynecology of Maimonides Medical Center. The authors are also thankful for the participation of study participants.
+
+Conflict of interest
+
+MS, AG-W, AV, and NA were employed by Ritual.
+
+The remaining author(s) declared that the research was conducted in the absence of any commercial or financial relationships that could be construed as a conflict of interest. The sponsor Ritual has no influence on the implementation of the study and final interpretation of the data. The data analysis and interpretation were conducted.
+
+Generative AI statement
+
+The author(s) declared that generative AI was not used in the creation of this manuscript.
+
+Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Supplementary material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fnut.2026.1679067/full#supplementary-material
+
+References
+
+1.
+
+Crider KS QiYPYeungLFMaiCTZaucheLHWangAet al. Folic acid and the prevention of birth defects: 30 years of opportunity and controversies. Annu Rev Nutr. (2022) 42:423–52. doi: 10.1146/annurev-nutr-043020-091647
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+2.
+
+CriderKSBaileyLBBerryRJ. Folic acid food fortification-its history, effect, concerns, and future directions. Nutrients. (2011) 3:370–84. doi: 10.3390/nu3030370
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+3.
+
+KorsmoHWJiangX. One carbon metabolism and early development: a diet-dependent destiny. Trends Endocrinol Metab. (2021) 32:579–93. doi: 10.1016/j.tem.2021.05.011
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+4.
+
+MenezoYElderKClementAClementP. Folic Acid, folinic acid, 5 methyl tetrahydrofolate supplementation for mutations that affect epigenesis through the folate and one-carbon cycles. Biomolecules. (2022) 12:197. doi: 10.3390/biom12020197
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+5.
+
+BahousRHJadavjiNMDengLCosin-TomasMLuJMalyshevaOet al. High dietary folate in pregnant mice leads to pseudo-MTHFR deficiency and altered methyl metabolism, with embryonic growth delay and short-term memory impairment in offspring. Hum Mol Genet. (2017) 26:888–900. doi: 10.1093/hmg/ddx004
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+6.
+
+SweeneyMRMcPartlinJScottJ. Folic acid fortification and public health: report on threshold doses above which unmetabolised folic acid appear in serum. BMC Public Health. (2007) 7:41. doi: 10.1186/1471-2458-7-41
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+7.
+
+SweeneyMRMcPartlinJWeirDGDalyLScottJM. Postprandial serum folic acid response to multiple doses of folic acid in fortified bread. Br J Nutr. (2006) 95:145–51. doi: 10.1079/BJN20051618
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+8.
+
+SweeneyMRMcPartlinJWeirDGScottJM. Measurements of sub-nanomolar concentrations of unmetabolised folic acid in serum. J Chromatogr B Analyt Technol Biomed Life Sci. (2003) 788:187–91. doi: 10.1016/S1570-0232(02)01010-3
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+9.
+
+XieMQingXHuangHZhangJ. The effectiveness and safety of the active form of folate on biochemical parameters in women of childbearing age: a systematic review and meta-analysis. Medicine. (2025) 104:e46564. doi: 10.1097/MD.0000000000046564
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+10.
+
+SaldanhaLGDwyerJTHaggansCJMillsJLPotischmanN. Perspective: time to resolve confusion on folate amounts, units, and forms in prenatal supplements. Adv Nutr. (2020) 11:753–9. doi: 10.1093/advances/nmaa017
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+11.
+
+SchönCMickaAMenzelDWilhelmMObeidR. Pharmacokinetics of (6S)-5-methyltetrahydrofolate dicholine salt compared to folic acid: a randomized double-blind single dose cross-over study. Food Nutr Res. (2025) 24:69. doi: 10.29219/fnr.v69.12633
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+12.
+
+VennBJGreenTJMoserRMannJI. Comparison of the effect of low-dose supplementation with L-5-methyltetrahydrofolate or folic acid on plasma homocysteine: a randomized placebo-controlled study. Am J Clin Nutr. (2003) 77:658–62. doi: 10.1093/ajcn/77.3.658
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+13.
+
+PentievaKMcNultyHReichertRWardMStrainJJMcKillopDJet al. The short-term bioavailabilities of [6S]-5-methyltetrahydrofolate and folic acid are equivalent in men. J Nutr. (2004) 134:580–5. doi: 10.1093/jn/134.3.580
+
+CrossRef
+Google Scholar
+View reference in article
+
+14.
+
+CochraneKMElangoRDevlinAMMayerCHutcheonJAKarakochukCD. Supplementation with (6S)-5-methyltetrahydrofolic acid appears as effective as folic acid in maintaining maternal folate status while reducing unmetabolised folic acid in maternal plasma: a randomised trial of pregnant women in Canada. Br J Nutr. (2024) 131:92–102. doi: 10.1017/S0007114523001733
+
+CrossRef
+Google Scholar
+View reference in article
+
+15.
+
+HarnackLStevensMVan HeelNSchakelSDwyerJTHimesJet al. computer-based approach for assessing dietary supplement use in conjunction with dietary recalls. J Food Compost Anal. (2008) 21:S78–82. doi: 10.1016/j.jfca.2007.05.004
+
+CrossRef
+Google Scholar
+View reference in article
+
+16.
+
+JiangXYanJWestAAPerryCAMalyshevaOVDevapatlaSet al. Maternal choline intake alters the epigenetic state of fetal cortisol-regulating genes in humans. FASEB J. (2012) 26:3563–74. doi: 10.1096/fj.12-207894
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+17.
+
+SimJLewisM. The size of a pilot study for a clinical trial should be calculated in relation to considerations of precision and efficiency. J Clin Epidemiol. (2012) 65:301–8. doi: 10.1016/j.jclinepi.2011.07.011
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+18.
+
+Jack-RobertsCMaplesPKalkanBGilboaEDjuraevIet al. Gestational diabetes status and dietary intake modify maternal and cord blood allostatic load markers. BMJ Open Diabetes Res Care. (2020) 8:e001468. doi: 10.1136/bmjdrc-2020-001468
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+19.
+
+TurckDBohnTCastenmillerJde HenauwSHirsch-ErnstK-Iet al. Scientific opinion on the tolerable upper intake level for folate. EFSA J Nov. (2023) 21:e08353. doi: 10.2903/j.efsa.2023.8353
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+20.
+
+WestAAYanJPerryCAJiangXMalyshevaOVCaudillMA. Folate-status response to a controlled folate intake in nonpregnant, pregnant, and lactating women. Am J Clin Nutr. (2012) 96:789–800. doi: 10.3945/ajcn.112.037523
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+21.
+
+HolmbergMJAndersenLW. Adjustment for baseline characteristics in randomized clinical trials. JAMA. (2022) 328:2155–6. doi: 10.1001/jama.2022.21506
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+22.
+
+PfeifferCMJohnsonCLJainRBYetleyEAPiccianoMFRadarJIet al. Trends in blood folate and vitamin B-12 concentrations in the United States, 1988–2004. Am J Clin Nutr. (2007) 86:718–27. doi: 10.1093/ajcn/86.3.718
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+23.
+
+MaruvadaPStoverPJMasonJBBaileyRLDavisCDFieldMSet al. Knowledge gaps in understanding the metabolic and clinical effects of excess folates/folic acid: a summary, and perspectives, from an NIH workshop. Am J Clin Nutr. (2020) 112:1390–403. doi: 10.1093/ajcn/nqaa259
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+24.
+
+Samaniego-VaeskenMLMorais-MorenoCCarretero-KrugAet al. Supplementation with folic acid or 5-methyltetrahydrofolate and prevention of neural tube defects: an evidence-based narrative review. Nutrients. (2024) 16:3154. doi: 10.3390/nu16183154
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+25.
+
+OsburnSCRobersonPAMedlerJAShakeJArnoldRDAlamdariNet al. Effects of 12-week multivitamin and omega-3 supplementation on micronutrient levels and red blood cell fatty acids in pre-menopausal women. Front Nutr. (2021) 8:610382. doi: 10.3389/fnut.2021.610382
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+26.
+
+PentievaKSelhubJPaulLMolloyAMMcNultyBWardMet al. Evidence from a randomized trial that exposure to supplemental folic acid at recommended levels during pregnancy does not lead to increased unmetabolized folic acid concentrations in maternal or cord blood. J Nutr. (2016) 146:494–500. doi: 10.3945/jn.115.223644
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+27.
+
+SaldanhaLDwyerJPotischmanNAndrewsK. Folic acid in prenatal supplements: labeled amounts compared to recommendations (P11-024-19). Curr Dev Nutr. (2019) 3:nzz048. doi: 10.1093/cdn/nzz048.P11-024-19
+
+CrossRef
+Google Scholar
+View reference in article
+
+28.
+
+ClémentAMenezoYCohenMCornetDClémentP. 5-Methyltetrahydrofolate reduces blood homocysteine level significantly in C677T methyltetrahydrofolate reductase single-nucleotide polymorphism carriers consulting for infertility. J Gynecol Obstet Hum Reprod. (2020) 49:101622. doi: 10.1016/j.jogoh.2019.08.005
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+29.
+
+Goyco OrtizLEServyEJMenezoYJR. A successful treatment with 5 methyltetrahydrofolate of a 677 TT MTHFR woman suffering premature ovarian insufficiency post a NHL (non-Hodgkin's lymphoma) and RPL (repeat pregnancy losses). J Assist Reprod Genet. (2019) 36:65–7. doi: 10.1007/s10815-018-1332-0
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+30.
+
+EssmatA. Comparative study between the use of regular folic acid supplement versus the use of l-methyl folate in patients with methyl tetrahydrofolate reductase (MTHFR) gene mutation with recurrent pregnancy loss. Open J Obstet Gynecol. (2011) 11:1104–11. doi: 10.4236/ojog.2021.119103
+
+CrossRef
+Google Scholar
+View reference in article
+
+31.
+
+BranumAMBaileyRSingerBJ. Dietary supplement use and folate status during pregnancy in the United States. J Nutr. (2013) 143:486–92. doi: 10.3945/jn.112.169987
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+32.
+
+PfeifferCMSternbergMRFaziliZYetleyEALacherDABaileyRLet al. Unmetabolized folic acid is detected in nearly all serum samples from US children, adolescents, and adults. J Nutr. (2015) 145:520–31. doi: 10.3945/jn.114.201210
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+33.
+
+PlumptreLMasihSPLyAAufreiterSSohnK-JCroxfordRet al. High concentrations of folate and unmetabolized folic acid in a cohort of pregnant Canadian women and umbilical cord blood. Am J Clin Nutr. (2015) 102:848–57. doi: 10.3945/ajcn.115.110783
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+34.
+
+SweeneyMRMcPartlinJWeirDGDalySPentievaKDalyLet al. Evidence of unmetabolised folic acid in cord blood of newborn and serum of 4-day-old infants. Br J Nutr. (2005) 94:727–30. doi: 10.1079/BJN20051572
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+35.
+
+TamCO'ConnorDKorenG. Circulating unmetabolized folic acid: relationship to folate status and effect of supplementation. Obstet Gynecol Int. (2012) 2012:485179. doi: 10.1155/2012/485179
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+36.
+
+BaileySWAylingJE. The extremely slow and variable activity of dihydrofolate reductase in human liver and its implications for high folic acid intake. Proc Natl Acad Sci USA. (2009) 106:15424–9. doi: 10.1073/pnas.0902072106
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+37.
+
+CornetDClementAClementPMenezoY. High doses of folic acid induce a pseudo-methylenetetrahydrofolate syndrome. SAGE Open Med Case Rep. (2019) 7:2050313X19850435. doi: 10.1177/2050313X19850435
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+38.
+
+ChristensenKEMikaelLGLeungKYLevesqueNDengLWuQet al. High folic acid consumption leads to pseudo-MTHFR deficiency, altered lipid metabolism, and liver injury in mice. Am J Clin Nutr. (2015) 101:646–58. doi: 10.3945/ajcn.114.086603
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+39.
+
+Cosín-TomásMLuanYLeclercDMalyshevaOVLauzonNBahousRHet al. Moderate folic acid supplementation in pregnant mice results in behavioral alterations in offspring with sex-specific changes in methyl metabolism. Nutrients. (2020) 12:1716. doi: 10.3390/nu12061716
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+40.
+
+PageRRobichaudAArbuckleTEFraserWDMacFarlaneAJ. Total folate and unmetabolized folic acid in the breast milk of a cross-section of Canadian women. Am J Clin Nutr. (2017) 105:1101–9. doi: 10.3945/ajcn.116.137968
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+41.
+
+FernándezMJavaidFChudasamaV. Advances in targeting the folate receptor in the treatment/imaging of cancers. Chem Sci. (2018) 9:790–810. doi: 10.1039/C7SC04004K
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+42.
+
+HanleyKZHorowitzIRGordonAMeiselJKhannaN. Folate receptor alpha is preferentially expressed in the carcinoma component of endometrial carcinosarcomas: a potential target for adjuvant therapy. Int J Gynecol Pathol. (2021) 40:501–9. doi: 10.1097/PGP.0000000000000736
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+43.
+
+PanizCBertinatoJFLucenaMRDe CarliEda Silva AmorimPMWataru GomesGet al. A daily dose of 5 mg folic acid for 90 days is associated with increased serum unmetabolized folic acid and reduced natural killer cell cytotoxicity in healthy Brazilian adults. J Nutr. (2017) 147:1677–85. doi: 10.3945/jn.117.247445
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+44.
+
+SawaengsriHWangJReginaldoCStelutiJWuDMeydaniSNet al. High folic acid intake reduces natural killer cell cytotoxicity in aged mice. J Nutr Biochem. (2016) 30:102–7. doi: 10.1016/j.jnutbio.2015.12.006
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+45.
+
+TroenAMMitchellBSorensenBWenerMHJohnstonAWoodBet al. Unmetabolized folic acid in plasma is associated with reduced natural killer cell cytotoxicity among postmenopausal women. J Nutr. (2006) 136:189–94. doi: 10.1093/jn/136.1.189
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+46.
+
+Deghan ManshadiSIshiguroLSohnKJMedlineARenlundRCroxfordRet al. Folic acid supplementation promotes mammary tumor progression in a rat model. PLoS ONE. (2014) 9:e84635. doi: 10.1371/journal.pone.0084635
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+47.
+
+MasonJBDicksteinAJacquesPFHaggartyPSelhubJDallalGet al. A temporal association between folic acid fortification and an increase in colorectal cancer rates may be illuminating important biological principles: a hypothesis. Cancer Epidemiol Biomarkers Prev. (2007) 16:1325–9. doi: 10.1158/1055-9965.EPI-07-0329
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+48.
+
+SurénPRothCBresnahanMHaugenMHornigMHirtzDet al. Association between maternal use of folic acid supplements and risk of autism spectrum disorders in children. JAMA. (2013) 309:570–7. doi: 10.1001/jama.2012.155925
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+49.
+
+WiensDDeSotoMC. Is high folic acid intake a risk factor for autism?-A review. Brain Sci. (2017) 7:149. doi: 10.3390/brainsci7110149
+
+CrossRef
+Google Scholar
+View reference in article
+
+50.
+
+MasihSPPlumptreLLyABergerHLausmanAYCroxfordRet al. Pregnant Canadian women achieve recommended intakes of one-carbon nutrients through prenatal supplementation but the supplement composition, including choline, requires reconsideration. J Nutr. (2015) 145:1824–34. doi: 10.3945/jn.115.211300
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+
+51.
+
+GómezMFFieldCJOlstadDLLoehrSRamageSMcCargarLJet al. Use of micronutrient supplements among pregnant women in Alberta: results from the Alberta pregnancy outcomes and nutrition (APrON) cohort. Matern Child Nutr. (2015) 11:497–510. doi: 10.1111/mcn.12038
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+
+52.
+
+DuboisLDiasparraMBédardBColapintoCKFontaine-BissonBMorissetA-Set al. Adequacy of nutritional intake from food and supplements in a cohort of pregnant women in Québec, Canada: the 3D cohort study (Design, Develop, Discover). Am J Clin Nutr. (2017) 106:541–8. doi: 10.3945/ajcn.117.155499
+
+Pubmed Abstract
+CrossRef
+Google Scholar
+View reference in article
+Summary
+
+Keywords
+
+5-methyltetrahydrofolate, folic acid, pregnancy, prenatal multivitamin, unmetabolized folic acid
+
+Citation
+
+Draicchio F, Hausser J, Sharafi M, Grier-Welch A, Vance A, Alamdari N, Futterman ID, Chudnoff S, Malysheva O, Caudill MA, Hanson I and Jiang X (2026) Using 6S-5-methyltetrahydrofolate instead of folic acid in prenatal multivitamin reduces unmetabolized folic acid concentrations in the mother-fetus dyad: a 24-week randomized controlled trial. Front. Nutr. 13:1679067. doi: 10.3389/fnut.2026.1679067
+
+Received
+
+04 August 2025
+
+Revised
+
+08 March 2026
+
+Accepted
+
+09 March 2026
+
+Published
+
+26 March 2026
+
+Volume
+
+13 - 2026
+
+Edited by
+
+Kenji Nagao, Ajinomoto, Japan
+
+Reviewed by
+
+Amanda J. MacFarlane, Health Canada, Canada
+
+Dorota Formanowicz, Poznan University of Medical Sciences, Poland
+
+Updates
+
+Check for updates
+
+Copyright
+
+© 2026 Draicchio, Hausser, Sharafi, Grier-Welch, Vance, Alamdari, Futterman, Chudnoff, Malysheva, Caudill, Hanson and Jiang. 
+
+This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+*Correspondence: Xinyin Jiang, XinyinJiang@brooklyn.cuny.edu
+
+Disclaimer
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.
+
+our impact
+
+Your research is the real superpower
+
+Behind each article we publish stands a team of superheroes: authors, editors, and reviewers who chose to uphold quality standards and share knowledge openly. Read more about the impact your work achieves.
+
+Explore our impact metrics
+
+PDF
+
+Download other format
+
+ReadCube
+epub
+XML
+Cite
+Share
+Metrics
+ Cite article
+
+Copy to clipboard
+
+Citation
+Copy citation
+
+Export citation file
+
+BibTex
+EndNote
+Reference Manager
+Simple Text file
+
+ Share article
+Facebook
+X
+LinkedIn
+Email
+WeChat
+ Article metrics
+Guidelines
+Author guidelines
+Services for authors
+Policies and publication ethics
+Editor guidelines
+Fee policy
+Explore
+Articles
+Research Topics
+Journals
+How we publish
+Outreach
+Frontiers Forum
+Frontiers Policy Labs
+Frontiers for Young Minds
+Frontiers Planet Prize
+Connect
+Help center
+Emails and alerts
+Contact us
+Submit
+Career opportunities
+Follow us
+© 2026 Frontiers Media SA. All rights reserved.
+Privacy policy | Terms and conditions | Accessibility statement
+
+Share on WeChat
+
+Scan with WeChat to share this article
+
+LINKS
+https://www.frontiersin.org/
+https://www.frontiersin.org/journals/nutrition
+https://www.frontiersin.org/about/mission
+https://www.frontiersin.org/about/history
+https://www.frontiersin.org/about/leadership
+https://www.frontiersin.org/about/awards
+https://www.frontiersin.org/about/impact
+https://www.frontiersin.org/about/annual-reports
+https://www.frontiersin.org/about/thought-leadership
+https://www.frontiersin.org/about/researcher-perspectives
+https://www.frontiersin.org/about/how-we-publish
+https://www.frontiersin.org/about/open-access
+https://www.frontiersin.org/about/quality
+https://www.frontiersin.org/about/peer-review
+https://www.frontiersin.org/about/technology-and-platforms
+https://www.frontiersin.org/about/research-topics
+https://www.frontiersin.org/about/fair-data-management
+https://www.frontiersin.org/about/fee-policy
+https://publishingpartnerships.frontiersin.org/
+https://www.frontiersin.org/open-access-agreements/consortia
+https://www.frontiersin.org/about/open-access-agreements
+https://www.frontiersin.org/about/collaboration-indexation
+https://forum.frontiersin.org/
+https://www.frontiersin.org/about/frontiers-planet-prize
+https://pressoffice.frontiersin.org/
+https://www.frontiersin.org/about/sustainability
+https://careers.frontiersin.org/
+https://www.frontiersin.org/about/contact
+https://www.frontiersin.org/journals
+https://www.frontiersin.org/articles
+https://www.frontiersin.org/submission/submit?domainid=2&fieldid=87&specialtyid=0&entitytype=2&entityid=628
+https://api.app.sen.science/submission/frontiers/
+https://www.frontiersin.org/search?tab=top-results&origin=https%3A%2F%2Fwww.frontiersin.org%2Fjournals%2Fnutrition%2Farticles%2F10.3389%2Ffnut.2026.1679067%2Ffull
+https://www.frontiersin.org/people/login?returnUrl=https%3A%2F%2Fwww.frontiersin.org%2Fjournals%2Fnutrition%2Farticles%2F10.3389%2Ffnut.2026.1679067%2Ffull
+https://www.frontiersin.org/journals/nutrition/sections/clinical-nutrition
+https://www.frontiersin.org/journals/nutrition/sections/food-chemistry
+https://www.frontiersin.org/journals/nutrition/sections/food-policy-and-economics
+https://www.frontiersin.org/journals/nutrition/sections/nutrigenomics
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-methodology
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-and-food-science-technology
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-and-metabolism
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-and-microbes
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-and-sustainable-diets
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-obesity-and-dietetics
+https://www.frontiersin.org/journals/nutrition/sections/nutrition-psychology-and-brain-health
+https://www.frontiersin.org/journals/nutrition/sections/nutritional-ecology-and-anthropology
+https://www.frontiersin.org/journals/nutrition/sections/nutritional-epidemiology
+https://www.frontiersin.org/journals/nutrition/sections/nutritional-immunology
+https://www.frontiersin.org/journals/nutrition/sections/sport-and-exercise-nutrition
+https://www.frontiersin.org/journals/nutrition/articles
+https://www.frontiersin.org/journals/nutrition/research-topics
+https://www.frontiersin.org/journals/nutrition/editors
+https://www.frontiersin.org/journals/nutrition/about#about-editors
+https://www.frontiersin.org/journals/nutrition/about#about-scope
+https://www.frontiersin.org/journals/nutrition/about#about-facts
+https://www.frontiersin.org/journals/nutrition/about#about-submission
+https://www.frontiersin.org/journals/nutrition/about#about-open
+https://www.frontiersin.org/journals/nutrition/about#copyright-statement
+https://www.frontiersin.org/journals/nutrition/about#about-quality
+https://www.frontiersin.org/journals/nutrition/for-authors/why-submit
+https://www.frontiersin.org/journals/nutrition/for-authors/article-types
+https://www.frontiersin.org/journals/nutrition/for-authors/author-guidelines
+https://www.frontiersin.org/journals/nutrition/for-authors/editor-guidelines
+https://www.frontiersin.org/journals/nutrition/for-authors/publishing-fees
+https://www.frontiersin.org/journals/nutrition/for-authors/submission-checklist
+https://www.frontiersin.org/journals/nutrition/for-authors/contact-editorial-office
+https://doi.org/10.3389/fnut.2026.1679067
+https://loop.frontiersin.org/people/843271
+https://loop.frontiersin.org/people/1881086
+https://loop.frontiersin.org/people/21699
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#h1
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#s1
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#s2
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#s3
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#s4
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#h6
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#h7
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#F1
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#T1
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#T2
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#T3
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#T4
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#T5
+https://loop.frontiersin.org/people/1165952
+https://loop.frontiersin.org/people/3323284
+https://loop.frontiersin.org/people/1196081
+https://loop.frontiersin.org/people/21668
+https://loop.frontiersin.org/people/673603
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#metrics
+http://clinicaltrials.gov/
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#SM1
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#supplementary-material
+https://pubmed.ncbi.nlm.nih.gov/35995050
+https://doi.org/10.1146/annurev-nutr-043020-091647
+http://scholar.google.com/scholar_lookup?author=YP.%2BCrider%2BKS%2BQi&author=LF.%2BYeung&author=CT.%2BMai&author=LH.%2BZauche&author=A.%2BWang&publication_year=2022&title=Folic%2Bacid%2Band%2Bthe%2Bprevention%2Bof%2Bbirth%2Bdefects%3A%2B30%2Byears%2Bof%2Bopportunity%2Band%2Bcontroversies&journal=Annu+Rev+Nutr.&volume=42&pages=423-52
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B1a
+https://pubmed.ncbi.nlm.nih.gov/22254102
+https://doi.org/10.3390/nu3030370
+http://scholar.google.com/scholar_lookup?author=KS.%2BCrider&author=LB.%2BBailey&author=RJ.%2BBerry&publication_year=2011&title=Folic%2Bacid%2Bfood%2Bfortification-its%2Bhistory%2C%2Beffect%2C%2Bconcerns%2C%2Band%2Bfuture%2Bdirections&journal=Nutrients.&volume=3&pages=370-84
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B2a
+https://pubmed.ncbi.nlm.nih.gov/34210607
+https://doi.org/10.1016/j.tem.2021.05.011
+http://scholar.google.com/scholar_lookup?author=HW.%2BKorsmo&author=X.%2BJiang&publication_year=2021&title=One%2Bcarbon%2Bmetabolism%2Band%2Bearly%2Bdevelopment%3A%2Ba%2Bdiet-dependent%2Bdestiny&journal=Trends+Endocrinol+Metab.&volume=32&pages=579-93
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B3a
+https://pubmed.ncbi.nlm.nih.gov/35204698
+https://doi.org/10.3390/biom12020197
+http://scholar.google.com/scholar_lookup?author=Y.%2BMenezo&author=K.%2BElder&author=A.%2BClement&author=P.%2BClement&publication_year=2022&title=Folic%2BAcid%2C%2Bfolinic%2Bacid%2C%2B5%2Bmethyl%2Btetrahydrofolate%2Bsupplementation%2Bfor%2Bmutations%2Bthat%2Baffect%2Bepigenesis%2Bthrough%2Bthe%2Bfolate%2Band%2Bone-carbon%2Bcycles&journal=Biomolecules&volume=12
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B4a
+https://pubmed.ncbi.nlm.nih.gov/28069796
+https://doi.org/10.1093/hmg/ddx004
+http://scholar.google.com/scholar_lookup?author=RH.%2BBahous&author=NM.%2BJadavji&author=L.%2BDeng&author=M.%2BCosin-Tomas&author=J.%2BLu&author=O.%2BMalysheva&publication_year=2017&title=High%2Bdietary%2Bfolate%2Bin%2Bpregnant%2Bmice%2Bleads%2Bto%2Bpseudo-MTHFR%2Bdeficiency%2Band%2Baltered%2Bmethyl%2Bmetabolism%2C%2Bwith%2Bembryonic%2Bgrowth%2Bdelay%2Band%2Bshort-term%2Bmemory%2Bimpairment%2Bin%2Boffspring&journal=Hum+Mol+Genet.&volume=26&pages=888-900
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B5a
+https://pubmed.ncbi.nlm.nih.gov/17378936
+https://doi.org/10.1186/1471-2458-7-41
+http://scholar.google.com/scholar_lookup?author=MR.%2BSweeney&author=J.%2BMcPartlin&author=J.%2BScott&publication_year=2007&title=Folic%2Bacid%2Bfortification%2Band%2Bpublic%2Bhealth%3A%2Breport%2Bon%2Bthreshold%2Bdoses%2Babove%2Bwhich%2Bunmetabolised%2Bfolic%2Bacid%2Bappear%2Bin%2Bserum&journal=BMC+Public+Health.&volume=7
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B6a
+https://pubmed.ncbi.nlm.nih.gov/16441927
+https://doi.org/10.1079/BJN20051618
+http://scholar.google.com/scholar_lookup?author=MR.%2BSweeney&author=J.%2BMcPartlin&author=DG.%2BWeir&author=L.%2BDaly&author=JM.%2BScott&publication_year=2006&title=Postprandial%2Bserum%2Bfolic%2Bacid%2Bresponse%2Bto%2Bmultiple%2Bdoses%2Bof%2Bfolic%2Bacid%2Bin%2Bfortified%2Bbread&journal=Br+J+Nutr.&volume=95&pages=145-51
+https://pubmed.ncbi.nlm.nih.gov/12668084
+https://doi.org/10.1016/S1570-0232(02)01010-3
+http://scholar.google.com/scholar_lookup?author=MR.%2BSweeney&author=J.%2BMcPartlin&author=DG.%2BWeir&author=JM.%2BScott&publication_year=2003&title=Measurements%2Bof%2Bsub-nanomolar%2Bconcentrations%2Bof%2Bunmetabolised%2Bfolic%2Bacid%2Bin%2Bserum&journal=J+Chromatogr+B+Analyt+Technol+Biomed+Life+Sci.&volume=788&pages=187-91
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B8a
+https://pubmed.ncbi.nlm.nih.gov/41398893
+https://doi.org/10.1097/MD.0000000000046564
+http://scholar.google.com/scholar_lookup?author=M.%2BXie&author=X.%2BQing&author=H.%2BHuang&author=J.%2BZhang&publication_year=2025&title=The%2Beffectiveness%2Band%2Bsafety%2Bof%2Bthe%2Bactive%2Bform%2Bof%2Bfolate%2Bon%2Bbiochemical%2Bparameters%2Bin%2Bwomen%2Bof%2Bchildbearing%2Bage%3A%2Ba%2Bsystematic%2Breview%2Band%2Bmeta-analysis&journal=Medicine.&volume=104
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B9a
+https://pubmed.ncbi.nlm.nih.gov/32134106
+https://doi.org/10.1093/advances/nmaa017
+http://scholar.google.com/scholar_lookup?author=LG.%2BSaldanha&author=JT.%2BDwyer&author=CJ.%2BHaggans&author=JL.%2BMills&author=N.%2BPotischman&publication_year=2020&title=Perspective%3A%2Btime%2Bto%2Bresolve%2Bconfusion%2Bon%2Bfolate%2Bamounts%2C%2Bunits%2C%2Band%2Bforms%2Bin%2Bprenatal%2Bsupplements&journal=Adv+Nutr.&volume=11&pages=753-9
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B10a
+https://pubmed.ncbi.nlm.nih.gov/41059007
+https://doi.org/10.29219/fnr.v69.12633
+http://scholar.google.com/scholar_lookup?author=C.%2BSch%C3%B6n&author=A.%2BMicka&author=D.%2BMenzel&author=M.%2BWilhelm&author=R.%2BObeid&publication_year=2025&title=Pharmacokinetics%2Bof%2B%286S%29-5-methyltetrahydrofolate%2Bdicholine%2Bsalt%2Bcompared%2Bto%2Bfolic%2Bacid%3A%2Ba%2Brandomized%2Bdouble-blind%2Bsingle%2Bdose%2Bcross-over%2Bstudy&journal=Food+Nutr+Res&volume=24
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B11a
+https://pubmed.ncbi.nlm.nih.gov/12600857
+https://doi.org/10.1093/ajcn/77.3.658
+http://scholar.google.com/scholar_lookup?author=BJ.%2BVenn&author=TJ.%2BGreen&author=R.%2BMoser&author=JI.%2BMann&publication_year=2003&title=Comparison%2Bof%2Bthe%2Beffect%2Bof%2Blow-dose%2Bsupplementation%2Bwith%2BL-5-methyltetrahydrofolate%2Bor%2Bfolic%2Bacid%2Bon%2Bplasma%2Bhomocysteine%3A%2Ba%2Brandomized%2Bplacebo-controlled%2Bstudy&journal=Am+J+Clin+Nutr.&volume=77&pages=658-62
+https://doi.org/10.1093/jn/134.3.580
+http://scholar.google.com/scholar_lookup?author=K.%2BPentieva&author=H.%2BMcNulty&author=R.%2BReichert&author=M.%2BWard&author=JJ.%2BStrain&author=DJ.%2BMcKillop&publication_year=2004&title=The%2Bshort-term%2Bbioavailabilities%2Bof%2B%5B6S%5D-5-methyltetrahydrofolate%2Band%2Bfolic%2Bacid%2Bare%2Bequivalent%2Bin%2Bmen&journal=J+Nutr.&volume=134&pages=580-5
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B13a
+https://doi.org/10.1017/S0007114523001733
+http://scholar.google.com/scholar_lookup?author=KM.%2BCochrane&author=R.%2BElango&author=AM.%2BDevlin&author=C.%2BMayer&author=JA.%2BHutcheon&author=CD.%2BKarakochuk&publication_year=2024&title=Supplementation%2Bwith%2B%286S%29-5-methyltetrahydrofolic%2Bacid%2Bappears%2Bas%2Beffective%2Bas%2Bfolic%2Bacid%2Bin%2Bmaintaining%2Bmaternal%2Bfolate%2Bstatus%2Bwhile%2Breducing%2Bunmetabolised%2Bfolic%2Bacid%2Bin%2Bmaternal%2Bplasma%3A%2Ba%2Brandomised%2Btrial%2Bof%2Bpregnant%2Bwomen%2Bin%2BCanada&journal=Br+J+Nutr.&volume=131&pages=92-102
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B14a
+https://doi.org/10.1016/j.jfca.2007.05.004
+http://scholar.google.com/scholar_lookup?author=L.%2BHarnack&author=M.%2BStevens&author=N.%2BVan%2BHeel&author=S.%2BSchakel&author=JT.%2BDwyer&author=J.%2BHimes&publication_year=2008&title=computer-based%2Bapproach%2Bfor%2Bassessing%2Bdietary%2Bsupplement%2Buse%2Bin%2Bconjunction%2Bwith%2Bdietary%2Brecalls&journal=J+Food+Compost+Anal.&volume=21&pages=S78-82
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B15a
+https://pubmed.ncbi.nlm.nih.gov/22549509
+https://doi.org/10.1096/fj.12-207894
+http://scholar.google.com/scholar_lookup?author=X.%2BJiang&author=J.%2BYan&author=AA.%2BWest&author=CA.%2BPerry&author=OV.%2BMalysheva&author=S.%2BDevapatla&publication_year=2012&title=Maternal%2Bcholine%2Bintake%2Balters%2Bthe%2Bepigenetic%2Bstate%2Bof%2Bfetal%2Bcortisol-regulating%2Bgenes%2Bin%2Bhumans&journal=FASEB+J.&volume=26&pages=3563-74
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B16a
+https://pubmed.ncbi.nlm.nih.gov/22169081
+https://doi.org/10.1016/j.jclinepi.2011.07.011
+http://scholar.google.com/scholar_lookup?author=J.%2BSim&author=M.%2BLewis&publication_year=2012&title=The%2Bsize%2Bof%2Ba%2Bpilot%2Bstudy%2Bfor%2Ba%2Bclinical%2Btrial%2Bshould%2Bbe%2Bcalculated%2Bin%2Brelation%2Bto%2Bconsiderations%2Bof%2Bprecision%2Band%2Befficiency&journal=J+Clin+Epidemiol.&volume=65&pages=301-8
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B17a
+https://pubmed.ncbi.nlm.nih.gov/33093129
+https://doi.org/10.1136/bmjdrc-2020-001468
+http://scholar.google.com/scholar_lookup?author=C.%2BJack-Roberts&author=P.%2BMaples&author=B.%2BKalkan&author=E.%2BGilboa&author=I.%2BDjuraev&publication_year=2020&title=Gestational%2Bdiabetes%2Bstatus%2Band%2Bdietary%2Bintake%2Bmodify%2Bmaternal%2Band%2Bcord%2Bblood%2Ballostatic%2Bload%2Bmarkers&journal=BMJ+Open+Diabetes+Res+Care&volume=8
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B18a
+https://pubmed.ncbi.nlm.nih.gov/37965303
+https://doi.org/10.2903/j.efsa.2023.8353
+http://scholar.google.com/scholar_lookup?author=D.%2BTurck&author=T.%2BBohn&author=J.%2BCastenmiller&author=S.%2Bde%2BHenauw&author=K-I.%2BHirsch-Ernst&publication_year=2023&title=Scientific%2Bopinion%2Bon%2Bthe%2Btolerable%2Bupper%2Bintake%2Blevel%2Bfor%2Bfolate&journal=EFSA+J+Nov.&volume=21
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B19a
+https://pubmed.ncbi.nlm.nih.gov/22932279
+https://doi.org/10.3945/ajcn.112.037523
+http://scholar.google.com/scholar_lookup?author=AA.%2BWest&author=J.%2BYan&author=CA.%2BPerry&author=X.%2BJiang&author=OV.%2BMalysheva&author=MA.%2BCaudill&publication_year=2012&title=Folate-status%2Bresponse%2Bto%2Ba%2Bcontrolled%2Bfolate%2Bintake%2Bin%2Bnonpregnant%2C%2Bpregnant%2C%2Band%2Blactating%2Bwomen&journal=Am+J+Clin+Nutr.&volume=96&pages=789-800
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B20a
+https://pubmed.ncbi.nlm.nih.gov/36394881
+https://doi.org/10.1001/jama.2022.21506
+http://scholar.google.com/scholar_lookup?author=MJ.%2BHolmberg&author=LW.%2BAndersen&publication_year=2022&title=Adjustment%2Bfor%2Bbaseline%2Bcharacteristics%2Bin%2Brandomized%2Bclinical%2Btrials&journal=JAMA.&volume=328&pages=2155-6
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B21a
+https://pubmed.ncbi.nlm.nih.gov/17823438
+https://doi.org/10.1093/ajcn/86.3.718
+http://scholar.google.com/scholar_lookup?author=CM.%2BPfeiffer&author=CL.%2BJohnson&author=RB.%2BJain&author=EA.%2BYetley&author=MF.%2BPicciano&author=JI.%2BRadar&publication_year=2007&title=Trends%2Bin%2Bblood%2Bfolate%2Band%2Bvitamin%2BB-12%2Bconcentrations%2Bin%2Bthe%2BUnited%2BStates%2C%2B1988%E2%80%932004&journal=Am+J+Clin+Nutr.&volume=86&pages=718-27
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B22a
+https://pubmed.ncbi.nlm.nih.gov/33022704
+https://doi.org/10.1093/ajcn/nqaa259
+http://scholar.google.com/scholar_lookup?author=P.%2BMaruvada&author=PJ.%2BStover&author=JB.%2BMason&author=RL.%2BBailey&author=CD.%2BDavis&author=MS.%2BField&publication_year=2020&title=Knowledge%2Bgaps%2Bin%2Bunderstanding%2Bthe%2Bmetabolic%2Band%2Bclinical%2Beffects%2Bof%2Bexcess%2Bfolates%2Ffolic%2Bacid%3A%2Ba%2Bsummary%2C%2Band%2Bperspectives%2C%2Bfrom%2Ban%2BNIH%2Bworkshop&journal=Am+J+Clin+Nutr.&volume=112&pages=1390-403
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B23a
+https://pubmed.ncbi.nlm.nih.gov/39339754
+https://doi.org/10.3390/nu16183154
+http://scholar.google.com/scholar_lookup?author=ML.%2BSamaniego-Vaesken&author=C.%2BMorais-Moreno&author=A.%2BCarretero-Krug&publication_year=2024&title=Supplementation%2Bwith%2Bfolic%2Bacid%2Bor%2B5-methyltetrahydrofolate%2Band%2Bprevention%2Bof%2Bneural%2Btube%2Bdefects%3A%2Ban%2Bevidence-based%2Bnarrative%2Breview&journal=Nutrients&volume=16
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B24a
+https://pubmed.ncbi.nlm.nih.gov/34327207
+https://doi.org/10.3389/fnut.2021.610382
+http://scholar.google.com/scholar_lookup?author=SC.%2BOsburn&author=PA.%2BRoberson&author=JA.%2BMedler&author=J.%2BShake&author=RD.%2BArnold&author=N.%2BAlamdari&publication_year=2021&title=Effects%2Bof%2B12-week%2Bmultivitamin%2Band%2Bomega-3%2Bsupplementation%2Bon%2Bmicronutrient%2Blevels%2Band%2Bred%2Bblood%2Bcell%2Bfatty%2Bacids%2Bin%2Bpre-menopausal%2Bwomen&journal=Front+Nutr.&volume=8
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B25a
+https://pubmed.ncbi.nlm.nih.gov/26817717
+https://doi.org/10.3945/jn.115.223644
+http://scholar.google.com/scholar_lookup?author=K.%2BPentieva&author=J.%2BSelhub&author=L.%2BPaul&author=AM.%2BMolloy&author=B.%2BMcNulty&author=M.%2BWard&publication_year=2016&title=Evidence%2Bfrom%2Ba%2Brandomized%2Btrial%2Bthat%2Bexposure%2Bto%2Bsupplemental%2Bfolic%2Bacid%2Bat%2Brecommended%2Blevels%2Bduring%2Bpregnancy%2Bdoes%2Bnot%2Blead%2Bto%2Bincreased%2Bunmetabolized%2Bfolic%2Bacid%2Bconcentrations%2Bin%2Bmaternal%2Bor%2Bcord%2Bblood&journal=J+Nutr.&volume=146&pages=494-500
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B26a
+https://doi.org/10.1093/cdn/nzz048.P11-024-19
+http://scholar.google.com/scholar_lookup?author=L.%2BSaldanha&author=J.%2BDwyer&author=N.%2BPotischman&author=K.%2BAndrews&publication_year=2019&title=Folic%2Bacid%2Bin%2Bprenatal%2Bsupplements%3A%2Blabeled%2Bamounts%2Bcompared%2Bto%2Brecommendations%2B%28P11-024-19%29&journal=Curr+Dev+Nutr&volume=3
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B27a
+https://pubmed.ncbi.nlm.nih.gov/31446167
+https://doi.org/10.1016/j.jogoh.2019.08.005
+http://scholar.google.com/scholar_lookup?author=A.%2BCl%C3%A9ment&author=Y.%2BMenezo&author=M.%2BCohen&author=D.%2BCornet&author=P.%2BCl%C3%A9ment&publication_year=2020&title=5-Methyltetrahydrofolate%2Breduces%2Bblood%2Bhomocysteine%2Blevel%2Bsignificantly%2Bin%2BC677T%2Bmethyltetrahydrofolate%2Breductase%2Bsingle-nucleotide%2Bpolymorphism%2Bcarriers%2Bconsulting%2Bfor%2Binfertility&journal=J+Gynecol+Obstet+Hum+Reprod.&volume=49
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B28a
+https://pubmed.ncbi.nlm.nih.gov/30406447
+https://doi.org/10.1007/s10815-018-1332-0
+http://scholar.google.com/scholar_lookup?author=LE.%2BGoyco%2BOrtiz&author=EJ.%2BServy&author=YJR.%2BMenezo&publication_year=2019&title=A%2Bsuccessful%2Btreatment%2Bwith%2B5%2Bmethyltetrahydrofolate%2Bof%2Ba%2B677%2BTT%2BMTHFR%2Bwoman%2Bsuffering%2Bpremature%2Bovarian%2Binsufficiency%2Bpost%2Ba%2BNHL%2B%28non-Hodgkin%27s%2Blymphoma%29%2Band%2BRPL%2B%28repeat%2Bpregnancy%2Blosses%29&journal=J+Assist+Reprod+Genet.&volume=36&pages=65-7
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B29a
+https://doi.org/10.4236/ojog.2021.119103
+http://scholar.google.com/scholar_lookup?author=A.%2BEssmat&publication_year=2011&title=Comparative%2Bstudy%2Bbetween%2Bthe%2Buse%2Bof%2Bregular%2Bfolic%2Bacid%2Bsupplement%2Bversus%2Bthe%2Buse%2Bof%2Bl-methyl%2Bfolate%2Bin%2Bpatients%2Bwith%2Bmethyl%2Btetrahydrofolate%2Breductase%2B%28MTHFR%29%2Bgene%2Bmutation%2Bwith%2Brecurrent%2Bpregnancy%2Bloss&journal=Open+J+Obstet+Gynecol&volume=11&pages=1104-11
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B30a
+https://pubmed.ncbi.nlm.nih.gov/23365107
+https://doi.org/10.3945/jn.112.169987
+http://scholar.google.com/scholar_lookup?author=AM.%2BBranum&author=R.%2BBailey&author=BJ.%2BSinger&publication_year=2013&title=Dietary%2Bsupplement%2Buse%2Band%2Bfolate%2Bstatus%2Bduring%2Bpregnancy%2Bin%2Bthe%2BUnited%2BStates&journal=J+Nutr.&volume=143&pages=486-92
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B31a
+https://pubmed.ncbi.nlm.nih.gov/25733468
+https://doi.org/10.3945/jn.114.201210
+http://scholar.google.com/scholar_lookup?author=CM.%2BPfeiffer&author=MR.%2BSternberg&author=Z.%2BFazili&author=EA.%2BYetley&author=DA.%2BLacher&author=RL.%2BBailey&publication_year=2015&title=Unmetabolized%2Bfolic%2Bacid%2Bis%2Bdetected%2Bin%2Bnearly%2Ball%2Bserum%2Bsamples%2Bfrom%2BUS%2Bchildren%2C%2Badolescents%2C%2Band%2Badults&journal=J+Nutr.&volume=145&pages=520-31
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B32a
+https://pubmed.ncbi.nlm.nih.gov/26269367
+https://doi.org/10.3945/ajcn.115.110783
+http://scholar.google.com/scholar_lookup?author=L.%2BPlumptre&author=SP.%2BMasih&author=A.%2BLy&author=S.%2BAufreiter&author=K-J.%2BSohn&author=R.%2BCroxford&publication_year=2015&title=High%2Bconcentrations%2Bof%2Bfolate%2Band%2Bunmetabolized%2Bfolic%2Bacid%2Bin%2Ba%2Bcohort%2Bof%2Bpregnant%2BCanadian%2Bwomen%2Band%2Bumbilical%2Bcord%2Bblood&journal=Am+J+Clin+Nutr.&volume=102&pages=848-57
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B33a
+https://pubmed.ncbi.nlm.nih.gov/16277775
+https://doi.org/10.1079/BJN20051572
+http://scholar.google.com/scholar_lookup?author=MR.%2BSweeney&author=J.%2BMcPartlin&author=DG.%2BWeir&author=S.%2BDaly&author=K.%2BPentieva&author=L.%2BDaly&publication_year=2005&title=Evidence%2Bof%2Bunmetabolised%2Bfolic%2Bacid%2Bin%2Bcord%2Bblood%2Bof%2Bnewborn%2Band%2Bserum%2Bof%2B4-day-old%2Binfants&journal=Br+J+Nutr.&volume=94&pages=727-30
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B34a
+https://pubmed.ncbi.nlm.nih.gov/22529856
+https://doi.org/10.1155/2012/485179
+http://scholar.google.com/scholar_lookup?author=C.%2BTam&author=D.%2BO%27Connor&author=G.%2BKoren&publication_year=2012&title=Circulating%2Bunmetabolized%2Bfolic%2Bacid%3A%2Brelationship%2Bto%2Bfolate%2Bstatus%2Band%2Beffect%2Bof%2Bsupplementation&journal=Obstet+Gynecol+Int.&volume=2012
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B35a
+https://pubmed.ncbi.nlm.nih.gov/19706381
+https://doi.org/10.1073/pnas.0902072106
+http://scholar.google.com/scholar_lookup?author=SW.%2BBailey&author=JE.%2BAyling&publication_year=2009&title=The%2Bextremely%2Bslow%2Band%2Bvariable%2Bactivity%2Bof%2Bdihydrofolate%2Breductase%2Bin%2Bhuman%2Bliver%2Band%2Bits%2Bimplications%2Bfor%2Bhigh%2Bfolic%2Bacid%2Bintake&journal=Proc+Natl+Acad+Sci+USA.&volume=106&pages=15424-9
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B36a
+https://pubmed.ncbi.nlm.nih.gov/31205715
+https://doi.org/10.1177/2050313X19850435
+http://scholar.google.com/scholar_lookup?author=D.%2BCornet&author=A.%2BClement&author=P.%2BClement&author=Y.%2BMenezo&publication_year=2019&title=High%2Bdoses%2Bof%2Bfolic%2Bacid%2Binduce%2Ba%2Bpseudo-methylenetetrahydrofolate%2Bsyndrome&journal=SAGE+Open+Med+Case+Rep&volume=7
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B37a
+https://pubmed.ncbi.nlm.nih.gov/25733650
+https://doi.org/10.3945/ajcn.114.086603
+http://scholar.google.com/scholar_lookup?author=KE.%2BChristensen&author=LG.%2BMikael&author=KY.%2BLeung&author=N.%2BLevesque&author=L.%2BDeng&author=Q.%2BWu&publication_year=2015&title=High%2Bfolic%2Bacid%2Bconsumption%2Bleads%2Bto%2Bpseudo-MTHFR%2Bdeficiency%2C%2Baltered%2Blipid%2Bmetabolism%2C%2Band%2Bliver%2Binjury%2Bin%2Bmice&journal=Am+J+Clin+Nutr.&volume=101&pages=646-58
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B38a
+https://pubmed.ncbi.nlm.nih.gov/32521649
+https://doi.org/10.3390/nu12061716
+http://scholar.google.com/scholar_lookup?author=M.%2BCos%C3%ADn-Tom%C3%A1s&author=Y.%2BLuan&author=D.%2BLeclerc&author=OV.%2BMalysheva&author=N.%2BLauzon&author=RH.%2BBahous&publication_year=2020&title=Moderate%2Bfolic%2Bacid%2Bsupplementation%2Bin%2Bpregnant%2Bmice%2Bresults%2Bin%2Bbehavioral%2Balterations%2Bin%2Boffspring%2Bwith%2Bsex-specific%2Bchanges%2Bin%2Bmethyl%2Bmetabolism&journal=Nutrients&volume=12
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B39a
+https://pubmed.ncbi.nlm.nih.gov/28298392
+https://doi.org/10.3945/ajcn.116.137968
+http://scholar.google.com/scholar_lookup?author=R.%2BPage&author=A.%2BRobichaud&author=TE.%2BArbuckle&author=WD.%2BFraser&author=AJ.%2BMacFarlane&publication_year=2017&title=Total%2Bfolate%2Band%2Bunmetabolized%2Bfolic%2Bacid%2Bin%2Bthe%2Bbreast%2Bmilk%2Bof%2Ba%2Bcross-section%2Bof%2BCanadian%2Bwomen&journal=Am+J+Clin+Nutr.&volume=105&pages=1101-9
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B40a
+https://pubmed.ncbi.nlm.nih.gov/29675145
+https://doi.org/10.1039/C7SC04004K
+http://scholar.google.com/scholar_lookup?author=M.%2BFern%C3%A1ndez&author=F.%2BJavaid&author=V.%2BChudasama&publication_year=2018&title=Advances%2Bin%2Btargeting%2Bthe%2Bfolate%2Breceptor%2Bin%2Bthe%2Btreatment%2Fimaging%2Bof%2Bcancers&journal=Chem+Sci.&volume=9&pages=790-810
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B41a
+https://pubmed.ncbi.nlm.nih.gov/33323854
+https://doi.org/10.1097/PGP.0000000000000736
+http://scholar.google.com/scholar_lookup?author=KZ.%2BHanley&author=IR.%2BHorowitz&author=A.%2BGordon&author=J.%2BMeisel&author=N.%2BKhanna&publication_year=2021&title=Folate%2Breceptor%2Balpha%2Bis%2Bpreferentially%2Bexpressed%2Bin%2Bthe%2Bcarcinoma%2Bcomponent%2Bof%2Bendometrial%2Bcarcinosarcomas%3A%2Ba%2Bpotential%2Btarget%2Bfor%2Badjuvant%2Btherapy&journal=Int+J+Gynecol+Pathol.&volume=40&pages=501-9
+https://pubmed.ncbi.nlm.nih.gov/28724658
+https://doi.org/10.3945/jn.117.247445
+http://scholar.google.com/scholar_lookup?author=C.%2BPaniz&author=JF.%2BBertinato&author=MR.%2BLucena&author=E.%2BDe%2BCarli&author=PM.%2Bda%2BSilva%2BAmorim&author=G.%2BWataru%2BGomes&publication_year=2017&title=A%2Bdaily%2Bdose%2Bof%2B5%2Bmg%2Bfolic%2Bacid%2Bfor%2B90%2Bdays%2Bis%2Bassociated%2Bwith%2Bincreased%2Bserum%2Bunmetabolized%2Bfolic%2Bacid%2Band%2Breduced%2Bnatural%2Bkiller%2Bcell%2Bcytotoxicity%2Bin%2Bhealthy%2BBrazilian%2Badults&journal=J+Nutr.&volume=147&pages=1677-85
+https://pubmed.ncbi.nlm.nih.gov/27012626
+https://doi.org/10.1016/j.jnutbio.2015.12.006
+http://scholar.google.com/scholar_lookup?author=H.%2BSawaengsri&author=J.%2BWang&author=C.%2BReginaldo&author=J.%2BSteluti&author=D.%2BWu&author=SN.%2BMeydani&publication_year=2016&title=High%2Bfolic%2Bacid%2Bintake%2Breduces%2Bnatural%2Bkiller%2Bcell%2Bcytotoxicity%2Bin%2Baged%2Bmice&journal=J+Nutr+Biochem.&volume=30&pages=102-7
+https://pubmed.ncbi.nlm.nih.gov/16365081
+https://doi.org/10.1093/jn/136.1.189
+http://scholar.google.com/scholar_lookup?author=AM.%2BTroen&author=B.%2BMitchell&author=B.%2BSorensen&author=MH.%2BWener&author=A.%2BJohnston&author=B.%2BWood&publication_year=2006&title=Unmetabolized%2Bfolic%2Bacid%2Bin%2Bplasma%2Bis%2Bassociated%2Bwith%2Breduced%2Bnatural%2Bkiller%2Bcell%2Bcytotoxicity%2Bamong%2Bpostmenopausal%2Bwomen&journal=J+Nutr.&volume=136&pages=189-94
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B45a
+https://pubmed.ncbi.nlm.nih.gov/24465421
+https://doi.org/10.1371/journal.pone.0084635
+http://scholar.google.com/scholar_lookup?author=S.%2BDeghan%2BManshadi&author=L.%2BIshiguro&author=KJ.%2BSohn&author=A.%2BMedline&author=R.%2BRenlund&author=R.%2BCroxford&publication_year=2014&title=Folic%2Bacid%2Bsupplementation%2Bpromotes%2Bmammary%2Btumor%2Bprogression%2Bin%2Ba%2Brat%2Bmodel&journal=PLoS+ONE.&volume=9
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B46a
+https://pubmed.ncbi.nlm.nih.gov/17626997
+https://doi.org/10.1158/1055-9965.EPI-07-0329
+http://scholar.google.com/scholar_lookup?author=JB.%2BMason&author=A.%2BDickstein&author=PF.%2BJacques&author=P.%2BHaggarty&author=J.%2BSelhub&author=G.%2BDallal&publication_year=2007&title=A%2Btemporal%2Bassociation%2Bbetween%2Bfolic%2Bacid%2Bfortification%2Band%2Ban%2Bincrease%2Bin%2Bcolorectal%2Bcancer%2Brates%2Bmay%2Bbe%2Billuminating%2Bimportant%2Bbiological%2Bprinciples%3A%2Ba%2Bhypothesis&journal=Cancer+Epidemiol+Biomarkers+Prev.&volume=16&pages=1325-9
+https://pubmed.ncbi.nlm.nih.gov/23403681
+https://doi.org/10.1001/jama.2012.155925
+http://scholar.google.com/scholar_lookup?author=P.%2BSur%C3%A9n&author=C.%2BRoth&author=M.%2BBresnahan&author=M.%2BHaugen&author=M.%2BHornig&author=D.%2BHirtz&publication_year=2013&title=Association%2Bbetween%2Bmaternal%2Buse%2Bof%2Bfolic%2Bacid%2Bsupplements%2Band%2Brisk%2Bof%2Bautism%2Bspectrum%2Bdisorders%2Bin%2Bchildren&journal=JAMA.&volume=309&pages=570-7
+https://doi.org/10.3390/brainsci7110149
+http://scholar.google.com/scholar_lookup?author=D.%2BWiens&author=MC.%2BDeSoto&publication_year=2017&title=Is%2Bhigh%2Bfolic%2Bacid%2Bintake%2Ba%2Brisk%2Bfactor%2Bfor%2Bautism%3F&journal=Brain+Sci&volume=7
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B49a
+https://pubmed.ncbi.nlm.nih.gov/26063067
+https://doi.org/10.3945/jn.115.211300
+http://scholar.google.com/scholar_lookup?author=SP.%2BMasih&author=L.%2BPlumptre&author=A.%2BLy&author=H.%2BBerger&author=AY.%2BLausman&author=R.%2BCroxford&publication_year=2015&title=Pregnant%2BCanadian%2Bwomen%2Bachieve%2Brecommended%2Bintakes%2Bof%2Bone-carbon%2Bnutrients%2Bthrough%2Bprenatal%2Bsupplementation%2Bbut%2Bthe%2Bsupplement%2Bcomposition%2C%2Bincluding%2Bcholine%2C%2Brequires%2Breconsideration&journal=J+Nutr.&volume=145&pages=1824-34
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B50a
+https://pubmed.ncbi.nlm.nih.gov/23557540
+https://doi.org/10.1111/mcn.12038
+http://scholar.google.com/scholar_lookup?author=MF.%2BG%C3%B3mez&author=CJ.%2BField&author=DL.%2BOlstad&author=S.%2BLoehr&author=S.%2BRamage&author=LJ.%2BMcCargar&publication_year=2015&title=Use%2Bof%2Bmicronutrient%2Bsupplements%2Bamong%2Bpregnant%2Bwomen%2Bin%2BAlberta%3A%2Bresults%2Bfrom%2Bthe%2BAlberta%2Bpregnancy%2Boutcomes%2Band%2Bnutrition%2B%28APrON%29%2Bcohort&journal=Matern+Child+Nutr.&volume=11&pages=497-510
+https://pubmed.ncbi.nlm.nih.gov/28615265
+https://doi.org/10.3945/ajcn.117.155499
+http://scholar.google.com/scholar_lookup?author=L.%2BDubois&author=M.%2BDiasparra&author=B.%2BB%C3%A9dard&author=CK.%2BColapinto&author=B.%2BFontaine-Bisson&author=A-S.%2BMorisset&publication_year=2017&title=Adequacy%2Bof%2Bnutritional%2Bintake%2Bfrom%2Bfood%2Band%2Bsupplements%2Bin%2Ba%2Bcohort%2Bof%2Bpregnant%2Bwomen%2Bin%2BQu%C3%A9bec%2C%2BCanada%3A%2Bthe%2B3D%2Bcohort%2Bstudy%2B%28Design%2C%2BDevelop%2C%2BDiscover%29&journal=Am+J+Clin+Nutr.&volume=106&pages=541-8
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#B52a
+http://dx.doi.org/10.3389/fnut.2026.1679067
+https://loop.frontiersin.org/people/843271/overview
+https://loop.frontiersin.org/people/21699/overview
+https://loop.frontiersin.org/people/1881086/overview
+https://creativecommons.org/licenses/by/4.0/
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/pdf
+http://www.readcube.com/articles/10.3389/fnut.2026.1679067
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/epub
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/xml
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#outline
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#figures
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#cite
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full#share
+https://public-pages-files-2025.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/bibTex
+https://public-pages-files-2025.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/endNote
+https://public-pages-files-2025.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/reference
+https://public-pages-files-2025.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/text
+https://www.facebook.com/sharer/sharer.php?u=https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full
+https://www.twitter.com/share?url=https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full
+https://www.linkedin.com/share?url=https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full
+https://www.frontiersin.org/guidelines/author-guidelines
+https://www.frontiersin.org/for-authors/author-services
+https://www.frontiersin.org/guidelines/policies-and-publication-ethics
+https://www.frontiersin.org/guidelines/editor-guidelines
+https://www.frontiersin.org/research-topics
+https://policylabs.frontiersin.org/
+https://kids.frontiersin.org/
+https://helpcenter.frontiersin.org/
+https://subscription-management.frontiersin.org/emails/preferences#block0
+https://www.frontiersin.org/submission/submit
+https://www.facebook.com/Frontiersin
+https://twitter.com/frontiersin
+https://www.linkedin.com/company/frontiers
+https://www.instagram.com/frontiersin_
+https://www.frontiersin.org/legal/privacy-policy
+https://www.frontiersin.org/legal/terms-and-conditions
+https://www.frontiersin.org/about/accessibility-statement
+
+IMAGES
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full
+https://www.frontiersin.org/api/ipx/s=284x160&fit=cover&f=webp/https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/EB0A75ED-DA9A-4E9E-BB44C4C760E69730/webimage-C6091B07-6707-4ACC-B34E3E73A56ABB73.png
+https://www.frontiersin.org/api/ipx/w=247&f=webp/https://www.frontiersin.org/files/Articles/1679067/xml-images/fnut-13-1679067-g0001.webp
+https://www.frontiersin.org/files/Articles/1679067/xml-images/fnut-13-1679067-g0001.webp
+https://static2.frontiersin.org/static-resources/images/crossmark_color.webp
+https://www.frontiersin.org/api/ipx/s=268x280&fit=outside&f=webp/https://brand.frontiersin.org/asset/af8621e4-5094-42d6-aae7-397ebc5e76df/thumbnail/webimage-Winter-ice-diving-underwater-in-a-quarry-in-Canada
+end https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full
+
+FULL TEXT FOR URL https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1679067/full SAVED TO ./.webcats/https-www-frontiersin-org-89-fnut-2026-1679067-full-14346af.txt

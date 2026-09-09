@@ -1,0 +1,1327 @@
+begin https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/begin https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/
+begin https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/
+
+begin https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+Search
+Log in
+
+Primary site navigation
+
+Search PMC Full-Text Archive
+Search in PMC
+Journal List 
+User Guide
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+BMJ. 2003 Mar 15;326(7389):571. doi: 10.1136/bmj.326.7389.571
+Effects of alternative maternal micronutrient supplements on low birth weight in rural Nepal: double blind randomised community trial
+Parul Christian a, Subarna K Khatry b, Joanne Katz c, Elizabeth K Pradhan a, Steven C LeClerq a, Sharada Ram Shrestha b, Ramesh K Adhikari b, Alfred Sommer d, Keith P West Jr a
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC151518  PMID: 12637400
+Abstract
+Objective
+
+To assess the impact on birth size and risk of low birth weight of alternative combinations of micronutrients given to pregnant women.
+
+Design
+
+Double blind cluster randomised controlled trial.
+
+Setting
+
+Rural community in south eastern Nepal.
+
+Participants
+
+4926 pregnant women and 4130 live born infants.
+
+Interventions
+
+426 communities were randomised to five regimens in which pregnant women received daily supplements of folic acid, folic acid-iron, folic acid-iron-zinc, or multiple micronutrients all given with vitamin A, or vitamin A alone (control).
+
+Main outcome measures
+
+Birth weight, length, and head and chest circumference assessed within 72 hours of birth. Low birth weight was defined <2500 g.
+
+Results
+
+Supplementation with maternal folic acid alone had no effect on birth size. Folic acid-iron increased mean birth weight by 37 g (95% confidence interval −16 g to 90 g) and reduced the percentage of low birthweight babies (<2500 g) from 43% to 34% (16%; relative risk=0.84, 0.72 to 0.99). Folic acid-iron-zinc had no effect on birth size compared with controls. Multiple micronutrient supplementation increased birth weight by 64 g (12 g to 115 g) and reduced the percentage of low birthweight babies by 14% (0.86, 0.74 to 0.99). None of the supplement combinations reduced the incidence of preterm births. Folic acid-iron and multiple micronutrients increased head and chest circumference of babies, but not length.
+
+Conclusions
+
+Antenatal folic acid-iron supplements modestly reduce the risk of low birth weight. Multiple micronutrients confer no additional benefit over folic acid-iron in reducing this risk.
+
+What is already known on this topic
+
+Deficiencies in micronutrients are common in women in developing countries and have been associated with low birth weight and preterm delivery
+
+What this study adds
+
+In rural Nepal maternal supplementation with folic acid-iron reduced the incidence of low birth weight by 16%
+
+A multiple micronutrient supplement of 14 micronutrients, including folic acid, iron, and zinc, reduced low birth weight by 14%, thus conferring no advantage over folic acid-iron
+
+Introduction
+
+Birth weight is closely associated with the health and survival of infants in the developing world, where 90% of the 250 million low birthweight babies (<2500 g) are born each year.1 Studies of food supplementation have typically reported increases in birth weight of 25-84 g per 10 000 kcal of maternal energy intake during pregnancy,2 although mean increases of about 135 g may occur with higher energy intakes.3,4
+
+The effects of maternal micronutrient supplementation on birth weight and intrauterine growth have not been well studied, despite the potential benefits of such interventions on pregnancy outcomes. Individual micronutrients such as folic acid, zinc, iron, and vitamin A have received attention. An overview of five controlled trials showed a 40% reduction in the prevalence of intrauterine growth retardation with folic acid supplementation, although these trials were small and not well designed.5 Recent trials in Bangladesh6 and Peru7 did not confirm the improvement in birth weight with antenatal zinc supplementation reported in previous studies. The efficacy of iron supplementation in improving pregnancy outcome is currently debated. Although there is evidence for lower birth weight among mothers with anaemia, there are no data to establish a causal association.8 A randomised placebo controlled trial in Niger showed no improvement in birth weight after maternal iron supplementation during pregnancy, although length at birth increased.9 We have reported that maternal vitamin A or β carotene supplementation failed to influence either infant mortality10 or neonatal weight11 but was associated with a 44% reduction in pregnancy related maternal mortality.12
+
+Unicef is currently promoting antenatal use of multiple micronutrient supplements among women in the developing world. Providing a full complement of micronutrients is expected to optimise functional and health benefits to the mother and infant. Yet data are lacking on the efficacy of such a supplement in improving pregnancy outcomes.
+
+We assessed the impact of daily antenatal supplementation with folic acid, folic acid-iron, folic acid-iron-zinc, or a multiple micronutrient supplement (containing 14 micronutrients including folic acid, iron, and zinc), all with vitamin A, compared with vitamin A alone (as control) on mean birth weight and percentage of low birthweight babies. We also examined other outcomes, including maternal and infant morbidity and micronutrient status (results not shown here). All pregnant women received vitamin A because it is known to reduce pregnancy related mortality in this population.12
+
+Methods
+Study design and population
+
+The study was a double blind cluster randomised controlled trial conducted in the south eastern plains district of Sarlahi, Nepal, from December 1998 to the end of April 2001. We originally estimated that we would need a sample size of 600 pregnancies per treatment arm to detect a difference of ⩾100 g in birth weight between each of the four treatments compared with control. This was calculated according to two tailed α=0.05 and β=0.20, birth weight SD 500 g, 10% fetal loss, 15% loss to follow up, and 20% design effect associated with cluster randomisation.10,12 However, at the outset of the trial we increased the number of pregnancies per group to 1000 per group so that we could examine survival into the 1st year. This allowed a minimum detectable difference of 75 g in birth weight with 80% power. To achieve this sample size in a one year period we defined as the study area 426 sectors, each of 75-150 households located in 30 “village development communities.” Randomisation was done in blocks of five within each community to insure geographical balance across groups. We randomised sectors to the five different supplement arms by drawing numbered identical chips from a hat.
+
+Eligibility and surveillance of pregnancy
+
+All women of reproductive age were first screened by 426 local female workers (“sector distributors”) to assess how likely it was that they would become pregnant over the next 12 months. Women who were currently pregnant, breast feeding a baby <9 months old, menopausal, sterilised, or widowed were excluded. Remaining women were registered and visited by sector distributors at home every five weeks for a year and were asked if they had menstruated in the previous month. If not, women underwent a urine test (human chorionic gonadotrophin antigen; Clue, Orchid Biomedical Systems, Goa, India) to ascertain pregnancies. Throughout the trial, women were added to the registry and pregnancy surveillance when they married.
+
+At baseline newly identified pregnant women were asked to recall morbidity, diet, alcohol and tobacco use, and household chores performed in the previous seven days; and weight, height and mid-upper arm circumference were recorded. During the third trimester, morbidity, diet, and other exposure histories and weight and mid-upper arm circumference were recorded.
+
+Intervention
+
+Sectors were randomly assigned for women to receive one of the following five micronutrient supplements: folic acid (400 μg), folic acid-iron (60 mg ferrous fumarate), folic acid-iron-zinc (30 mg zinc sulphate), or multiple folic acid-iron-zinc plus vitamin D 10 μg, vitamin E 10 mg, vitamin B-1 1.6 mg, vitamin B-2 1.8 mg, niacin 20 mg, vitamin B-6 2.2 mg, vitamin B-12 2.6 μg, vitamin C 100 mg, vitamin K 65 μg, copper 2.0 mg, magnesium 100 mg) all with vitamin A, and vitamin A alone (1000 μg) as the control.
+
+The amount of each nutrient in the supplement was the recommended dietary allowance for pregnant or lactating woman,13 except for iron and zinc. The iron dose used was that recommended in areas where the prevalence of anaemia is >40%.14 The zinc dosage achieved a 1:2 ratio with iron to minimise competitive absorption between these nutrients.15
+
+The supplements were identical in appearance and participants, investigators, field staff, and statisticians did not know supplement codes until the study finished. Midway through the trial, the supplements were tested and found to be within 4% of the expected concentration for each nutrient.
+
+At enrolment, each woman received 15 caplets in a bottle with instructions to take one caplet every night before bedtime. Sector distributors visited women twice each week to monitor supplement intake and replenish supplies of 15 caplets. The number added each time was summed over the duration time in the trial (for up to 12 weeks after a live birth and ⩾ five weeks after a miscarriage or stillbirth) to estimate compliance.
+
+Birth weight and other anthropometric measures
+
+Most births occurred at home, assisted by traditional birth attendants, relatives, and neighbours.12 Once a birth was reported, the anthropometrist visited to record “day of birth” measurements. Weight was measured to the nearest 2 g on a digital scale (Seca 727, Hamburg, Germany), which was checked before each weighing against standard weights. Recumbent length was measured to the nearest 0.1 cm on a length board (Shorr Infant Measuring Board, Shorr Productions, Rhode Island, USA). Chest and head circumferences were measured to the nearest 0.1 cm with an insertion tape (Ross Laboratories, Columbus, Ohio, USA). For all measurements except weight we used the median of three values in analyses.
+
+Low birth weight was defined as weight <2500 g measured within 72 hours of birth. Small for gestational age babies were defined as those whose weight was below the 10th centile of the gestational age sex specific US reference for fetal growth.16 Gestational age was calculated from the reported first day of the last menstrual period, obtained at the baseline interview, and checked against the week of the positive pregnancy test and prospectively collected histories of menstruation. Preterm delivery was defined as delivery before 37 weeks of gestation.
+
+Statistical analysis
+
+We compared baseline characteristics of pregnant women and median compliance rates (proportion of all eligible days of doses consumed) across treatment groups.
+
+Data were analysed on an intention to treat basis. Mean differences in birth weight, length, and head and chest circumference were estimated with a generalised estimating equation linear model17 with exchangeable correlation to account for the fact that we randomised sectors, rather than individuals, to treatment groups. We repeated analyses adjusting for maternal weight at baseline, which differed by chance among treatment group (see table 1). The adjusted mean differences were estimated relative to the vitamin A (control) group. To estimate the relative risk and 95% confidence intervals for low birth weight, small for gestational age, and prematurity, we fitted generalised estimating equations binomial regression models with a log link and exchangeable correlation using treatment indicator variables (vitamin A being the referent group) with and without maternal weight as covariates. The overall treatment effects for each outcome were tested with the likelihood ratio test. All analyses were done with SAS version 6.0 (SAS Institute, Cary, NC).
+
+Table 1.
+
+ Characteristics of pregnant women by treatment group. Figures are number* (percentage) of women
+
+                                         Control   Folic acid  Folic acid-iron  Folic acid-iron-zinc  Multiple micronutrients
+---------------------------------------  --------  ----------  ---------------  --------------------  -----------------------
+No of pregnancies                        1037      929         940              982                   1038
+Age at baseline (years):
+⩽19                                      320 (31)  292 (32)    275 (29)         297 (30)              289 (28)
+20-29                                    532 (52)  483 (52)    522 (56)         527 (54)              568 (55)
+⩾30                                      178 (17)  150 (16)    139 (15)         158 (16)              178 (17)
+Socioeconomic status:
+Literate                                 220 (22)  177 (19)    194 (21)         198 (20)              188 (18)
+Own land                                 739 (73)  733 (78)    759 (81)         728 (75)              773 (75)
+Low caste                                130 (13)  112 (12)    96 (10)          135 (14)              138 (13)
+Parity:
+0                                        275 (27)  255 (28)    237 (25)         252 (26)              265 (26)
+1-2                                      371 (36)  338 (37)    380 (41)         381 (39)              388 (38)
+⩾3                                       372 (37)  330 (36)    317 (34)         338 (35)              376 (37)
+Diet (at least twice in previous week):
+Meat/fish                                202 (21)  178 (21)    162 (19)         178 (20)              211 (21)
+Yellow fruits/vegetables†                181 (19)  151 (18)    156 (18)         180 (20)              171 (17)
+Substance use (in previous week):
+Smoked cigarettes                        153 (16)  160 (19)    146 (17)         135 (15)              160 (16)
+Drank alcohol                            44 (5)    59 (7)      54 (6)           50 (6)                58 (6)
+Place of delivery:
+Home                                     783 (94)  688 (93)    687 (92)         719 (92)              795 (91)
+Health facility                          35 (4)    38 (5)      41 (6)           49 (6)                45 (5)
+Other                                    19 (2)    18 (2)      20 (3)           17 (2)                30 (3)
+
+Open in a new tab
+*
+
+Numbers of women vary because of missing values. 
+
+†
+
+Mango, papaya, pumpkin (ripe). 
+
+Results
+
+Of 36 083 women of reproductive age, 14 185 were identified as likely to become pregnant (figure). Over a year, 4998 pregnancies were confirmed by urine testing. Of these, six were false positive, three had unknown outcomes, and 63 ended as induced abortions and were excluded. Of the remaining, 4096 resulted in at least one live birth. The numbers of twin pregnancies (34 pairs of live born twins and eight pairs with one stillborn) were comparable across treatment groups. In all, 830 pregnancies (16.8%) ended in miscarriage, stillbirth, or maternal death. Of the 4130 live born infants, about 80% were measured within 72 hours and 70% within 24 hours of birth.
+
+Baseline maternal characteristics were similar except for small differences in ethnic composition and land holding (table 1). Gestation and anthropometric variables were similar, except women in the control group weighed slightly less (table 2).
+
+Table 2.
+
+ Maternal anthropometric measures and gestation at baseline by treatment group
+
+                   Control                 Folic acid       Folic acid-iron       Folic acid-iron-zinc               Multiple micronutrients
+-----------------  ---------  -----------  ----------  ---  ---------------  ---  --------------------  -----------  -----------------------  ---  -----------  ---  ----  -----------
+No                 Mean (SD)  No           Mean (SD)   No   Mean (SD)        No   Mean (SD)             No           Mean (SD)
+Weight (kg)*       944        42.9 (5.6)               852  43.7 (5.9)            866                   43.9 (5.6)                            899  43.4 (5.5)        983   43.2 (5.4)
+Height (cm)*       942        150.1 (5.7)              852  150.5 (5.6)           865                   150.3 (5.4)                           899  150.5 (5.7)       984   149.8 (5.4)
+BMI                941        19.0 (2.1)               852  19.3 (2.2)            864                   19.4 (2.0)                            899  19.1 (2.0)        983   19.2 (2.0)
+MUAC (cm)*         940        21.8 (1.8)               850  21.9 (1.9)            865                   22.0 (1.8)                            898  21.9 (1.8)        984   21.9 (1.8)
+Gestation (weeks)  1020       11.2 (5.1)               901  11.5 (5.3)            928                   11.3 (5.1)                            963  11.4 (5.1)        1035  11.6 (5.1)
+
+Open in a new tab
+
+BMI=body mass index (weight/height2). 
+
+MUAC=mid-upper arm circumference. 
+
+*
+
+Data missing on weight for 382 women, on height for 384 women, and on MUAC for 391 women. 
+
+Compliance with supplementation during pregnancy was high (median 88%) and did not vary by treatment (table 3). There were few self reported side effects, and the prevalence of nausea, vomiting, constipation, gastrointestinal distress, dizziness, and diarrhoea ranged from 0-4% and was comparable by treatment group. Dark stools were more common in women in the folic acid-iron group (4.2%; relative risk 3.0, 95% confidence interval 1.3 to 7.1) and the multiple micronutrient group (3.2%; 2.3, 1.0 to 5.2) compared with in the control group (1.5%). The prevalence of dark stools was 0.5% and 1.6% in the folic acid and folic acid-iron-zinc groups, respectively.
+
+Table 3.
+
+ Compliance with supplements during pregnancy. Figures for compliance are numbers (percentage) of women
+
+                              Control           Folic acid        Folic acid-iron   Folic acid-iron-zinc  Multiple micronutrients
+----------------------------  ----------------  ----------------  ----------------  --------------------  -----------------------
+No of women                   1037              929               940               982                   1038
+Compliance:
+0%                            56 (5.4)          46 (5.0)          46 (4.9)          40 (4.1)              41 (3.9)
+1-25%                         88 (8.5)          70 (7.5)          53 (5.6)          67 (6.8)              64 (6.2)
+26-50%                        86 (8.3)          71 (7.6)          75 (8.0)          76 (7.7)              79 (7.6)
+51-75%                        138 (13.3)        134 (14.4)        153 (16.3)        127 (12.9)            136 (13.1)
+76-100%                       669 (64.5)        608 (65.5)        613 (65.2)        672 (68.5)            718 (69.2)
+Mean (SD)                     72.7 (31.5)       74.2 (30.4)       74.9 (29.4)       75.8 (29.2)           76.2 (28.9)
+Median (interquartile range)  86.1 (60.3-96.3)  88.2 (61.2-96.8)  87.8 (63.4-96.5)  88.2 (65.2-96.6)      88.2 (67.1-97.0)
+
+Open in a new tab
+
+Compared with the control group, folic acid supplementation had no effect on birth size except for a small decrement in birth length (−0.32 cm, −0.58 cm to −0.05 cm) (table 4). Birth weight in the folic acid-iron group was 37 g (−16 g to 90 g) higher than in the control group. Chest circumference (0.35 cm, 0.09 cm to 0.61 cm) and head circumference (0.16 cm, −0.03 cm to 0.34 cm) were also higher. There was no difference in length. Folic acid-iron-zinc supplementation had no apparent effect on any aspect of birth size compared with the control group. Birth weight was 53 g (0 g to 108 g) higher in the folic acid-iron group compared with the folic acid-iron-zinc group. Birth weight in the multiple micronutrients group was 64 g (12 g to 115 g) higher, as were chest (0.36 cm, 0.11 cm to 0.61 cm) and head (0.19 cm, 0.02 cm to 0.37 cm) circumference but not length (0.14 cm, −0.10 cm to 0.39 cm). The effects of supplementation with folic acid-iron and multiple micronutrients may have differed in the distribution of the added weight at birth, with multiple micronutrients increasing weight disproportionately at the upper end. There were 50% more infants in the multiple micronutrient group who weighed ⩾3300 g compared with the control group (relative risk=1.5, 0.96 to 2.2). Proportions in the folic acid-iron group were similar to the control group (1.1, 0.72 to 1.8).
+
+Table 4.
+
+ Newborn anthropometry measured within 72 hours of birth by treatment group*
+
+                         Mean (SD)    Difference†  Difference‡ (95% CI)    P value§
+-----------------------  -----------  -----------  ----------------------  --------
+Control                  2587 (445)   —            —                       0.0014
+Folic acid               2587 (429)   −7           −20 (−71 to 32)
+Folic acid-iron          2652 (436)   60           37 (−16 to 90)
+Folic acid-iron-zinc     2598 (428)   1            −11 (−63 to 40)
+Multiple micronutrients  2659 (446)   64           64 (12 to 115)
+Control                  47.2 (2.32)  —            —                       0.0061
+Folic acid               46.9 (2.42)  −0.29        −0.32 (−0.58 to −0.05)
+Folic acid-iron          47.4 (2.48)  0.16         0.05 (−0.25 to 0.34)
+Folic acid-iron-zinc     47.2 (2.38)  −0.04        −0.10 (−0.35 to 0.16)
+Multiple micronutrients  47.4 (2.31)  0.16         0.14 (−0.10 to 0.39)
+Control                  30.4 (2.05)  —            —                       <0.0001
+Folic acid               30.4 (2.13)  0.03         −0.04 (−0.29 to 0.21)
+Folic acid-iron          30.8 (2.19)  0.41         0.35 (0.09 to 0.61)
+Folic acid-iron-zinc     30.4 (2.05)  0.05         0.001 (−0.26 to 0.26)
+Multiple micronutrients  30.8 (2.06)  0.36         0.36 (0.11 to 0.61)
+Control                  32.5 (1.46)  —            —                       0.0123
+Folic acid               32.5 (1.40)  0.03         −0.004 (−0.18 to 0.19)
+Folic acid-iron          32.7 (1.44)  0.20         0.16 (−0.03 to 0.34)
+Folic acid-iron-zinc     32.6 (1.46)  0.05         0.01 (−0.17 to 0.20)
+Multiple micronutrients  32.7 (1.40)  0.21         0.19 (0.02 to 0.37)
+
+Open in a new tab
+*
+
+No=685, 628, 635, 672, and 705 for control, folic acid, folic acid-iron, folic acid-iron-zinc, and multiple micronutrients, respectively. 
+
+†
+
+Difference from control adjusted for design effect. 
+
+‡
+
+Difference from control adjusted for maternal weight at baseline and design effect. 
+
+§
+
+Using likelihood ratio test (χ2 with 4 df) to determine whether five groups differ significantly from each other. 
+
+As we expected, the increases in birth weight among the folic acid-iron and multiple micronutrient groups translated into modest reductions in the proportions of low birthweight babies (<2500 g) of 16% (relative risk 0.84, 0.72 to 0.99) and 14% (0.86, 0.74 to 0.99), respectively (table 5). There was also a lower incidence of small for gestational age babies in the folic acid-iron group than in the control group (0.91, 0.83 to 1.00). There was no discernable effect on preterm births, all relative risks being about 1.0.
+
+Table 5.
+
+ Percent low birthweight, small for gestational age,* and preterm babies* by treatment group
+
+                         No (%)      Relative risk (95% CI)†  P value‡
+-----------------------  ----------  -----------------------  --------
+Control                  685 (43.4)  1.0                      0.0103
+Folic acid               628 (41.7)  1.00 (0.88 to 1.15)
+Folic acid-iron          635 (34.3)  0.84 (0.72 to 0.99)
+Folic acid-iron-zinc     672 (39.4)  0.96 (0.83 to 1.11)
+Multiple micronutrients  705 (35.3)  0.86 (0.74 to 0.99)
+Control                  685 (58.7)  1.0                      0.1712
+Folic acid               628 (57.8)  1.02 (0.93 to 1.11)
+Folic acid-iron          633 (51.7)  0.91 (0.83 to 1.00)
+Folic acid-iron-zinc     670 (56.4)  0.98 (0.89 to 1.08)
+Multiple micronutrients  704 (53.8)  0.95 (0.87 to 1.04)
+Control                  685 (20.4)  1.0                      0.7725
+Folic acid               628 (22.1)  1.08 (0.86 to 1.40)
+Folic acid-iron          633 (23.1)  1.13 (0.90 to 1.40)
+Folic acid-iron-zinc     670 (20.2)  0.99 (0.80 to 1.29)
+Multiple micronutrients  704 (20.6)  1.01 (0.82 to 1.26)
+
+Open in a new tab
+*
+
+Data on gestational age missing for five babies. 
+
+†
+
+Adjusted for maternal weight and design effect. 
+
+‡
+
+Using likelihood ratio test (χ2 with 4 df) to determine whether three groups differ significantly from each other. 
+
+§
+
+Below 10th centile of US national reference for fetal growth.23 
+
+Discussion
+
+We examined the effects of maternal supplementation with micronutrients on birth weight in rural Nepal, where over two fifths (43%) of babies weigh less than 2500 g at birth as estimated from the incidence of low birth weight in the control group. After supplementation the incidence of low birth weight was 34% in the folic acid-iron group, and was 35% in the multiple micronutrient group, corresponding to modest declines of 16% and 14%, respectively. From our results we calculate that 11 women would need to take folic acid-iron supplements (or 12 to take multiple micronutrient supplements) to avert one low birthweight baby. Neither combination of supplements seemed to affect linear growth, although measures of head and chest circumference were higher in these groups than in the control group.
+
+Study strengths
+
+This was a double blind randomised controlled trial that was adequately powered to examine modest reductions in the incidence of low birth weight. Our results are more generalisable than hospital based studies of birth weight. We achieved high accuracy and precision in the birth measurements in a setting where 90% of births occurred in remote village homes. The high quality of field performance was reflected by a median 88% maternal compliance with supplementation. Randomisation generated comparable groups with respect to most assessed factors, except for the lower baseline maternal weight (up to 1 kg) among women in the control group. This probably occurred by chance, and we adjusted for it in the analysis. Loss to follow up due to neonatal death and delay in measurement resulting from women leaving to deliver at their parental homes resulted in 20% of the newborns not being weighed or being weighed later than the 72 hour criteria for measuring birth weight.
+
+In Nepal mean maternal weight is low (about 43.5 kg), probably because of energy and protein malnutrition. Micronutrient supplementation alone ameliorated the burden of low birth weight by 14-16%. What are the possible health or survival benefits of such an effect? Across different populations, low birthweight infants experience 4-10 times the risk of neonatal death.18 However, direct assessment of survival is needed as increases in birth weight may not always result in improved health or survival.19 In the present study we followed infants through the first six months of life and found differences in survival by treatment group that were not significant and were apparently unrelated to birth weight (Christian et al, unpublished).
+
+As folic acid alone failed to affect birth weight, we attributed the observed effects on birth size to treatment of maternal iron deficiency. Anaemia and iron deficiency are known to stimulate the synthesis of corticotropin releasing hormone, which in turn increases fetal cortisol and inhibits fetal growth.20 Iron deficiency also increases oxidative damage to erythrocytes and the fetoplacental unit, which may result in intrauterine growth retardation and preterm delivery.20 Iron supplementation may improve maternal appetite,21 thereby increasing energy consumption during pregnancy with resultant increased intrauterine growth.
+
+We do not know why the observed effects of folic acid-iron on birth size were absent with added zinc, though competition between bivalent iron and zinc for mucosal uptake, described previously,15,22 may be an explanation. However, multiple micronutrients, which included iron, zinc and presumably their interactions, did increase birth weight and other measures of growth, suggesting that mechanisms responsible for this effect may have involved pathways dependent more on other micronutrients than iron. For example, thiamine and vitamins B-6 and B-12 provided in the supplement have a role in numerous aspects of intermediary protein and energy metabolism, which could affect fetal growth.23
+
+Our findings may be most relevant to rural South and, possibly, South East Asia, where prevalence of iron deficiency anaemia and low birth weight are high. In these settings iron supplementation may be effective in reducing, by a modest degree, the incidence of low birth weight. It is noteworthy that a fairly large array of micronutrients failed to reduce the risk of low birth weight beyond that achieved by folic acid-iron alone. Micronutrients beyond this combination should be added only if there is evidence of a health benefit.
+
+Figure.
+
+Open in a new tab
+
+Study design, participation, and follow up. Women ineligible for inclusion were those who were currently pregnant, breast feeding an infant <9 months old, sterilised, menopausal, or widowed. Women who were excluded after diagnosis of pregnancy were those who turned out to have false positive pregnancy, had unknown outcomes, or had induced abortions. Lost to follow up included instances where birth weight was not obtained because infant died, mother refused, or home was inaccessible. Any data excluded from analysis at the final stage was due to birth weight being measured after 72 hours after birth
+
+Acknowledgments
+
+The following members of the Nepal study team contributed to the successful implementation of the study: Tirtha Raj Shakya and Rabindra Shrestha (field managers); Uma Shankar Sah, Arun Bhetwal, Gokarna Subedi, and Dhrub Khadka (field supervisors); and Jaibar Shrestha (laboratory in charge) and the rest of the laboratory team as well as the area coordinators, team leader interviewers, drivers, and administrative support staff. Sanu Maiya Dali and James Tielsch provided insights to the study design and procedures. Gwendolyn Clemens was responsible for computer programming and data management. Ravi Ram, Seema Rai, and Sunita Pant helped in data cleaning and supervision. Lee Wu helped with statistical analysis.
+
+Footnotes
+
+Funding: This study was carried out under cooperative agreement HRN-A-00-97-00015-00 between Office of Health and Nutrition, US Agency for International Development (USAID), Washington, DC, and the Center for Human Nutrition (CHN), Department of International Health, and the Sight and Life Research Institute, Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA. It was a joint undertaking between the CHN and the National Society for the Prevention of Blindness, Kathmandu, Nepal, under the auspices of the Social Welfare Council of His Majesty's Government of Nepal. The study was funded by USAID and received additional support from the Unicef Country Office, Kathmandu, Nepal, and Bill and Melinda Gates Foundation. The supplements were provided by Roche, Brazil, and manufactured by NutriCorp International, C E Jamieson, Canada. The guarantor accepts full responsibility for the conduct of the study, had access to the data, and controlled the decision to publish.
+
+Competing interests: None declared.
+
+Ethical approval: The study was approved by the National Health Research Council of the Ministry of Health of Nepal and the Committee for Human Research at the Johns Hopkins Bloomberg School of Public Health. A data safety and monitoring committee approved the trial's continuation midway through the trial. Informed consent was obtained from the participants at each interview.
+
+References
+1.Child Health Research Project. Special Report. Reducing perinatal and neonatal mortality. Report of a meeting. Baltimore, MD: Child Health Research Project; 1999. [Google Scholar]
+2.Lechtig A, Yarbrough C, Delgado H, Habicht JP, Martorell R, Klein RE. Influence of maternal nutrition on birth weight. Am J Clin Nutr. 1975;28:1223–1233. doi: 10.1093/ajcn/28.11.1223. [DOI] [PubMed] [Google Scholar]
+3.Lechtig A, Habicht JP, Delgado H, Klein RE, Yarbrough C, Martorell R. Effect of food supplementation during pregnancy on birth weight. Pediatrics. 1975;56:508–520. [PubMed] [Google Scholar]
+4.Ceesay SM, Prentice AM, Cole TJ, Foord F, Weaver LT, Poskitt EM, et al. Effects on birth weight and perinatal mortality of maternal dietary supplements in rural Gambia: 5 year randomised controlled trial. BMJ. 1997;315:786–790. doi: 10.1136/bmj.315.7111.786. [DOI] [PMC free article] [PubMed] [Google Scholar]
+5.De Onis M, Villar J, Gulmezoglu M. Nutritional interventions to prevent intrauterine growth retardation: evidence from randomized controlled trials. Eur J Clin Nutr. 1988;52 (suppl 1):S83–S93. [PubMed] [Google Scholar]
+6.Osenderp SJM, van Raaij JMA, Arifeen SE, Wahed MA, Baqui AH, Fuch GJ. A randomized placebo-controlled trial of the effect of zinc supplementation during pregnancy and on pregnancy outcome in Bangladeshi urban poor. Am J Clin Nutr. 2000;71:114–119. doi: 10.1093/ajcn/71.1.114. [DOI] [PubMed] [Google Scholar]
+7.Caulfield LE, Zavaleta N, Figueroa A, Leon Z. Maternal zinc supplementation does not affect size at birth and pregnancy duration in Peru. J Nutr. 1999;129:1563–1568. doi: 10.1093/jn/129.8.1563. [DOI] [PubMed] [Google Scholar]
+8.Rasmussen KM. Is there a causal relationship between iron deficiency or iron deficiency anaemia and weight at birth, length of gestation and perinatal mortality? J Nutr. 2001;131:590–603S. doi: 10.1093/jn/131.2.590S. [DOI] [PubMed] [Google Scholar]
+9.Preziosi P, Prual A, Golan P, Daouda H, Boureima H, Hercberg S. Effect of iron supplementation on the iron status of pregnant women: consequences for newborns. Am J Clin Nutr. 1997;66:1178–1182. doi: 10.1093/ajcn/66.5.1178. [DOI] [PubMed] [Google Scholar]
+10.Katz J, West KP, Jr, Khatry SK, Pradhan EK, LeClerq SC, Christian P, et al. Low-dose vitamin A or beta-carotene supplementation does not reduce early infant mortality: a double-masked, randomized, controlled community trial in Nepal. Am J Clin Nutr. 2000;71:1570–1576. doi: 10.1093/ajcn/71.6.1570. [DOI] [PubMed] [Google Scholar]
+11.Dreyfuss ML, West KP, Jr, Katz J, LeClerq SC, Pradhan EK, Adhikari RK, et al. Report of the XVIII International Vitamin A Consultative Group Meeting. Cairo, Egypt. ISLI Research Foundation, Washington DC. 1997. Effects of maternal vitamin A or β-carotene supplementation on intrauterine/neonatal and early infant growth in Nepal (abstract) [Google Scholar]
+12.West KP, Jr, Katz J, Khatry SK, LeClerq SC, Pradhan EK, Shrestha SR, et al. Double blind, cluster randomised trial of low dose supplementation with vitamin A or beta carotene on mortality related to pregnancy in Nepal. The NNIPS-2 Study Group. BMJ. 1999;318:570–575. doi: 10.1136/bmj.318.7183.570. [DOI] [PMC free article] [PubMed] [Google Scholar]
+13.National Research Council. Recommended dietary allowances. 10th ed. Washington, DC: National Academy Press; 1989. [Google Scholar]
+14.Stoltzfus RJ, Dreyfuss ML. Guidelines for the use of iron supplements to prevent and treat iron deficiency anaemia. Washington DC: INACG/WHO/Unicef: ILSI Press; 1998. [Google Scholar]
+15.Solomons NW, Ruz M. Zinc and iron interaction: concepts and perspectives in the developing world. Nutr Res. 1997;17:177–185. [Google Scholar]
+16.Alexander GR, Himes JH, Kaufman RB, Mor J, Kogan M. A United States national reference for fetal growth. Obstet Gynecol. 1996;87:163–168. doi: 10.1016/0029-7844(95)00386-X. [DOI] [PubMed] [Google Scholar]
+17.Liang KY, Zeger SL. Longitudinal data analysis using generalized linear models. Biometrika. 1986;73:13–22. [Google Scholar]
+18.Ashworth A. Effects of intrauterine growth retardation on mortality and morbidity in infants and young children. Eur J Clin Nutr. 1998;52 (suppl 1):S34–S42. [PubMed] [Google Scholar]
+19.Garner P, Kramer MS, Chalmers I. Might efforts to increase birth weight in undernourished women do more harm than good? Lancet. 1992;340:1021–1022. doi: 10.1016/0140-6736(92)93022-f. [DOI] [PubMed] [Google Scholar]
+20.Allen LH. Biological mechanisms that might underlie iron's effects on fetal growth and preterm birth. J Nutr. 2001;131:581–59S. doi: 10.1093/jn/131.2.581S. [DOI] [PubMed] [Google Scholar]
+21.Lawless JW, Latham MC, Stephenson LS, Kinoti SN, Pertet AM. Iron supplementation improves appetite and growth in anemic Kenyan primary school children. J Nutr. 1994;124:645–654. doi: 10.1093/jn/124.5.645. [DOI] [PubMed] [Google Scholar]
+22.Solomons NW. Competitive interaction of iron and zinc in the diet: consequences for human nutrition. J Nutr. 1986;116:927–935. doi: 10.1093/jn/116.6.927. [DOI] [PubMed] [Google Scholar]
+23.Ramakrishnan U, Manjrekar R, Rivera J, Glonzales-Cossio T, Martorell R. Micronutrients and pregnancy outcome: a review of literature. Nutr Res. 1999;19:103–159. [Google Scholar]
+
+Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
+
+ACTIONS
+View on publisher site
+PDF (112.0 KB)
+Cite
+Collections
+Permalink
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+ON THIS PAGE
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Acknowledgments
+Footnotes
+References
+FOLLOW NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+
+Connect with NLM
+
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+
+LINKS
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#main-content
+https://www.ncbi.nlm.nih.gov/
+https://www.ncbi.nlm.nih.gov/myncbi/
+https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/
+https://www.ncbi.nlm.nih.gov/account/settings/
+https://pmc.ncbi.nlm.nih.gov/
+https://pmc.ncbi.nlm.nih.gov/journals/
+https://pmc.ncbi.nlm.nih.gov/about/userguide/
+https://doi.org/10.1136/bmj.326.7389.571
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/pdf/571.pdf
+https://pmc.ncbi.nlm.nih.gov/about/disclaimer/
+https://pmc.ncbi.nlm.nih.gov/about/copyright/
+https://pmc.ncbi.nlm.nih.gov/search/?term=%22BMJ%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22BMJ%22[jour]
+https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22BMJ%22[Title%20Abbreviation]
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/?term=%22BMJ%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Christian%20P%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Khatry%20SK%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Katz%20J%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Pradhan%20EK%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22LeClerq%20SC%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Shrestha%20SR%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Adhikari%20RK%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Sommer%20A%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22West%20KP%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/12637400/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B4
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B5
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B6
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B7
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B8
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B10
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B11
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B12
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B13
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B14
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B15
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B16
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B17
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#T1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#TF1-150
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#TF1-151
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/table/T1/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#T2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#TF2-150
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/table/T2/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#T3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/table/T3/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#T4
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#TF4-150
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/table/T4/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#T5
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#TF5-150
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#TF5-153
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/table/T5/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B18
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B19
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B20
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B22
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#B23
+https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=151518_chrp2220.f1.jpg
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/figure/FN0x95cfa00.0x9ac0568/
+https://scholar.google.com/scholar_lookup?title=Special%20Report.%20Reducing%20perinatal%20and%20neonatal%20mortality.%20Report%20of%20a%20meeting.&publication_year=1999&
+https://doi.org/10.1093/ajcn/28.11.1223
+https://pubmed.ncbi.nlm.nih.gov/1103609/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr&title=Influence%20of%20maternal%20nutrition%20on%20birth%20weight&author=A%20Lechtig&author=C%20Yarbrough&author=H%20Delgado&author=JP%20Habicht&author=R%20Martorell&volume=28&publication_year=1975&pages=1223-1233&pmid=1103609&doi=10.1093/ajcn/28.11.1223&
+https://pubmed.ncbi.nlm.nih.gov/1165955/
+https://scholar.google.com/scholar_lookup?journal=Pediatrics&title=Effect%20of%20food%20supplementation%20during%20pregnancy%20on%20birth%20weight&author=A%20Lechtig&author=JP%20Habicht&author=H%20Delgado&author=RE%20Klein&author=C%20Yarbrough&volume=56&publication_year=1975&pages=508-520&pmid=1165955&
+https://doi.org/10.1136/bmj.315.7111.786
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2127544/
+https://pubmed.ncbi.nlm.nih.gov/9345173/
+https://scholar.google.com/scholar_lookup?journal=BMJ&title=Effects%20on%20birth%20weight%20and%20perinatal%20mortality%20of%20maternal%20dietary%20supplements%20in%20rural%20Gambia:%205%20year%20randomised%20controlled%20trial&author=SM%20Ceesay&author=AM%20Prentice&author=TJ%20Cole&author=F%20Foord&author=LT%20Weaver&volume=315&publication_year=1997&pages=786-790&pmid=9345173&doi=10.1136/bmj.315.7111.786&
+https://pubmed.ncbi.nlm.nih.gov/9511024/
+https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Clin%20Nutr&title=Nutritional%20interventions%20to%20prevent%20intrauterine%20growth%20retardation:%20evidence%20from%20randomized%20controlled%20trials&author=M%20De%20Onis&author=J%20Villar&author=M%20Gulmezoglu&volume=52%20(suppl%201)&publication_year=1988&pages=S83-S93&pmid=9511024&
+https://doi.org/10.1093/ajcn/71.1.114
+https://pubmed.ncbi.nlm.nih.gov/10617955/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr&title=A%20randomized%20placebo-controlled%20trial%20of%20the%20effect%20of%20zinc%20supplementation%20during%20pregnancy%20and%20on%20pregnancy%20outcome%20in%20Bangladeshi%20urban%20poor&author=SJM%20Osenderp&author=JMA%20van%20Raaij&author=SE%20Arifeen&author=MA%20Wahed&author=AH%20Baqui&volume=71&publication_year=2000&pages=114-119&pmid=10617955&doi=10.1093/ajcn/71.1.114&
+https://doi.org/10.1093/jn/129.8.1563
+https://pubmed.ncbi.nlm.nih.gov/10419991/
+https://scholar.google.com/scholar_lookup?journal=J%20Nutr&title=Maternal%20zinc%20supplementation%20does%20not%20affect%20size%20at%20birth%20and%20pregnancy%20duration%20in%20Peru&author=LE%20Caulfield&author=N%20Zavaleta&author=A%20Figueroa&author=Z%20Leon&volume=129&publication_year=1999&pages=1563-1568&pmid=10419991&doi=10.1093/jn/129.8.1563&
+https://doi.org/10.1093/jn/131.2.590S
+https://pubmed.ncbi.nlm.nih.gov/11160592/
+https://scholar.google.com/scholar_lookup?journal=J%20Nutr&title=Is%20there%20a%20causal%20relationship%20between%20iron%20deficiency%20or%20iron%20deficiency%20anaemia%20and%20weight%20at%20birth,%20length%20of%20gestation%20and%20perinatal%20mortality?&author=KM%20Rasmussen&volume=131&publication_year=2001&pages=590-603S&pmid=11160592&doi=10.1093/jn/131.2.590S&
+https://doi.org/10.1093/ajcn/66.5.1178
+https://pubmed.ncbi.nlm.nih.gov/9356536/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr&title=Effect%20of%20iron%20supplementation%20on%20the%20iron%20status%20of%20pregnant%20women:%20consequences%20for%20newborns&author=P%20Preziosi&author=A%20Prual&author=P%20Golan&author=H%20Daouda&author=H%20Boureima&volume=66&publication_year=1997&pages=1178-1182&pmid=9356536&doi=10.1093/ajcn/66.5.1178&
+https://doi.org/10.1093/ajcn/71.6.1570
+https://pubmed.ncbi.nlm.nih.gov/10837300/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr&title=Low-dose%20vitamin%20A%20or%20beta-carotene%20supplementation%20does%20not%20reduce%20early%20infant%20mortality:%20a%20double-masked,%20randomized,%20controlled%20community%20trial%20in%20Nepal&author=J%20Katz&author=KP%20West&author=SK%20Khatry&author=EK%20Pradhan&author=SC%20LeClerq&volume=71&publication_year=2000&pages=1570-1576&pmid=10837300&doi=10.1093/ajcn/71.6.1570&
+https://scholar.google.com/scholar_lookup?title=Report%20of%20the%20XVIII%20International%20Vitamin%20A%20Consultative%20Group%20Meeting.%20Cairo,%20Egypt.%20ISLI%20Research%20Foundation,%20Washington%20DC.&author=ML%20Dreyfuss&author=KP%20West&author=J%20Katz&author=SC%20LeClerq&author=EK%20Pradhan&publication_year=1997&
+https://doi.org/10.1136/bmj.318.7183.570
+https://pmc.ncbi.nlm.nih.gov/articles/PMC27760/
+https://pubmed.ncbi.nlm.nih.gov/10037634/
+https://scholar.google.com/scholar_lookup?journal=BMJ&title=Double%20blind,%20cluster%20randomised%20trial%20of%20low%20dose%20supplementation%20with%20vitamin%20A%20or%20beta%20carotene%20on%20mortality%20related%20to%20pregnancy%20in%20Nepal.%20The%20NNIPS-2%20Study%20Group&author=KP%20West&author=J%20Katz&author=SK%20Khatry&author=SC%20LeClerq&author=EK%20Pradhan&volume=318&publication_year=1999&pages=570-575&pmid=10037634&doi=10.1136/bmj.318.7183.570&
+https://scholar.google.com/scholar_lookup?title=Recommended%20dietary%20allowances.&publication_year=1989&
+https://scholar.google.com/scholar_lookup?title=Guidelines%20for%20the%20use%20of%20iron%20supplements%20to%20prevent%20and%20treat%20iron%20deficiency%20anaemia.&author=RJ%20Stoltzfus&author=ML%20Dreyfuss&publication_year=1998&
+https://scholar.google.com/scholar_lookup?journal=Nutr%20Res&title=Zinc%20and%20iron%20interaction:%20concepts%20and%20perspectives%20in%20the%20developing%20world&author=NW%20Solomons&author=M%20Ruz&volume=17&publication_year=1997&pages=177-185&
+https://doi.org/10.1016/0029-7844(95)00386-X
+https://pubmed.ncbi.nlm.nih.gov/8559516/
+https://scholar.google.com/scholar_lookup?journal=Obstet%20Gynecol&title=A%20United%20States%20national%20reference%20for%20fetal%20growth&author=GR%20Alexander&author=JH%20Himes&author=RB%20Kaufman&author=J%20Mor&author=M%20Kogan&volume=87&publication_year=1996&pages=163-168&pmid=8559516&doi=10.1016/0029-7844(95)00386-X&
+https://scholar.google.com/scholar_lookup?journal=Biometrika&title=Longitudinal%20data%20analysis%20using%20generalized%20linear%20models&author=KY%20Liang&author=SL%20Zeger&volume=73&publication_year=1986&pages=13-22&
+https://pubmed.ncbi.nlm.nih.gov/9511018/
+https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Clin%20Nutr&title=Effects%20of%20intrauterine%20growth%20retardation%20on%20mortality%20and%20morbidity%20in%20infants%20and%20young%20children&author=A%20Ashworth&volume=52%20(suppl%201)&publication_year=1998&pages=S34-S42&pmid=9511018&
+https://doi.org/10.1016/0140-6736(92)93022-f
+https://pubmed.ncbi.nlm.nih.gov/1357412/
+https://scholar.google.com/scholar_lookup?journal=Lancet&title=Might%20efforts%20to%20increase%20birth%20weight%20in%20undernourished%20women%20do%20more%20harm%20than%20good?&author=P%20Garner&author=MS%20Kramer&author=I%20Chalmers&volume=340&publication_year=1992&pages=1021-1022&pmid=1357412&doi=10.1016/0140-6736(92)93022-f&
+https://doi.org/10.1093/jn/131.2.581S
+https://pubmed.ncbi.nlm.nih.gov/11160591/
+https://scholar.google.com/scholar_lookup?journal=J%20Nutr&title=Biological%20mechanisms%20that%20might%20underlie%20iron%27s%20effects%20on%20fetal%20growth%20and%20preterm%20birth&author=LH%20Allen&volume=131&publication_year=2001&pages=581-59S&pmid=11160591&doi=10.1093/jn/131.2.581S&
+https://doi.org/10.1093/jn/124.5.645
+https://pubmed.ncbi.nlm.nih.gov/8169656/
+https://scholar.google.com/scholar_lookup?journal=J%20Nutr&title=Iron%20supplementation%20improves%20appetite%20and%20growth%20in%20anemic%20Kenyan%20primary%20school%20children&author=JW%20Lawless&author=MC%20Latham&author=LS%20Stephenson&author=SN%20Kinoti&author=AM%20Pertet&volume=124&publication_year=1994&pages=645-654&pmid=8169656&doi=10.1093/jn/124.5.645&
+https://doi.org/10.1093/jn/116.6.927
+https://pubmed.ncbi.nlm.nih.gov/3522825/
+https://scholar.google.com/scholar_lookup?journal=J%20Nutr&title=Competitive%20interaction%20of%20iron%20and%20zinc%20in%20the%20diet:%20consequences%20for%20human%20nutrition&author=NW%20Solomons&volume=116&publication_year=1986&pages=927-935&pmid=3522825&doi=10.1093/jn/116.6.927&
+https://scholar.google.com/scholar_lookup?journal=Nutr%20Res&title=Micronutrients%20and%20pregnancy%20outcome:%20a%20review%20of%20literature&author=U%20Ramakrishnan&author=R%20Manjrekar&author=J%20Rivera&author=T%20Glonzales-Cossio&author=R%20Martorell&volume=19&publication_year=1999&pages=103-159&
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#abstract1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#sec11
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#sec12
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#sec18
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#sec19
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#ack1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#fn-group1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#ref-list1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/#
+https://twitter.com/ncbi
+https://www.facebook.com/ncbi.nlm
+https://www.linkedin.com/company/ncbinlm
+https://github.com/ncbi
+https://ncbiinsights.ncbi.nlm.nih.gov/
+https://twitter.com/nlm_nih
+https://www.facebook.com/nationallibraryofmedicine
+https://www.youtube.com/user/NLMNIH
+https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,%20%20%20%20%20%20%20%20%20%20%20%20-77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!%20%20%20%20%20%20%20%20%20%20%20%204d-77.0988323
+https://www.nlm.nih.gov/web_policies.html
+https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+https://support.nlm.nih.gov/?pagename=cloudpmc-viewer%3Apmc%3Aarticle%3Ajournal
+https://www.nlm.nih.gov/accessibility.html
+https://www.nlm.nih.gov/careers/careers.html
+https://www.nlm.nih.gov/
+https://www.nih.gov/
+https://www.hhs.gov/
+https://www.usa.gov/
+
+IMAGES
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmj.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/18ac/151518/447e65949c6d/chrp2220.f1.jpg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg
+end https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/
+
+FULL TEXT FOR URL https://pmc.ncbi.nlm.nih.gov/articles/PMC151518/ SAVED TO ./.webcats/https-pmc-ncbi-nlm-nih-gov-articles-PMC151518-0bb1628.txt
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+Search
+Log in
+
+Primary site navigation
+
+Search PMC Full-Text Archive
+Search in PMC
+Journal List 
+User Guide
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Arch Dis Child. 1992 Dec;67(12):1442–1446. doi: 10.1136/adc.67.12.1442
+A randomised trial of low dose folic acid to prevent neural tube defects. The Irish Vitamin Study Group.
+P N Kirke 1, L E Daly 1, J H Elwood 1
+Author information
+Copyright and License information
+PMCID: PMC1793975  PMID: 1489222
+Abstract
+
+A randomised trial was initiated in Ireland in 1981 to determine if periconceptional supplementation with either folic acid alone or a multivitamin preparation alone could reduce the recurrence risk of neural tube defects (NTDs) in women with a previously affected pregnancy from 5.0% to 1.0% or less. The trial was concluded before the initial target number of study subjects was reached and without a clear treatment effect being observed. A total of 354 women were randomised to receive one of three treatments: folic acid, multivitamins without folic acid, and folic acid plus multivitamins. At the end of the trial 257 women had had a first trial pregnancy outcome (261 infants/fetuses) where the presence or absence of NTDs was ascertainable. There was one NTD recurrence in the 89 infants/fetuses of women in the multivitamin group and no recurrence in the 172 infants/fetuses of women in the folic acid groups, a non-significant difference. Otherwise eligible women who were pregnant when first contacted constituted a non-randomised control group; there were three recurrences among the 103 infants in this group. The difference in the recurrence rate between the folic acid groups and the non-randomised controls was statistically significant but we have reservations about the validity of this comparison. Although our findings do not provide clear evidence of a protective effect of folic acid supplementation they are consistent with those of the Medical Research Council (MRC) trial which demonstrated the efficacy of folic acid in preventing recurrence of NTDs and they raise the possibility that folic acid may be protective at a much lower dosage than that used in the MRC trial.
+
+Full text
+PDF
+1442
+1443
+1444
+1445
+1446
+Next
+Selected References
+
+These references are in PubMed. This may not be the complete list of references from this article.
+
+ Folic acid to prevent neural tube defects. Lancet. 1991 Aug 24;338(8765):505–506. [PubMed] [Google Scholar]
+ Haviland M. G. Yates's correction for continuity and the analysis of 2 x 2 contingency tables. Stat Med. 1990 Apr;9(4):363–383. doi: 10.1002/sim.4780090403. [DOI] [PubMed] [Google Scholar]
+ Laurence K. M., James N., Miller M. H., Tennant G. B., Campbell H. Double-blind randomised controlled trial of folate treatment before conception to prevent recurrence of neural-tube defects. Br Med J (Clin Res Ed) 1981 May 9;282(6275):1509–1511. doi: 10.1136/bmj.282.6275.1509. [DOI] [PMC free article] [PubMed] [Google Scholar]
+ MacCarthy P. A., Dalrymple I. J., Duignan N. M., Elwood J. H., Guiney E. J., Hanratty T. D., Kirke P. N., MacDonald D. W. Recurrence rates of neural tube defects in Dublin maternity hospitals. Ir Med J. 1983 Feb;76(2):78–79. [PubMed] [Google Scholar]
+ Miettinen O. Estimability and estimation in case-referent studies. Am J Epidemiol. 1976 Feb;103(2):226–235. doi: 10.1093/oxfordjournals.aje.a112220. [DOI] [PubMed] [Google Scholar]
+ Smithells R. W., Nevin N. C., Seller M. J., Sheppard S., Harris R., Read A. P., Fielding D. W., Walker S., Schorah C. J., Wild J. Further experience of vitamin supplementation for prevention of neural tube defect recurrences. Lancet. 1983 May 7;1(8332):1027–1031. doi: 10.1016/s0140-6736(83)92654-5. [DOI] [PubMed] [Google Scholar]
+ Smithells R. W., Sheppard S., Schorah C. J., Seller M. J., Nevin N. C., Harris R., Read A. P., Fielding D. W. Possible prevention of neural-tube defects by periconceptional vitamin supplementation. Lancet. 1980 Feb 16;1(8164):339–340. doi: 10.1016/s0140-6736(80)90886-7. [DOI] [PubMed] [Google Scholar]
+ Wald N. J., Polani P. E. Neural-tube defects and vitamins: the need for a randomized clinical trial. Br J Obstet Gynaecol. 1984 Jun;91(6):516–523. doi: 10.1111/j.1471-0528.1984.tb04796.x. [DOI] [PubMed] [Google Scholar]
+
+Articles from Archives of Disease in Childhood are provided here courtesy of BMJ Publishing Group
+
+ACTIONS
+View on publisher site
+PDF (906.3 KB)
+Cite
+Collections
+Permalink
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+ON THIS PAGE
+Abstract
+Full text
+Selected References
+FOLLOW NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+
+Connect with NLM
+
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+
+LINKS
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/#main-content
+https://www.ncbi.nlm.nih.gov/
+https://www.ncbi.nlm.nih.gov/myncbi/
+https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/
+https://www.ncbi.nlm.nih.gov/account/settings/
+https://pmc.ncbi.nlm.nih.gov/
+https://pmc.ncbi.nlm.nih.gov/journals/
+https://pmc.ncbi.nlm.nih.gov/about/userguide/
+https://doi.org/10.1136/adc.67.12.1442
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/pdf/archdisch00631-0032.pdf
+https://pmc.ncbi.nlm.nih.gov/about/disclaimer/
+https://pmc.ncbi.nlm.nih.gov/about/copyright/
+https://pmc.ncbi.nlm.nih.gov/search/?term=%22Arch%20Dis%20Child%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Arch%20Dis%20Child%22[jour]
+https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Arch%20Dis%20Child%22[Title%20Abbreviation]
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?term=%22Arch%20Dis%20Child%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Kirke%20PN%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Daly%20LE%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Elwood%20JH%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/1489222/
+https://pmc.ncbi.nlm.nih.gov/articles/instance/1793975/pdf/archdisch00631-0032.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?page=0
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?page=1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?page=2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?page=3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?page=4
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/?page=5
+https://pubmed.ncbi.nlm.nih.gov/1678457/
+https://scholar.google.com/scholar_lookup?journal=Lancet&title=Folic%20acid%20to%20prevent%20neural%20tube%20defects.&volume=338&issue=8765&publication_year=1991&pages=505-506&pmid=1678457&
+https://doi.org/10.1002/sim.4780090403
+https://pubmed.ncbi.nlm.nih.gov/2362976/
+https://scholar.google.com/scholar_lookup?journal=Stat%20Med&title=Yates%27s%20correction%20for%20continuity%20and%20the%20analysis%20of%202%20x%202%20contingency%20tables.&author=M.%20G.%20Haviland&volume=9&issue=4&publication_year=1990&pages=363-383&pmid=2362976&doi=10.1002/sim.4780090403&
+https://doi.org/10.1136/bmj.282.6275.1509
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/
+https://pubmed.ncbi.nlm.nih.gov/6786536/
+https://scholar.google.com/scholar_lookup?journal=Br%20Med%20J%20(Clin%20Res%20Ed)&title=Double-blind%20randomised%20controlled%20trial%20of%20folate%20treatment%20before%20conception%20to%20prevent%20recurrence%20of%20neural-tube%20defects.&author=K.%20M.%20Laurence&author=N.%20James&author=M.%20H.%20Miller&author=G.%20B.%20Tennant&author=H.%20Campbell&volume=282&issue=6275&publication_year=1981&pages=1509-1511&pmid=6786536&doi=10.1136/bmj.282.6275.1509&
+https://pubmed.ncbi.nlm.nih.gov/6341309/
+https://scholar.google.com/scholar_lookup?journal=Ir%20Med%20J&title=Recurrence%20rates%20of%20neural%20tube%20defects%20in%20Dublin%20maternity%20hospitals.&author=P.%20A.%20MacCarthy&author=I.%20J.%20Dalrymple&author=N.%20M.%20Duignan&author=J.%20H.%20Elwood&author=E.%20J.%20Guiney&volume=76&issue=2&publication_year=1983&pages=78-79&pmid=6341309&
+https://doi.org/10.1093/oxfordjournals.aje.a112220
+https://pubmed.ncbi.nlm.nih.gov/1251836/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Epidemiol&title=Estimability%20and%20estimation%20in%20case-referent%20studies.&author=O.%20Miettinen&volume=103&issue=2&publication_year=1976&pages=226-235&pmid=1251836&doi=10.1093/oxfordjournals.aje.a112220&
+https://doi.org/10.1016/s0140-6736(83)92654-5
+https://pubmed.ncbi.nlm.nih.gov/6133069/
+https://scholar.google.com/scholar_lookup?journal=Lancet&title=Further%20experience%20of%20vitamin%20supplementation%20for%20prevention%20of%20neural%20tube%20defect%20recurrences.&author=R.%20W.%20Smithells&author=N.%20C.%20Nevin&author=M.%20J.%20Seller&author=S.%20Sheppard&author=R.%20Harris&volume=1&issue=8332&publication_year=1983&pages=1027-1031&pmid=6133069&doi=10.1016/s0140-6736(83)92654-5&
+https://doi.org/10.1016/s0140-6736(80)90886-7
+https://pubmed.ncbi.nlm.nih.gov/6101792/
+https://scholar.google.com/scholar_lookup?journal=Lancet&title=Possible%20prevention%20of%20neural-tube%20defects%20by%20periconceptional%20vitamin%20supplementation.&author=R.%20W.%20Smithells&author=S.%20Sheppard&author=C.%20J.%20Schorah&author=M.%20J.%20Seller&author=N.%20C.%20Nevin&volume=1&issue=8164&publication_year=1980&pages=339-340&pmid=6101792&doi=10.1016/s0140-6736(80)90886-7&
+https://doi.org/10.1111/j.1471-0528.1984.tb04796.x
+https://pubmed.ncbi.nlm.nih.gov/6375715/
+https://scholar.google.com/scholar_lookup?journal=Br%20J%20Obstet%20Gynaecol&title=Neural-tube%20defects%20and%20vitamins:%20the%20need%20for%20a%20randomized%20clinical%20trial.&author=N.%20J.%20Wald&author=P.%20E.%20Polani&volume=91&issue=6&publication_year=1984&pages=516-523&pmid=6375715&doi=10.1111/j.1471-0528.1984.tb04796.x&
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/#abstract1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/#supplementary-material1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/#ref-list1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/#
+https://twitter.com/ncbi
+https://www.facebook.com/ncbi.nlm
+https://www.linkedin.com/company/ncbinlm
+https://github.com/ncbi
+https://ncbiinsights.ncbi.nlm.nih.gov/
+https://twitter.com/nlm_nih
+https://www.facebook.com/nationallibraryofmedicine
+https://www.youtube.com/user/NLMNIH
+https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,%20%20%20%20%20%20%20%20%20%20%20%20-77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!%20%20%20%20%20%20%20%20%20%20%20%204d-77.0988323
+https://www.nlm.nih.gov/web_policies.html
+https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+https://support.nlm.nih.gov/?pagename=cloudpmc-viewer%3Apmc%3Aarticle%3Ascanned
+https://www.nlm.nih.gov/accessibility.html
+https://www.nlm.nih.gov/careers/careers.html
+https://www.nlm.nih.gov/
+https://www.nih.gov/
+https://www.hhs.gov/
+https://www.usa.gov/
+
+IMAGES
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-archdisch.png
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/navigate_before.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/navigate_next.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4d92/1793975/0a3b98aa283f/archdisch00631-0032.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4d92/1793975/d1a9f99e8d9b/archdisch00631-0033.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4d92/1793975/3c24d5c59f7a/archdisch00631-0034.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4d92/1793975/7f5238ffc2ec/archdisch00631-0035.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4d92/1793975/0da51ffd1b6e/archdisch00631-0036.png
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg
+end https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/
+
+FULL TEXT FOR URL https://pmc.ncbi.nlm.nih.gov/articles/PMC1793975/ SAVED TO ./.webcats/https-pmc-ncbi-nlm-nih-gov-articles-PMC1793975-a730071.txt
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+Search
+Log in
+
+Primary site navigation
+
+Search PMC Full-Text Archive
+Search in PMC
+Journal List 
+User Guide
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Reprod Sci. 2013 Feb 20;20(9):1096–1102. doi: 10.1177/1933719113477478
+Maternal Dietary Creatine Supplementation Does Not Alter the Capacity for Creatine Synthesis in the Newborn Spiny Mouse
+Hayley Dickinson 1,✉, Zoe J Ireland 2, Domenic A LaRosa 1, Bree A O’Connell 1, Stacey Ellery 1, Rod Snow 3, David W Walker 1
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC3745711  PMID: 23427185
+Abstract
+
+We have previously reported that maternal creatine supplementation protects the neonate from hypoxic injury. Here, we investigated whether maternal creatine supplementation altered expression of the creatine synthesis enzymes (arginine:glycine amidinotransferase [AGAT], guanidinoaceteate methyltransferase [GAMT]) and the creatine transporter (solute carrier family 6 [neurotransmitter transporter, creatine] member 8: SLC6A8) in the term offspring. Pregnant spiny mice were fed a 5% creatine monohydrate diet from midgestation (day 20) to term (39 days). Placentas and neonatal kidney, liver, heart, and brain collected at 24 hours of age underwent quantitative polymerase chain reaction and Western blot analysis. Maternal creatine had no effect on the expression of AGAT and GAMT in neonatal kidney and liver, but mRNA expression of AGAT in brain tissues was significantly decreased in both male and female neonates born to mothers who were fed the creatine diet. SLC6A8 expression was not affected by maternal dietary creatine loading in any tissues. Maternal dietary creatine supplementation from midgestation in the spiny mouse did not alter the capacity for creatine synthesis or transport.
+
+Keywords: SLC6A8, arginine:glycine amidinotransferase (AGAT), guanidinoaceteate methyltransferase (GAMT), neonate, placenta
+
+Introduction
+
+The creatine-phosphocreatine system is essential for the maintenance of cellular adenosine triphosphate, serving as a spatial and temporal energy buffer in cells with high and fluctuating energy demands.1 Postnatally, the body’s creatine pool is derived from a diet containing meat, fish, and dairy products, and also by endogenous synthesis. The latter involves the conversion of arginine and glycine to guanidinoacetate by the enzyme arginine:glycine amidinotransferase (AGAT), and then the methylation of guandinoacetate to creatine by the enzyme guanidinoaceteate methyltransferase (GAMT). The principal sites of AGAT and GAMT activity are the kidney and liver, respectively. The brain, pancreas, and testes may synthesize creatine independent of the reno-hepatic axis, although this is thought not to contribute substantially to systemic creatine or to the large pool of creatine contained in muscle.2
+
+Until recently, very little was known about the fetal and neonatal requirement for creatine, and how this might change with advancing pregnancy and early postnatal life, particularly for tissues known to have a high creatine requirement in the adult such as muscle, heart, and brain.3,4 In the spiny mouse, a precocial rodent, we have shown that the creatine content of the placenta and fetal brain increases from midgestation to term, with this increase continuing in the second postnatal week in the brain.5 This study also found that the spiny mouse fetus probably does not synthesize creatine until 0.9 day of gestation, due to the low expression of AGAT and GAMT in the fetal kidney and liver, and the absence of expression of these enzymes in the placenta.5 Such data do not exist for the human fetus and raises important questions, particularly for preterm infants where immaturity of the reno-hepatic axis and intestinal absorption may leave them with insufficient capacity to either synthesize creatine or take it up from breast milk or formula. Whether the preterm or term kidney is able to fully resorb the creatine in glomerular filtrate is currently unknown.
+
+We have recently completed a series of experiments exploring the potential of maternal creatine supplementation to protect the newborn from hypoxia-induced injury.6,7,9 Specifically, we hypothesized that increasing cellular reserves of total creatine (creatine + phosphocreatine) would protect the fetus from the consequences of oxygen deprivation at birth. Indeed, we showed that a maternal diet supplemented with 5% creatine monohydrate from midgestation to term is able to improve offspring survival, normalize postnatal growth which is otherwise delayed,9 and prevent the brain, kidney and diaphragm muscle injury seen in hypoxia-exposed offspring at 24 hours of age.6–8
+
+Before recommending creatine supplementation to pregnant women, it is important to consider whether a high creatine load during pregnancy affects creatine synthesis and transport in the neonate. Creatine supplementation in adult humans, rats, and chick embryos has shown a marked decrease in renal AGAT expression, leading to a negative feedback, downregulation, of endogenous synthesis of creatine.10–13 The consequences of maternal dietary creatine supplementation on creatine synthesis and transport in the newborn of a placental mammal is however unknown. In the current study, we investigated whether maternal dietary creatine supplementation from midgestation to term in the spiny mouse, a period of 19 days, would alter the expression of genes involved in creatine synthesis or transport in selected key tissues in the offspring. We hypothesized that maternal dietary creatine supplementation from midgestation to term would cause a downregulation in the expression of the creatine transporter, solute carrier family 6 (neurotransmitter transporter, creatine) member 8 (SLC6A8) and decrease the expression of AGAT, the first rate-limiting step in the creatine synthesis pathway in the newborn. We also investigated the effect of this creatine supplementation on expression of placental SLC6A8, and specifically examined the labyrinth (exchange region) and spongy zone (germinative zone) of the placenta independently.
+
+Methods
+Animals
+
+All experiments were approved in advance by Monash University School of Biomedical Sciences Animal Ethics Committee and conducted according to the Australian Code of Practice for the Care and Use of Animals for Scientific Purposes. The spiny mice used in this study were obtained from our own laboratory colony and housed, bred, and time-mated as previously described.14
+
+Diet
+
+Pregnant dams were fed either a control diet of standard rat and mouse pellets throughout pregnancy (n = 7), or were fed isocaloric pellets supplemented with 5% creatine monohydrate (Specialty Feeds, Perth, Australia) from day 20 of gestation (n = 7). Water was available ad libitum.
+
+Cesarean Section and Cross Fostering
+
+The pregnant dam was killed by cervical dislocation on day 38 of gestation (term is 39 days) and the fetuses were expelled from the uterus immediately and their mouths cleared of membranes and mucus. The pups were stimulated to breathe by gentle palpation of the chest and abdomen using moist cotton tips. The pups were allowed to recover for 1 to 1.5 hours on a heated pad, and then cross-fostered to a dam that had given birth within the preceding 6 hours.8 The cross-fostered dam was fed a standard rodent diet during pregnancy to avoid postnatal delivery of creatine to the newborn via lactation and thus focus our study on the in utero effects of maternal dietary creatine supplementation.
+
+Tissue Collection and Processing
+
+Placenta samples were collected immediately after pup delivery, weighed, and snap frozen. Tissues for analysis of AGAT, GAMT, and SLC6A8 expression were collected at 24 hours after birth to coincide with a period soon after birth when the newborn is required to synthesize its own creatine. The pups were weighed and killed by decapitation. The heart, brain, liver, and kidney were removed, weighed, and snap frozen for RNA and/or protein extraction. All tissues were stored at −80°C. For all tissue analyses described below, no more than 2 pups, 1 male and 1 female, were taken from any 1 litter.
+
+Messenger RNA Extraction
+
+Samples for quantitative polymerase chain reaction (qPCR; heart, brain, liver, kidney, placenta; n = 4-6/sex/organ/treatment) analysis were prepared by total RNA extraction (RNeasy Midi Kit #75144, Qiagen) and reverse transcribed to form complementary DNA according to manufacturer’s instructions (Reverse Transcription System #A3500, Promega) as previously described,5 with the minor modification that placental samples were separated into labyrinth and spongy zone before RNA extraction.
+
+Protein Extraction
+
+Protein from samples for Western blot was extracted as previously described.5 Briefly, liver and kidney samples (n = 4 male and 3 female/treatment) were homogenized in cell lysis buffer, incubated on ice for 60 minutes followed by centrifugation at 20 800 g for 20 minutes at 4°C. The supernatant was then incubated at 95°C for 5 minutes and stored at −80°C until analysis. A protein assay was performed on all samples (BCA Protein Assay Kit # 23225, Thermo Scientific, Australia) according to manufacturer’s instructions to enable equal loading of protein on the gels. A sample of each organ was collected from untreated adult spiny mice and prepared in the same way to be used as positive controls. The extracted protein samples were then separated based on molecular weight using sodium dodecyl sulfate (SDS) polyacrylamide gel electrophoresis as reported previously.5
+
+Quantitative PCR
+
+SYBR green PCR chemistry was used to determine relative levels of messenger RNA (mRNA) for AGAT in kidney and brain samples, GAMT in liver and brain samples, and SLC6A8 in placenta, heart, kidney, liver, and brain samples as per the manufacturer’s instructions (Applied BioSystems, Mulgrave, Australia). The primer and probe sequences are as previously described.5 Primer products were generated, sequenced, and confirmed to be the gene of interest using a blastn algorithm within the Basic Local Alignment Search Tool (BLAST, http://blast.ncbi.nlm.nih.gov/; data not shown). The qPCR cycling conditions for all genes consisted of an initial denaturation step of 95°C for 10 minutes, followed by 40 cycles consisting of 95°C for 15 seconds and 60°C for 1 minutes followed by a dissociation curve. Samples were run in triplicate for each gene of interest, and where differences were observed between the groups, the qPCR was repeated.
+
+Data obtained from qPCR were analyzed as follows: the relative expression within the sample (ΔC T) was calculated by subtracting the mean cycle threshold (C T) for the housekeeping gene (RN18S1, 18s ribosomal 1) from the mean C T value for the gene of interest. This number was then inserted into the formula 2−ΔCT to give a final arbitrary expression value.
+
+Western Blotting of AGAT and GAMT Protein
+
+Western blotting was performed as previously described5 with the minor modification that all blocking and primary antibody dilutions were performed using 5% skim milk powder instead of 5% bovine serum albumin. Primary antibody dilutions used were as follows: rabbit anti-GAMT monoclonal 1:4000 and rabbit anti-AGAT polyclonal 1:1000. Secondary antibody (goat anti-rabbit-horseradish peroxidase [HRP]) was diluted 1:10 000 in Tris-buffered saline and Tween 20. Antibodies were removed from the blots using a 1× stripping buffer (70 mmol/L SDS and 63 mmol/L Tris) and reprobed with β-actin as a loading control using the same protocol as above (mouse anti-β-actin, 1:5000, goat anti-mouse HRP, 1:10 000). Densitometric analysis was carried out using ImageJ as per the published protocol.5 To determine relative expression of the protein of interest, each band of interest was normalized to β-actin and creatine-exposed animals were expressed relative to the controls. (Note. due to the lack of a specific SLC6A8 antibody15 we were unable to perform Western blots for this protein.)
+
+Statistical Analysis
+
+All data are presented as mean ± standard error of the mean and were analyzed with a 2-way analysis of variance for diet and sex using the computer-based program SPSS. Significance was set at P < .05.
+
+Results
+Effects of Creatine Supplementation on Creatine Synthesizing Enzymes
+
+The effect of the creatine diet on the creatine content of maternal and fetal tissues and the placenta has been presented elsewhere.9 Briefly, the maternal creatine treatment resulted in a 3% to 105% increase in creatine content in fetal tissues (kidney 22%, heart 14%, liver 37%, brain 3.6%) and placenta (105%).9
+
+Creatine supplementation from midgestation had no significant effect on the mRNA expression of AGAT in the newborn kidney, although there was a significant decrease in the mRNA expression of AGAT in the brain compared to controls (P DIET < .05; Figure 1A and B). The AGAT mRNA expression was comparable in male and female brains in the control group, but greater in the female brain compared to the male brain in the creatine treatment group (P INT = .08; Figure 1B). The GAMT expression in the neonatal liver and brain at 24 hours of age was not different between creatine-exposed offspring and controls (Figure 1D and E). Analysis of the protein products of these genes showed that creatine supplementation did not significantly alter the protein levels of either AGAT or GAMT in neonatal tissue compared to controls (Figure 1C and F).
+
+Figure 1.
+
+Open in a new tab
+
+Messenger RNA (mRNA; A, B, D, and E) and protein (C, F) expression of the creatine synthesizing enzymes arginine:glycine amidinotransferase (AGAT; A-C) and guanidinoaceteate methyltransferase (GAMT; D-F) in newborn spiny mouse kidney (A and C), liver (D and F), and brain samples (B and E) from mothers fed a control (open bars) or 5% creatine supplemented diet (closed bars). Group mean ± standard error of the mean (SEM) are shown. The mRNA expression determined by quantitative polymerase chain reaction (qPCR) and protein expression determined by Western blot (representative blots shown). All values expressed relative to an internal control.
+
+Effects of Creatine Supplementation on the Creatine Transporter (SLC6A8)
+
+Immediately after birth, the mRNA expression of SLC6A8 within the labyrinthine region of the placenta did not differ between the maternal creatine supplemented group and controls (Figure 2A). In contrast, the expression of SLC6A8 tended to be lower in the spongy zone region of creatine-exposed placentas from female fetuses only, compared to controls (P INT = .06; Figure 2B). The SLC6A8 expression did not differ between diet groups in brain, heart, kidney, or liver samples taken from 24-hour-old neonates (Figure 2C-F).
+
+Figure 2.
+
+Open in a new tab
+
+Messenger RNA (mRNA) expression of solute carrier family 6 (neurotransmitter transporter, creatine) member 8 (SLC6A8) in spiny mouse placentas at term (labyrinth, A and spongy zone, B) and newborn spiny mouse brain (C), heart (D), kidney (E), and liver (F) samples from mothers fed a control (open bars) or 5% creatine supplemented diet (closed bars). Group mean ± standard error of the mean (SEM) are shown. The mRNA expression determined by quantitative polymerase chain reaction (qPCR) and all values are expressed relative to an internal control.
+
+Interestingly, there was significantly higher expression of SLC6A8 in the liver of male offspring, compared to females at 24 hours of postnatal age independent of maternal diet (P SEX < .05; Figure 2F).
+
+Discussion
+
+Previous studies in adult rat have shown that creatine negatively regulates the expression of the AGAT gene in the kidney.13,15 This study aimed to determine whether our model of maternal dietary creatine supplementation over half of pregnancy, which increases total creatine concentrations in fetal tissues,9 might therefore cause downregulation in expression of AGAT in the neonate—specifically, in the kidney and the brain. The results showed that this did not occur at either the gene or the protein level in the kidney, but that expression of the AGAT gene was decreased in the brain. We also investigated the expression of GAMT, the second enzyme required for endogenous creatine synthesis in the liver and brain, and these gene and protein products were not affected by the maternal creatine load. This suggests that supplementation of the maternal diet with creatine does not impair expression of the enzymes necessary for endogenous creatine synthesis in the key creatine synthesizing organs (kidney and liver), but that local sites of creatine synthesis (eg, brain) may be affected in the neonate.
+
+To our knowledge this is the first evidence that SLC6A8 is expressed in the 2 major regions of the murid placenta. The placenta plays a critical role in the transport of creatine from the maternal circulation to fetal blood via a placental “pool” of creatine. The concept of a placental pool of creatine from which the creatine in fetal blood is derived was first described by Miller in 197416; indeed, we have shown significant loading of creatine within the placenta of the spiny mouse following maternal dietary creatine supplementation.9 This transport of creatine to the fetal blood from the maternal circulation is critical for fetal creatine supplies, as our data suggest that the fetus may not be capable of synthesizing its own creatine until after 0.9 day of gestation.5 The trend for downregulation of SLC6A8 expression in the spongy zone region of the female placenta is an unexpected finding. This could suggest reduced storage of creatine in the placental pool for a female, although we have not detected any sex differences in the amount of creatine loaded in the placentas.
+
+We also observed sex-dependent expression of the SLC6A8 gene in the 24-hour-old neonatal liver. However, this was independent of maternal diet, with the female liver having significantly lower expression than the male in both the diet groups. We observed no change in the expression of SLC6A8 mRNA in the liver of 24-hour-old neonates in response to the maternal creatine diet. The mere presence of the SLC6A8 gene in the newborn spiny mouse liver is, however, a novel and interesting observation, with studies in the adult and near-term rat embryo showing no SLC6A8 expression in the liver.4,17 We have measured the amount of creatine in maternal tissues following our 5% creatine diet from midgestation to term and we observed a 30-fold increase in the total creatine content within the maternal liver at term,9 suggesting that the presence of SLC6A8 in the spiny mouse liver is not restricted to developing or young hepatic tissues. Why creatine supplementation leads to the preferential storage of creatine in the liver, over other nonmuscle sites in the spiny mouse is not known. We suggest that in the transition from fetal to newborn life there may be a shift of creatine storage from the placenta to the newborn liver. During pregnancy the placenta may function to extract excess creatine from the fetal circulation, either storing it itself or returning it to the maternal circulation. After birth, however, with the removal of the placenta, the newborn liver may take over this role, as it appears to do in the adult female.
+
+Determination of SLC6A8 protein is presently limited by the lack of a specific antibody, in particular for the spiny mouse.15 It is unknown whether the observed changes in mRNA expression also correspond to an increase in protein expression. Further work using in situ hybridization to localize placental SLC6A8 mRNA should be done.
+
+Placenta samples were collected at delivery and therefore, at that point in time, were still subject to the creatine concentration prevailing in maternal blood. On the other hand, the neonatal tissues were collected at 24 hours of age, and as all offspring were cross-fostered to a dam who was fed the normal diet, it is possible that some postpartum change of AGAT, GAMT, and SLC6A8 expression had occurred within this time. The half-life of AGAT and GAMT activity has been shown to be 16 to 20 hours,2 and it is therefore possible that in the 24 hours period in which the newborn was not exposed to the creatine load that AGAT and GAMT protein levels had returned to normal. However, this is unlikely, because human studies show that it takes 4 weeks for total creatine levels to return to basal levels after a creatine load,12 and creatine supplementation has been previously shown to inhibit endogenous creatine synthesis.10 We do not know the total creatine content of our tissues at 24 hours; values reported above are those at term, at the time the offspring are removed from the dam and insufficient tissue now prevents us from making further measurements. To our knowledge there is no data on the rate of creatine clearance after loading the fetus or newborn.
+
+Another important consideration is the effect of pregnancy hormones on creatine-synthesizing enzyme expression. Creatine biosynthesis occurs at the highest rates in young vertebrates supported by the good nutrient supply and optimal blood concentrations of insulin (stimulates uptake of blood creatine by muscle), somatotropin, thyroid hormone, and testosterone provided by pregnancy and the early neonatal period.2 The hormone profile during pregnancy may therefore override the inhibition of endogenous creatine synthesis expected to occur with maternal creatine loading.
+
+The lack of change in mRNA and protein expression of AGAT and GAMT in newborn spiny mouse tissues is a significant finding, particularly with respect to the potential benefits of maternal dietary creatine supplementation for the protection of newborn tissues against hypoxia-induced injury,6–8,19 although a limitation of this study is that we do not yet have measures of the activity of these enzymes and have based our conclusions only on gene expression and protein data. Also, the observed decrease in AGAT mRNA expression in the brain is difficult to interpret given that there is no accepted physiological role for guanidinoacetate in the brain. However, recent preliminary findings by Braissant and colleagues20 suggest that AGAT may be involved in the differentiation of neuroblasts and therefore have a role in determining the fate of neural stem cells during early brain development. Also, there appears to be a net exit of guanidinoacetate from cerebrospinal fluid to blood, at the blood–brain barrier, predominantly through the taurine transporter,21 further suggesting a role for this product of AGAT activity other than the cerebral synthesis of creatine. The implications of these findings for fetal brain development and the impact of maternal creatine ingestion on them require further study.
+
+Acknowledgments
+
+The authors would like to thank Mrs Maria Papaioannou for technical assistance.
+
+Footnotes
+
+Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding: The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: funding from the NH&MRC to D.W.W. and R.S. and the Victorian Government’s Operational Infrastructure Support Program supported this work. H.D. is an Australian Research Council Postdoctoral Research Fellow, Z.J.I. was supported by an Australian Postgraduate Award (APA) Scholarship when these experiments were completed and D.A.L., S.E., and B.A.O’C. are currently supported by APA Scholarships.
+
+References
+1. Wallimann T, Tokarska-Schlattner M, Schlattner U. The creatine kinase system and pleiotropic effects of creatine. Amino Acids. 2011;40(5):1271–1296. [DOI] [PMC free article] [PubMed] [Google Scholar]
+2. Walker JB. Creatine: biosynthesis, regulation, and function. Adv Enzymol Relat Areas Mol Biol. 1979;50:177–242. [DOI] [PubMed] [Google Scholar]
+3. Brosnan JT, Brosnan ME. Creatine: endogenous metabolite, dietary, and therapeutic supplement. Annu Rev Nutr. 2007;27:241–261. [DOI] [PubMed] [Google Scholar]
+4. Braissant O, Henry H, Villard AM, Speer O, Wallimann T, Bachmann C. Creatine synthesis and transport during rat embryogenesis: spatiotemporal expression of AGAT, GAMT and CT1. BMC Dev Biol. 2005;5:9. [DOI] [PMC free article] [PubMed] [Google Scholar]
+5. Ireland Z, Russell AP, Wallimann T, Walker DW, Snow R. Developmental changes in the expression of creatine synthesizing enzymes and creatine transporter in a precocial rodent, the spiny mouse. BMC Dev Biol. 2009;9:39. [DOI] [PMC free article] [PubMed] [Google Scholar]
+6. Cannata DJ, Ireland Z, Dickinson H, et al. Maternal creatine supplementation from mid-pregnancy protects the diaphragm of the newborn spiny mouse from intrapartum hypoxia-induced damage. Pediatr Res. 2010;68(5):393–398. [DOI] [PubMed] [Google Scholar]
+7. Ireland Z, Castillo-Melendez M, Dickinson H, Snow R, Walker DW. A maternal diet supplemented with creatine from mid-pregnancy protects the newborn spiny mouse brain from birth hypoxia. Neuroscience. 2011;194:372–379. [DOI] [PubMed] [Google Scholar]
+8. Ellery SJ, Ireland ZJ, Kett MM, Snow R, Walker DW, Dickinson H. Creatine pretreatment prevents birth asphyxia-induced injury of the newborn spiny mouse kidney [published online ahead of print November 22, 2012]. Pediatr Res. doi:10.1038/pr.2012.174. [DOI] [PubMed] [Google Scholar]
+9. Ireland Z, Dickinson H, Snow R, Walker DW. Maternal creatine: does it reach the fetus and improve survival after an acute hypoxic episode in the spiny mouse (Acomys cahirinus)? Am J Obstet Gynecol. 2008;198(4):431 e1–e6. [DOI] [PubMed] [Google Scholar]
+10. Derave W, Marescau B, Vanden Eede E, Eijnde BO, De Deyn PP, Hespel P. Plasma guanidino compounds are altered by oral creatine supplementation in healthy humans. J Appl Physiol. 2004;97(3):852–857. [DOI] [PubMed] [Google Scholar]
+11. Fitch CD, Hsu C, Dinning JS. Some factors affecting kidney transamidinase activity in rats. J Biol Chem. 1960;235:2362–2364. [PubMed] [Google Scholar]
+12. McKenna MJ, Morton J, Selig SE, Snow RJ. Creatine supplementation increases muscle total creatine but not maximal intermittent exercise performance. J Appl Physiol. 1999;87(6):2244–2252. [DOI] [PubMed] [Google Scholar]
+13. Guthmiller P, Van Pilsum JF, Boen JR, McGuire DM. Cloning and sequencing of rat kidney L-arginine: glycine amidinotransferase. Studies on the mechanism of regulation by growth hormone and creatine. J Biol Chem. 1994;269(26):17556–17560. [PubMed] [Google Scholar]
+14. Dickinson H, Walker DW. Managing a colony of spiny mice (Acomys cahirinus) for perinatal research. Australian and New Zealand Council for the Care of Animals in Research and Training (ANZCCART) News 2007;20:4-11. [Google Scholar]
+15. Wyss M, Kaddurah-Daouk R. Creatine and creatinine metabolism. Physiol Rev. 2000;80(3):1107–1213. [DOI] [PubMed] [Google Scholar]
+16. Miller RK, Davis BM, Brent RL, Koszalka TR. Transport of creatine in the human placenta. The Pharmacologist. 1974;16(2):305. [Google Scholar]
+17. Snow RJ, Murphy RM. Creatine and the creatine transporter: a review. Mol Cell Biochem. 2001;224(1-2):169–181. [DOI] [PubMed] [Google Scholar]
+18. Speer O, Neukomm LJ, Murphy RM, et al. Creatine transporters: a reappraisal. Mol Cell Biochem. 2004;256-257(1-2):407–424. [DOI] [PubMed] [Google Scholar]
+19. Wallimann T, Tokarska-Schlattner M, Schlattner U. The creatine kinase system and pleiotropic effects of creatine. Amino Acids. 2011;40(5):1271–1296. [DOI] [PMC free article] [PubMed] [Google Scholar]
+20. Braissant O, Beard E, Uldry J. Models of creatine deficiency syndromes by RNAi in 3D reaggregated brain cell organotypic cultures. In: XXVth International Symposium on Cerebral Blood Flow, Metabolism, and Function. Barcelona, Spain; 2011:934. [Google Scholar]
+21. Braissant O. Creatine and guanidinoacetate transport at blood-brain and blood-cerebrospinal fluid barriers. J Inherit Metab Dis. 2012;35(4):655–664. [DOI] [PubMed] [Google Scholar]
+
+Articles from Reproductive Sciences are provided here courtesy of Society for Reproductive Investigation
+
+ACTIONS
+View on publisher site
+PDF (354.2 KB)
+Cite
+Collections
+Permalink
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+ON THIS PAGE
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Acknowledgments
+Footnotes
+References
+FOLLOW NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+
+Connect with NLM
+
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+
+LINKS
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#main-content
+https://www.ncbi.nlm.nih.gov/
+https://www.ncbi.nlm.nih.gov/myncbi/
+https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/
+https://www.ncbi.nlm.nih.gov/account/settings/
+https://pmc.ncbi.nlm.nih.gov/
+https://pmc.ncbi.nlm.nih.gov/journals/
+https://pmc.ncbi.nlm.nih.gov/about/userguide/
+https://doi.org/10.1177/1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/pdf/10.1177_1933719113477478.pdf
+https://pmc.ncbi.nlm.nih.gov/about/disclaimer/
+https://pmc.ncbi.nlm.nih.gov/about/copyright/
+https://pmc.ncbi.nlm.nih.gov/search/?term=%22Reprod%20Sci%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Reprod%20Sci%22[jour]
+https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Reprod%20Sci%22[Title%20Abbreviation]
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/?term=%22Reprod%20Sci%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Dickinson%20H%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Ireland%20ZJ%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22LaRosa%20DA%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22O%E2%80%99Connell%20BA%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Ellery%20S%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Snow%20R%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Walker%20DW%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/23427185/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr1-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr2-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr3-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr4-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr5-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr6-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr7-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr9-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr8-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr10-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr13-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr14-1933719113477478
+http://blast.ncbi.nlm.nih.gov/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#fig1-1933719113477478
+https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3745711_10.1177_1933719113477478-fig1.jpg
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/figure/fig1-1933719113477478/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#fig2-1933719113477478
+https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3745711_10.1177_1933719113477478-fig2.jpg
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/figure/fig2-1933719113477478/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr15-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr16-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr17-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr12-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr19-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr20-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#bibr21-1933719113477478
+https://doi.org/10.1007/s00726-011-0877-3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3080659/
+https://pubmed.ncbi.nlm.nih.gov/21448658/
+https://scholar.google.com/scholar_lookup?journal=Amino%20Acids&title=The%20creatine%20kinase%20system%20and%20pleiotropic%20effects%20of%20creatine&author=T%20Wallimann&author=M%20Tokarska-Schlattner&author=U%20Schlattner&volume=40&issue=5&publication_year=2011&pages=1271-1296&pmid=21448658&doi=10.1007/s00726-011-0877-3&
+https://doi.org/10.1002/9780470122952.ch4
+https://pubmed.ncbi.nlm.nih.gov/386719/
+https://scholar.google.com/scholar_lookup?journal=Adv%20Enzymol%20Relat%20Areas%20Mol%20Biol&title=Creatine:%20biosynthesis,%20regulation,%20and%20function&author=JB%20Walker&volume=50&publication_year=1979&pages=177-242&pmid=386719&doi=10.1002/9780470122952.ch4&
+https://doi.org/10.1146/annurev.nutr.27.061406.093621
+https://pubmed.ncbi.nlm.nih.gov/17430086/
+https://scholar.google.com/scholar_lookup?journal=Annu%20Rev%20Nutr&title=Creatine:%20endogenous%20metabolite,%20dietary,%20and%20therapeutic%20supplement&author=JT%20Brosnan&author=ME%20Brosnan&volume=27&publication_year=2007&pages=241-261&pmid=17430086&doi=10.1146/annurev.nutr.27.061406.093621&
+https://doi.org/10.1186/1471-213X-5-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1175845/
+https://pubmed.ncbi.nlm.nih.gov/15918910/
+https://scholar.google.com/scholar_lookup?journal=BMC%20Dev%20Biol&title=Creatine%20synthesis%20and%20transport%20during%20rat%20embryogenesis:%20spatiotemporal%20expression%20of%20AGAT,%20GAMT%20and%20CT1&author=O%20Braissant&author=H%20Henry&author=AM%20Villard&author=O%20Speer&author=T%20Wallimann&volume=5&publication_year=2005&pages=9&pmid=15918910&doi=10.1186/1471-213X-5-9&
+https://doi.org/10.1186/1471-213X-9-39
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2713216/
+https://pubmed.ncbi.nlm.nih.gov/19570237/
+https://scholar.google.com/scholar_lookup?journal=BMC%20Dev%20Biol&title=Developmental%20changes%20in%20the%20expression%20of%20creatine%20synthesizing%20enzymes%20and%20creatine%20transporter%20in%20a%20precocial%20rodent,%20the%20spiny%20mouse&author=Z%20Ireland&author=AP%20Russell&author=T%20Wallimann&author=DW%20Walker&author=R%20Snow&volume=9&publication_year=2009&pages=39&pmid=19570237&doi=10.1186/1471-213X-9-39&
+https://doi.org/10.1203/PDR.0b013e3181f1c048
+https://pubmed.ncbi.nlm.nih.gov/20639795/
+https://scholar.google.com/scholar_lookup?journal=Pediatr%20Res&title=Maternal%20creatine%20supplementation%20from%20mid-pregnancy%20protects%20the%20diaphragm%20of%20the%20newborn%20spiny%20mouse%20from%20intrapartum%20hypoxia-induced%20damage&author=DJ%20Cannata&author=Z%20Ireland&author=H%20Dickinson&volume=68&issue=5&publication_year=2010&pages=393-398&pmid=20639795&doi=10.1203/PDR.0b013e3181f1c048&
+https://doi.org/10.1016/j.neuroscience.2011.05.012
+https://pubmed.ncbi.nlm.nih.gov/21640166/
+https://scholar.google.com/scholar_lookup?journal=Neuroscience&title=A%20maternal%20diet%20supplemented%20with%20creatine%20from%20mid-pregnancy%20protects%20the%20newborn%20spiny%20mouse%20brain%20from%20birth%20hypoxia&author=Z%20Ireland&author=M%20Castillo-Melendez&author=H%20Dickinson&author=R%20Snow&author=DW%20Walker&volume=194&publication_year=2011&pages=372-379&pmid=21640166&doi=10.1016/j.neuroscience.2011.05.012&
+https://doi.org/10.1038/pr.2012.174
+https://pubmed.ncbi.nlm.nih.gov/23174701/
+https://scholar.google.com/scholar_lookup?journal=Pediatr%20Res&title=Creatine%20pretreatment%20prevents%20birth%20asphyxia-induced%20injury%20of%20the%20newborn%20spiny%20mouse%20kidney%20[published%20online%20ahead%20of%20print%20November%2022,%202012]&author=SJ%20Ellery&author=ZJ%20Ireland&author=MM%20Kett&author=R%20Snow&author=DW%20Walker&pmid=23174701&doi=10.1038/pr.2012.174&
+https://doi.org/10.1016/j.ajog.2007.10.790
+https://pubmed.ncbi.nlm.nih.gov/18295173/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol&title=Maternal%20creatine:%20does%20it%20reach%20the%20fetus%20and%20improve%20survival%20after%20an%20acute%20hypoxic%20episode%20in%20the%20spiny%20mouse%20(Acomys%20cahirinus)?&author=Z%20Ireland&author=H%20Dickinson&author=R%20Snow&author=DW.%20Walker&volume=198&issue=4&publication_year=2008&pages=e1-e6&pmid=18295173&doi=10.1016/j.ajog.2007.10.790&
+https://doi.org/10.1152/japplphysiol.00206.2004
+https://pubmed.ncbi.nlm.nih.gov/15107411/
+https://scholar.google.com/scholar_lookup?journal=J%20Appl%20Physiol&title=Plasma%20guanidino%20compounds%20are%20altered%20by%20oral%20creatine%20supplementation%20in%20healthy%20humans&author=W%20Derave&author=B%20Marescau&author=E%20Vanden%20Eede&author=BO%20Eijnde&author=PP%20De%20Deyn&volume=97&issue=3&publication_year=2004&pages=852-857&pmid=15107411&doi=10.1152/japplphysiol.00206.2004&
+https://pubmed.ncbi.nlm.nih.gov/13823290/
+https://scholar.google.com/scholar_lookup?journal=J%20Biol%20Chem&title=Some%20factors%20affecting%20kidney%20transamidinase%20activity%20in%20rats&author=CD%20Fitch&author=C%20Hsu&author=JS%20Dinning&volume=235&publication_year=1960&pages=2362-2364&pmid=13823290&
+https://doi.org/10.1152/jappl.1999.87.6.2244
+https://pubmed.ncbi.nlm.nih.gov/10601174/
+https://scholar.google.com/scholar_lookup?journal=J%20Appl%20Physiol&title=Creatine%20supplementation%20increases%20muscle%20total%20creatine%20but%20not%20maximal%20intermittent%20exercise%20performance&author=MJ%20McKenna&author=J%20Morton&author=SE%20Selig&author=RJ%20Snow&volume=87&issue=6&publication_year=1999&pages=2244-2252&pmid=10601174&doi=10.1152/jappl.1999.87.6.2244&
+https://pubmed.ncbi.nlm.nih.gov/8021264/
+https://scholar.google.com/scholar_lookup?journal=J%20Biol%20Chem&title=Cloning%20and%20sequencing%20of%20rat%20kidney%20L-arginine:%20glycine%20amidinotransferase.%20Studies%20on%20the%20mechanism%20of%20regulation%20by%20growth%20hormone%20and%20creatine&author=P%20Guthmiller&author=JF%20Van%20Pilsum&author=JR%20Boen&author=DM%20McGuire&volume=269&issue=26&publication_year=1994&pages=17556-17560&pmid=8021264&
+https://scholar.google.com/scholar_lookup?Dickinson%20H,%20Walker%20DW.%20Managing%20a%20colony%20of%20spiny%20mice%20(Acomys%20cahirinus)%20for%20perinatal%20research.%20Australian%20and%20New%20Zealand%20Council%20for%20the%20Care%20of%20Animals%20in%20Research%20and%20Training%20(ANZCCART)%20News%202007;20:4-11.
+https://doi.org/10.1152/physrev.2000.80.3.1107
+https://pubmed.ncbi.nlm.nih.gov/10893433/
+https://scholar.google.com/scholar_lookup?journal=Physiol%20Rev&title=Creatine%20and%20creatinine%20metabolism&author=M%20Wyss&author=R%20Kaddurah-Daouk&volume=80&issue=3&publication_year=2000&pages=1107-1213&pmid=10893433&doi=10.1152/physrev.2000.80.3.1107&
+https://scholar.google.com/scholar_lookup?journal=The%20Pharmacologist&title=Transport%20of%20creatine%20in%20the%20human%20placenta&author=RK%20Miller&author=BM%20Davis&author=RL%20Brent&author=TR%20Koszalka&publication_year=1974&pages=16(2):305&
+https://doi.org/10.1023/a:1011908606819
+https://pubmed.ncbi.nlm.nih.gov/11693194/
+https://scholar.google.com/scholar_lookup?journal=Mol%20Cell%20Biochem&title=Creatine%20and%20the%20creatine%20transporter:%20a%20review&author=RJ%20Snow&author=RM%20Murphy&volume=224&issue=1-2&publication_year=2001&pages=169-181&pmid=11693194&doi=10.1023/a:1011908606819&
+https://doi.org/10.1023/b:mcbi.0000009886.98508.e7
+https://pubmed.ncbi.nlm.nih.gov/14977199/
+https://scholar.google.com/scholar_lookup?journal=Mol%20Cell%20Biochem&title=Creatine%20transporters:%20a%20reappraisal&author=O%20Speer&author=LJ%20Neukomm&author=RM%20Murphy&volume=256-257&issue=1-2&publication_year=2004&pages=407-424&pmid=14977199&doi=10.1023/b:mcbi.0000009886.98508.e7&
+https://scholar.google.com/scholar_lookup?Braissant%20O,%20Beard%20E,%20Uldry%20J.%20Models%20of%20creatine%20deficiency%20syndromes%20by%20RNAi%20in%203D%20reaggregated%20brain%20cell%20organotypic%20cultures.%20In:%20XXVth%20International%20Symposium%20on%20Cerebral%20Blood%20Flow,%20Metabolism,%20and%20Function.%20Barcelona,%20Spain;%202011:934.
+https://doi.org/10.1007/s10545-011-9433-2
+https://pubmed.ncbi.nlm.nih.gov/22252611/
+https://scholar.google.com/scholar_lookup?journal=J%20Inherit%20Metab%20Dis&title=Creatine%20and%20guanidinoacetate%20transport%20at%20blood-brain%20and%20blood-cerebrospinal%20fluid%20barriers&author=O%20Braissant&volume=35&issue=4&publication_year=2012&pages=655-664&pmid=22252611&doi=10.1007/s10545-011-9433-2&
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#abstract1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#section1-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#section2-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#section12-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#section15-1933719113477478
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#ack1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#fn-group1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#ref-list1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/#
+https://twitter.com/ncbi
+https://www.facebook.com/ncbi.nlm
+https://www.linkedin.com/company/ncbinlm
+https://github.com/ncbi
+https://ncbiinsights.ncbi.nlm.nih.gov/
+https://twitter.com/nlm_nih
+https://www.facebook.com/nationallibraryofmedicine
+https://www.youtube.com/user/NLMNIH
+https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,%20%20%20%20%20%20%20%20%20%20%20%20-77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!%20%20%20%20%20%20%20%20%20%20%20%204d-77.0988323
+https://www.nlm.nih.gov/web_policies.html
+https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+https://support.nlm.nih.gov/?pagename=cloudpmc-viewer%3Apmc%3Aarticle%3Ajournal
+https://www.nlm.nih.gov/accessibility.html
+https://www.nlm.nih.gov/careers/careers.html
+https://www.nlm.nih.gov/
+https://www.nih.gov/
+https://www.hhs.gov/
+https://www.usa.gov/
+
+IMAGES
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-sprsx.gif
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8097/3745711/c0059dc7da7f/10.1177_1933719113477478-fig1.jpg
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8097/3745711/55c93dd5c8b4/10.1177_1933719113477478-fig2.jpg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg
+end https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/
+
+FULL TEXT FOR URL https://pmc.ncbi.nlm.nih.gov/articles/PMC3745711/ SAVED TO ./.webcats/https-pmc-ncbi-nlm-nih-gov-articles-PMC3745711-8bd7f31.txt
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+Search
+Log in
+
+Primary site navigation
+
+Search PMC Full-Text Archive
+Search in PMC
+Journal List 
+User Guide
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Br Med J (Clin Res Ed). 1981 May 9;282(6275):1509–1511. doi: 10.1136/bmj.282.6275.1509
+Double-blind randomised controlled trial of folate treatment before conception to prevent recurrence of neural-tube defects.
+K M Laurence, N James, M H Miller, G B Tennant, H Campbell
+Copyright and License information
+PMCID: PMC1505459  PMID: 6786536
+Abstract
+
+A randomized controlled double-blind trial was undertaken in south Wales to prevent the recurrence of neural-tube defects in women who had had one child with a neural-tube defect. Sixty women were allocated before conception to take 4 mg of folic acid a day before and during early pregnancy and 44 complied with these instructions. Fifty-one women were allocated to placebo treatment. There were no recurrences among the compliant mothers but two among the non-compliers and four among the women in the placebo group. Thus there were no recurrences among those who received supplementation and six among those who did not; this difference is significant (p = 0.04). It is concluded that folic acid supplementation might be a cheap, safe, and effective method of primary prevention of neural-tube defects but that this must be confirmed in a large, multicentre trial.
+
+Full text
+PDF
+1509
+1510
+1511
+Next
+Selected References
+
+These references are in PubMed. This may not be the complete list of references from this article.
+
+ Hoffbrand A. V., Newcombe F. A., Mollin D. L. Method of assay of red cell folate activity and the value of the assay as a test for folate deficiency. J Clin Pathol. 1966 Jan;19(1):17–28. doi: 10.1136/jcp.19.1.17. [DOI] [PMC free article] [PubMed] [Google Scholar]
+ Laurence K. M., Carter C. O., David P. A. Major central nervous system malformations in South Wales. I. Incidence, local variations and geographical factors. Br J Prev Soc Med. 1968 Jul;22(3):146–160. doi: 10.1136/jech.22.3.146. [DOI] [PMC free article] [PubMed] [Google Scholar]
+ Laurence K. M., Carter C. O., David P. A. Major central nervous system malformations in South Wales. II. Pregnancy factors, seasonal variation, and social class effects. Br J Prev Soc Med. 1968 Oct;22(4):212–222. doi: 10.1136/jech.22.4.212. [DOI] [PMC free article] [PubMed] [Google Scholar]
+ Smithells R. W., Sheppard S., Schorah C. J., Seller M. J., Nevin N. C., Harris R., Read A. P., Fielding D. W. Possible prevention of neural-tube defects by periconceptional vitamin supplementation. Lancet. 1980 Feb 16;1(8164):339–340. doi: 10.1016/s0140-6736(80)90886-7. [DOI] [PubMed] [Google Scholar]
+ Smithells R. W., Sheppard S., Schorah C. J. Vitamin deficiencies and neural tube defects. Arch Dis Child. 1976 Dec;51(12):944–950. doi: 10.1136/adc.51.12.944. [DOI] [PMC free article] [PubMed] [Google Scholar]
+ THIERSCH J. B. Therapeutic abortions with a folic acid antagonist, 4-aminopteroylglutamic acid (4-amino P.G.A) administered by the oral route. Am J Obstet Gynecol. 1952 Jun;63(6):1298–1304. doi: 10.1016/s0002-9378(16)38924-4. [DOI] [PubMed] [Google Scholar]
+ Tennant G. B., Withey J. L. An assessment of work simplified procedures for the microbiological assay of serum vitamin B12 and serum folate. Med Lab Technol. 1972 Apr;29(2):171–181. [PubMed] [Google Scholar]
+
+Articles from British Medical Journal (Clinical research ed.) are provided here courtesy of BMJ Publishing Group
+
+ACTIONS
+View on publisher site
+PDF (638.0 KB)
+Cite
+Collections
+Permalink
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+ON THIS PAGE
+Abstract
+Full text
+Selected References
+FOLLOW NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+
+Connect with NLM
+
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+
+LINKS
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/#main-content
+https://www.ncbi.nlm.nih.gov/
+https://www.ncbi.nlm.nih.gov/myncbi/
+https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/
+https://www.ncbi.nlm.nih.gov/account/settings/
+https://pmc.ncbi.nlm.nih.gov/
+https://pmc.ncbi.nlm.nih.gov/journals/
+https://pmc.ncbi.nlm.nih.gov/about/userguide/
+https://doi.org/10.1136/bmj.282.6275.1509
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/pdf/bmjcred00657-0019.pdf
+https://pmc.ncbi.nlm.nih.gov/about/disclaimer/
+https://pmc.ncbi.nlm.nih.gov/about/copyright/
+https://pmc.ncbi.nlm.nih.gov/search/?term=%22Br%20Med%20J%20(Clin%20Res%20Ed)%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Br%20Med%20J%20(Clin%20Res%20Ed)%22[jour]
+https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Br%20Med%20J%20(Clin%20Res%20Ed)%22[Title%20Abbreviation]
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/?term=%22Br%20Med%20J%20(Clin%20Res%20Ed)%22[jour]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Laurence%20KM%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22James%20N%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Miller%20MH%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Tennant%20GB%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Campbell%20H%22[Author]
+https://pubmed.ncbi.nlm.nih.gov/6786536/
+https://pmc.ncbi.nlm.nih.gov/articles/instance/1505459/pdf/bmjcred00657-0019.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/?page=0
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/?page=1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/?page=2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/?page=3
+https://doi.org/10.1136/jcp.19.1.17
+https://pmc.ncbi.nlm.nih.gov/articles/PMC473152/
+https://pubmed.ncbi.nlm.nih.gov/5904976/
+https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Pathol&title=Method%20of%20assay%20of%20red%20cell%20folate%20activity%20and%20the%20value%20of%20the%20assay%20as%20a%20test%20for%20folate%20deficiency.&author=A.%20V.%20Hoffbrand&author=F.%20A.%20Newcombe&author=D.%20L.%20Mollin&volume=19&issue=1&publication_year=1966&pages=17-28&pmid=5904976&doi=10.1136/jcp.19.1.17&
+https://doi.org/10.1136/jech.22.3.146
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1059135/
+https://pubmed.ncbi.nlm.nih.gov/4874476/
+https://scholar.google.com/scholar_lookup?journal=Br%20J%20Prev%20Soc%20Med&title=Major%20central%20nervous%20system%20malformations%20in%20South%20Wales.%20I.%20Incidence,%20local%20variations%20and%20geographical%20factors.&author=K.%20M.%20Laurence&author=C.%20O.%20Carter&author=P.%20A.%20David&volume=22&issue=3&publication_year=1968&pages=146-160&pmid=4874476&doi=10.1136/jech.22.3.146&
+https://doi.org/10.1136/jech.22.4.212
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1059148/
+https://pubmed.ncbi.nlm.nih.gov/4882275/
+https://scholar.google.com/scholar_lookup?journal=Br%20J%20Prev%20Soc%20Med&title=Major%20central%20nervous%20system%20malformations%20in%20South%20Wales.%20II.%20Pregnancy%20factors,%20seasonal%20variation,%20and%20social%20class%20effects.&author=K.%20M.%20Laurence&author=C.%20O.%20Carter&author=P.%20A.%20David&volume=22&issue=4&publication_year=1968&pages=212-222&pmid=4882275&doi=10.1136/jech.22.4.212&
+https://doi.org/10.1016/s0140-6736(80)90886-7
+https://pubmed.ncbi.nlm.nih.gov/6101792/
+https://scholar.google.com/scholar_lookup?journal=Lancet&title=Possible%20prevention%20of%20neural-tube%20defects%20by%20periconceptional%20vitamin%20supplementation.&author=R.%20W.%20Smithells&author=S.%20Sheppard&author=C.%20J.%20Schorah&author=M.%20J.%20Seller&author=N.%20C.%20Nevin&volume=1&issue=8164&publication_year=1980&pages=339-340&pmid=6101792&doi=10.1016/s0140-6736(80)90886-7&
+https://doi.org/10.1136/adc.51.12.944
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1546171/
+https://pubmed.ncbi.nlm.nih.gov/1015847/
+https://scholar.google.com/scholar_lookup?journal=Arch%20Dis%20Child&title=Vitamin%20deficiencies%20and%20neural%20tube%20defects.&author=R.%20W.%20Smithells&author=S.%20Sheppard&author=C.%20J.%20Schorah&volume=51&issue=12&publication_year=1976&pages=944-950&pmid=1015847&doi=10.1136/adc.51.12.944&
+https://doi.org/10.1016/s0002-9378(16)38924-4
+https://pubmed.ncbi.nlm.nih.gov/14933487/
+https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol&title=Therapeutic%20abortions%20with%20a%20folic%20acid%20antagonist,%204-aminopteroylglutamic%20acid%20(4-amino%20P.G.A)%20administered%20by%20the%20oral%20route.&author=J.%20B.%20THIERSCH&volume=63&issue=6&publication_year=1952&pages=1298-1304&pmid=14933487&doi=10.1016/s0002-9378(16)38924-4&
+https://pubmed.ncbi.nlm.nih.gov/4627215/
+https://scholar.google.com/scholar_lookup?journal=Med%20Lab%20Technol&title=An%20assessment%20of%20work%20simplified%20procedures%20for%20the%20microbiological%20assay%20of%20serum%20vitamin%20B12%20and%20serum%20folate.&author=G.%20B.%20Tennant&author=J.%20L.%20Withey&volume=29&issue=2&publication_year=1972&pages=171-181&pmid=4627215&
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/#abstract1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/#supplementary-material1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/#ref-list1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/#
+https://twitter.com/ncbi
+https://www.facebook.com/ncbi.nlm
+https://www.linkedin.com/company/ncbinlm
+https://github.com/ncbi
+https://ncbiinsights.ncbi.nlm.nih.gov/
+https://twitter.com/nlm_nih
+https://www.facebook.com/nationallibraryofmedicine
+https://www.youtube.com/user/NLMNIH
+https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,%20%20%20%20%20%20%20%20%20%20%20%20-77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!%20%20%20%20%20%20%20%20%20%20%20%204d-77.0988323
+https://www.nlm.nih.gov/web_policies.html
+https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+https://support.nlm.nih.gov/?pagename=cloudpmc-viewer%3Apmc%3Aarticle%3Ascanned
+https://www.nlm.nih.gov/accessibility.html
+https://www.nlm.nih.gov/careers/careers.html
+https://www.nlm.nih.gov/
+https://www.nih.gov/
+https://www.hhs.gov/
+https://www.usa.gov/
+
+IMAGES
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmjcred.gif
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/navigate_before.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/navigate_next.svg
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/516e/1505459/3da313f242c6/bmjcred00657-0019.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/516e/1505459/7184eb8a508b/bmjcred00657-0020.png
+https://cdn.ncbi.nlm.nih.gov/pmc/blobs/516e/1505459/dc78db67a94c/bmjcred00657-0021.png
+https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg
+end https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/
+
+FULL TEXT FOR URL https://pmc.ncbi.nlm.nih.gov/articles/PMC1505459/ SAVED TO ./.webcats/https-pmc-ncbi-nlm-nih-gov-articles-PMC1505459-93fa511.txt

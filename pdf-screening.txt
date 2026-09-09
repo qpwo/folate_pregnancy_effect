@@ -1,0 +1,2778 @@
+begin pdfs/columbia_Peters_EHP.pdf
+Starting qvl-pdf-to-md: pdfs/columbia_Peters_EHP.pdf -> pdfs/columbia_Peters_EHP.pdf_cfef29.md
+Rendering and resizing 8 pages in parallel...
+begin pdfs/folate_2026_1679067.pdf
+Starting qvl-pdf-to-md: pdfs/folate_2026_1679067.pdf -> pdfs/folate_2026_1679067.pdf_b3fb23.md
+Rendering and resizing 12 pages in parallel...
+begin pdfs/PMC3745711.pdf
+Starting qvl-pdf-to-md: pdfs/PMC3745711.pdf -> pdfs/PMC3745711.pdf_e40e89.md
+Rendering and resizing 7 pages in parallel...
+Found/rendered 8 pages in /Users/ubuntu/.cache/qvl-pdf-to-md/columbia_Peters_EHP.pdf_cfef29 in 0.27s
+Found/rendered 12 pages in /Users/ubuntu/.cache/qvl-pdf-to-md/folate_2026_1679067.pdf_b3fb23 in 0.30s
+Found/rendered 7 pages in /Users/ubuntu/.cache/qvl-pdf-to-md/PMC3745711.pdf_e40e89 in 0.32s
+Page 11 done via google in 6.6s
+Page 9 done via google in 7.6s
+Page 6 done via google in 8.5s
+Page 1 done via google in 9.4s
+Page 2 done via google in 9.5s
+Page 1 done via google in 9.5s
+Page 5 done via google in 10.4s
+Page 3 done via google in 10.8s
+Page 3 done via google in 10.8s
+Page 4 done via google in 12.8s
+Page 7 done via google in 12.8s
+Page 8 done via google in 13.2s
+Page 4 done via google in 13.3s
+Page 0 done via google in 13.9s
+Page 0 done via google in 14.1s
+Page 6 done via google in 14.3s
+Page 0 done via google in 15.6s
+Page 2 done via google in 15.6s
+Writing to pdfs/PMC3745711.pdf_e40e89.md
+Original Article
+
+Reproductive Sciences
+20(9) 1096-1102
+© The Author(s) 2013
+Reprints and permission:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1933719113477478
+rs.sagepub.com
+
+# Maternal Dietary Creatine Supplementation Does Not Alter the Capacity for Creatine Synthesis in the Newborn Spiny Mouse
+
+Hayley Dickinson, PhD¹, Zoe J. Ireland, PhD², Domenic A. LaRosa, BSc (Hons)¹, Bree A. O'Connell, BBiioMedSc (Hons)¹, Stacey Ellery, BBioMedSc (Hons)¹, Rod Snow, PhD³, and David W. Walker, PhD, DSc¹
+
+## Abstract
+
+We have previously reported that maternal creatine supplementation protects the neonate from hypoxic injury. Here, we investigated whether maternal creatine supplementation altered expression of the creatine synthesis enzymes (arginine:glycine amidinotransferase [AGAT], guanidinoaceteate methyltransferase [GAMT]) and the creatine transporter (solute carrier family 6 [neurotransmitter transporter, creatine] member 8: SLC6A8) in the term offspring. Pregnant spiny mice were fed a 5% creatine monohydrate diet from midgestation (day 20) to term (39 days). Placentas and neonatal kidney, liver, heart, and brain collected at 24 hours of age underwent quantitative polymerase chain reaction and Western blot analysis. Maternal creatine had no effect on the expression of AGAT and GAMT in neonatal kidney and liver, but mRNA expression of AGAT in brain tissues was significantly decreased in both male and female neonates born to mothers who were fed the creatine diet. SLC6A8 expression was not affected by maternal dietary creatine loading in any tissues. Maternal dietary creatine supplementation from midgestation in the spiny mouse did not alter the capacity for creatine synthesis or transport.
+
+## Keywords
+
+SLC6A8, arginine:glycine amidinotransferase (AGAT), guanidinoaceteate methyltransferase (GAMT), neonate, placenta
+
+## Introduction
+
+The creatine-phosphocreatine system is essential for the maintenance of cellular adenosine triphosphate, serving as a spatial and temporal energy buffer in cells with high and fluctuating energy demands.¹ Postnatally, the body's creatine pool is derived from a diet containing meat, fish, and dairy products, and also by endogenous synthesis. The latter involves the conversion of arginine and glycine to guanidinoacetate by the enzyme arginine:glycine amidinotransferase (AGAT), and then the methylation of guandinoacetate to creatine by the enzyme guanidinoaceteate methyltransferase (GAMT). The principal sites of AGAT and GAMT activity are the kidney and liver, respectively. The brain, pancreas, and testes may synthesize creatine independent of the reno-hepatic axis, although this is thought not to contribute substantially to systemic creatine or to the large pool of creatine contained in muscle.²
+
+Until recently, very little was known about the fetal and neonatal requirement for creatine, and how this might change with advancing pregnancy and early postnatal life, particularly for tissues known to have a high creatine requirement in the adult such as muscle, heart, and brain.³'⁴ In the spiny mouse, a precocial rodent, we have shown that the creatine content of the placenta and fetal brain increases from midgestation to term, with this increase continuing in the second postnatal week in the brain.⁵ This study also found that the spiny mouse fetus probably does not synthesize creatine until 0.9 day of gestation, due to the low expression of AGAT and GAMT in the fetal kidney and liver, and the absence of expression of these enzymes in the placenta.⁵ Such data do not exist for the human fetus and raises important questions, particularly for preterm infants where immaturity of the reno-hepatic axis and intestinal absorption may leave them with insufficient capacity to either synthesize creatine or take it up from breast milk or formula. Whether the preterm or term kidney is able to fully resorb the creatine in glomerular filtrate is currently unknown.
+
+¹ The Ritchie Centre, Monash Institute of Medical Research, Monash University, Australia
+² Department of Physiology, Monash University, Australia
+³ Centre for Physical Activity and Nutrition Research, School of Exercise and Nutrition Sciences, Deakin University, Burwood, Australia
+
+**Corresponding Author:**
+Hayley Dickinson, The Ritchie Centre, Monash Institute of Medical Research, 27-31 Wright St, Clayton, 3168, Australia.
+Email: hayley.dickinson@monash.edu
+
+Dickinson et al
+1097
+
+We have recently completed a series of experiments explor-
+ing the potential of maternal creatine supplementation to
+protect the newborn from hypoxia-induced injury.6,7,9 Specifi-
+cally, we hypothesized that increasing cellular reserves of total
+creatine (creatine + phosphocreatine) would protect the fetus
+from the consequences of oxygen deprivation at birth. Indeed,
+we showed that a maternal diet supplemented with 5% creatine
+monohydrate from midgestation to term is able to improve off-
+spring survival, normalize postnatal growth which is otherwise
+delayed,9 and prevent the brain, kidney and diaphragm muscle
+injury seen in hypoxia-exposed offspring at 24 hours of age.6-8
+
+Before recommending creatine supplementation to pregnant
+women, it is important to consider whether a high creatine load
+during pregnancy affects creatine synthesis and transport in the
+neonate. Creatine supplementation in adult humans, rats, and
+chick embryos has shown a marked decrease in renal AGAT
+expression, leading to a negative feedback, downregulation,
+of endogenous synthesis of creatine.10-13 The consequences
+of maternal dietary creatine supplementation on creatine synth-
+esis and transport in the newborn of a placental mammal is
+however unknown. In the current study, we investigated
+whether maternal dietary creatine supplementation from mid-
+gestation to term in the spiny mouse, a period of 19 days, would
+alter the expression of genes involved in creatine synthesis or
+transport in selected key tissues in the offspring. We hypothe-
+sized that maternal dietary creatine supplementation from mid-
+gestation to term would cause a downregulation in the
+expression of the creatine transporter, solute carrier family 6
+(neurotransmitter transporter, creatine) member 8 (SLC6A8)
+and decrease the expression of AGAT, the first rate-limiting
+step in the creatine synthesis pathway in the newborn. We also
+investigated the effect of this creatine supplementation on
+expression of placental SLC6A8, and specifically examined the
+labyrinth (exchange region) and spongy zone (germinative
+zone) of the placenta independently.
+
+Methods
+
+Animals
+
+All experiments were approved in advance by Monash Univer-
+sity School of Biomedical Sciences Animal Ethics Committee
+and conducted according to the Australian Code of Practice for
+the Care and Use of Animals for Scientific Purposes. The spiny
+mice used in this study were obtained from our own laboratory
+colony and housed, bred, and time-mated as previously
+described.14
+
+Diet
+
+Pregnant dams were fed either a control diet of standard rat and
+mouse pellets throughout pregnancy (n = 7), or were fed isoca-
+loric pellets supplemented with 5% creatine monohydrate
+(Specialty Feeds, Perth, Australia) from day 20 of gestation
+(n = 7). Water was available ad libitum.
+
+Cesarean Section and Cross Fostering
+
+The pregnant dam was killed by cervical dislocation on day 38
+of gestation (term is 39 days) and the fetuses were expelled
+from the uterus immediately and their mouths cleared of mem-
+branes and mucus. The pups were stimulated to breathe by gen-
+tle palpation of the chest and abdomen using moist cotton tips.
+The pups were allowed to recover for 1 to 1.5 hours on a heated
+pad, and then cross-fostered to a dam that had given birth
+within the preceding 6 hours.8 The cross-fostered dam was fed
+a standard rodent diet during pregnancy to avoid postnatal
+delivery of creatine to the newborn via lactation and thus focus
+our study on the in utero effects of maternal dietary creatine
+supplementation.
+
+Tissue Collection and Processing
+
+Placenta samples were collected immediately after pup deliv-
+ery, weighed, and snap frozen. Tissues for analysis of AGAT,
+GAMT, and SLC6A8 expression were collected at 24 hours
+after birth to coincide with a period soon after birth when the
+newborn is required to synthesize its own creatine. The pups
+were weighed and killed by decapitation. The heart, brain,
+liver, and kidney were removed, weighed, and snap frozen for
+RNA and/or protein extraction. All tissues were stored at
+-80°C. For all tissue analyses described below, no more than
+2 pups, 1 male and 1 female, were taken from any 1 litter.
+
+Messenger RNA Extraction
+
+Samples for quantitative polymerase chain reaction (qPCR;
+heart, brain, liver, kidney, placenta; n = 4-6/sex/organ/treat-
+ment) analysis were prepared by total RNA extraction (RNeasy
+Midi Kit #75144, Qiagen) and reverse transcribed to form com-
+plementary DNA according to manufacturer's instructions
+(Reverse Transcription System #A3500, Promega) as previ-
+ously described,5 with the minor modification that placental
+samples were separated into labyrinth and spongy zone before
+RNA extraction.
+
+Protein Extraction
+
+Protein from samples for Western blot was extracted as previ-
+ously described.5 Briefly, liver and kidney samples (n = 4 male
+and 3 female/treatment) were homogenized in cell lysis buffer,
+incubated on ice for 60 minutes followed by centrifugation at
+20 800 g for 20 minutes at 4°C. The supernatant was then incu-
+bated at 95°C for 5 minutes and stored at -80°C until analysis.
+A protein assay was performed on all samples (BCA Protein
+Assay Kit # 23225, Thermo Scientific, Australia) according
+to manufacturer's instructions to enable equal loading of pro-
+tein on the gels. A sample of each organ was collected from
+untreated adult spiny mice and prepared in the same way to
+be used as positive controls. The extracted protein samples
+were then separated based on molecular weight using sodium
+dodecyl sulfate (SDS) polyacrylamide gel electrophoresis as
+reported previously.5
+
+1098 Reproductive Sciences 20(9)
+
+### Quantitative PCR
+
+SYBR green PCR chemistry was used to determine relative
+levels of messenger RNA (mRNA) for AGAT in kidney and
+brain samples, GAMT in liver and brain samples, and SLC6A8
+in placenta, heart, kidney, liver, and brain samples as per the
+manufacturer’s instructions (Applied BioSystems, Mulgrave,
+Australia). The primer and probe sequences are as previously
+described.5 Primer products were generated, sequenced, and
+confirmed to be the gene of interest using a blastn algorithm
+within the Basic Local Alignment Search Tool (BLAST,
+http://blast.ncbi.nlm.nih. gov/; data not shown). The qPCR
+cycling conditions for all genes consisted of an initial denatura-
+tion step of 95°C for 10 minutes, followed by 40 cycles consist-
+ing of 95°C for 15 seconds and 60°C for 1 minutes followed by
+a dissociation curve. Samples were run in triplicate for each
+gene of interest, and where differences were observed between
+the groups, the qPCR was repeated.
+
+Data obtained from qPCR were analyzed as follows: the
+relative expression within the sample (ΔCT) was calculated
+by subtracting the mean cycle threshold (CT) for the house-
+keeping gene (RN18S1, 18s ribosomal 1) from the mean
+CT value for the gene of interest. This number was then
+inserted into the formula 2−ΔCT to give a final arbitrary
+expression value.
+
+### Western Blotting of AGAT and GAMT Protein
+
+Western blotting was performed as previously described5 with
+the minor modification that all blocking and primary antibody
+dilutions were performed using 5% skim milk powder instead
+of 5% bovine serum albumin. Primary antibody dilutions used
+were as follows: rabbit anti-GAMT monoclonal 1:4000 and
+rabbit anti-AGAT polyclonal 1:1000. Secondary antibody
+(goat anti-rabbit-horseradish peroxidase [HRP]) was diluted
+1:10 000 in Tris-buffered saline and Tween 20. Antibodies
+were removed from the blots using a 1× stripping buffer
+(70 mmol/L SDS and 63 mmol/L Tris) and reprobed with β-
+actin as a loading control using the same protocol as above
+(mouse anti-β-actin, 1:5000, goat anti-mouse HRP,
+1:10 000). Densitometric analysis was carried out using ImageJ
+as per the published protocol.5 To determine relative expres-
+sion of the protein of interest, each band of interest was normal-
+ized to β-actin and creatine-exposed animals were expressed
+relative to the controls. (Note. due to the lack of a specific
+SLC6A8 antibody15 we were unable to perform Western blots
+for this protein.)
+
+### Statistical Analysis
+
+All data are presented as mean ± standard error of the mean
+and were analyzed with a 2-way analysis of variance for diet
+and sex using the computer-based program SPSS. Significance
+was set at P < .05.
+
+## Results
+
+### Effects of Creatine Supplementation on Creatine
+Synthesizing Enzymes
+
+The effect of the creatine diet on the creatine content of maternal
+and fetal tissues and the placenta has been presented elsewhere.9
+Briefly, the maternal creatine treatment resulted in a 3% to 105%
+increase in creatine content in fetal tissues (kidney 22%, heart
+14%, liver 37%, brain 3.6%) and placenta (105%).9
+
+Creatine supplementation from midgestation had no
+significant effect on the mRNA expression of AGAT in the
+newborn kidney, although there was a significant decrease
+in the mRNA expression of AGAT in the brain compared
+to controls (PDIET < .05; Figure 1A and B). The AGAT
+mRNA expression was comparable in male and female brains
+in the control group, but greater in the female brain compared
+to the male brain in the creatine treatment group (PINT = .08;
+Figure 1B). The GAMT expression in the neonatal liver and
+brain at 24 hours of age was not different between
+creatine-exposed offspring and controls (Figure 1D and E).
+Analysis of the protein products of these genes showed that
+creatine supplementation did not significantly alter the pro-
+tein levels of either AGAT or GAMT in neonatal tissue com-
+pared to controls (Figure 1C and F).
+
+### Effects of Creatine Supplementation on the Creatine
+Transporter (SLC6A8)
+
+Immediately after birth, the mRNA expression of SLC6A8
+within the labyrinthine region of the placenta did not differ
+between the maternal creatine supplemented group and con-
+trols (Figure 2A). In contrast, the expression of SLC6A8 tended
+to be lower in the spongy zone region of creatine-exposed
+placentas from female fetuses only, compared to controls
+(PINT = .06; Figure 2B). The SLC6A8 expression did not differ
+between diet groups in brain, heart, kidney, or liver samples
+taken from 24-hour-old neonates (Figure 2C-F).
+
+Interestingly, there was significantly higher expression of
+SLC6A8 in the liver of male offspring, compared to females
+at 24 hours of postnatal age independent of maternal diet
+(PSEX < .05; Figure 2F).
+
+## Discussion
+
+Previous studies in adult rat have shown that creatine nega-
+tively regulates the expression of the AGAT gene in the kid-
+ney.13,15 This study aimed to determine whether our model of
+maternal dietary creatine supplementation over half of preg-
+nancy, which increases total creatine concentrations in fetal tis-
+sues,9 might therefore cause downregulation in expression of
+AGAT in the neonate—specifically, in the kidney and the brain.
+The results showed that this did not occur at either the gene or
+the protein level in the kidney, but that expression of the AGAT
+gene was decreased in the brain. We also investigated the
+expression of GAMT, the second enzyme required for endogen-
+ous creatine synthesis in the liver and brain, and these gene and
+
+Dickinson et al
+1099
+
+```jsonl
+{"panel": "A", "organ": "Kidney", "sex": "Male", "diet": "control", "AGAT_relative_mRNA_expression": 1.0, "error_bar": 0.05}
+{"panel": "A", "organ": "Kidney", "sex": "Male", "diet": "5% creatine", "AGAT_relative_mRNA_expression": 1.1, "error_bar": 0.2}
+{"panel": "A", "organ": "Kidney", "sex": "Female", "diet": "control", "AGAT_relative_mRNA_expression": 0.65, "error_bar": 0.2}
+{"panel": "A", "organ": "Kidney", "sex": "Female", "diet": "5% creatine", "AGAT_relative_mRNA_expression": 0.7, "error_bar": 0.1}
+{"panel": "B", "organ": "Brain", "sex": "Male", "diet": "control", "AGAT_relative_mRNA_expression": 1.05, "error_bar": 0.2}
+{"panel": "B", "organ": "Brain", "sex": "Male", "diet": "5% creatine", "AGAT_relative_mRNA_expression": 0.35, "error_bar": 0.05}
+{"panel": "B", "organ": "Brain", "sex": "Female", "diet": "control", "AGAT_relative_mRNA_expression": 0.85, "error_bar": 0.15}
+{"panel": "B", "organ": "Brain", "sex": "Female", "diet": "5% creatine", "AGAT_relative_mRNA_expression": 0.55, "error_bar": 0.05}
+{"panel": "C", "organ": "Kidney", "sex": "Male", "diet": "control", "AGAT_relative_protein_expression": 1.0, "error_bar": 0.2}
+{"panel": "C", "organ": "Kidney", "sex": "Male", "diet": "5% creatine", "AGAT_relative_protein_expression": 0.95, "error_bar": 0.1}
+{"panel": "C", "organ": "Kidney", "sex": "Female", "diet": "control", "AGAT_relative_protein_expression": 1.0, "error_bar": 0.05}
+{"panel": "C", "organ": "Kidney", "sex": "Female", "diet": "5% creatine", "AGAT_relative_protein_expression": 0.85, "error_bar": 0.15}
+{"panel": "D", "organ": "Liver", "sex": "Male", "diet": "control", "GAMT_relative_mRNA_expression": 0.85, "error_bar": 0.2}
+{"panel": "D", "organ": "Liver", "sex": "Male", "diet": "5% creatine", "GAMT_relative_mRNA_expression": 0.65, "error_bar": 0.15}
+{"panel": "D", "organ": "Liver", "sex": "Female", "diet": "control", "GAMT_relative_mRNA_expression": 0.8, "error_bar": 0.25}
+{"panel": "D", "organ": "Liver", "sex": "Female", "diet": "5% creatine", "GAMT_relative_mRNA_expression": 0.55, "error_bar": 0.1}
+{"panel": "E", "organ": "Brain", "sex": "Male", "diet": "control", "GAMT_relative_mRNA_expression": 1.0, "error_bar": 0.3}
+{"panel": "E", "organ": "Brain", "sex": "Male", "diet": "5% creatine", "GAMT_relative_mRNA_expression": 0.6, "error_bar": 0.1}
+{"panel": "E", "organ": "Brain", "sex": "Female", "diet": "control", "GAMT_relative_mRNA_expression": 0.95, "error_bar": 0.25}
+{"panel": "E", "organ": "Brain", "sex": "Female", "diet": "5% creatine", "GAMT_relative_mRNA_expression": 0.8, "error_bar": 0.15}
+{"panel": "F", "organ": "Liver", "sex": "Male", "diet": "control", "GAMT_relative_protein_expression": 1.5, "error_bar": 0.3}
+{"panel": "F", "organ": "Liver", "sex": "Male", "diet": "5% creatine", "GAMT_relative_protein_expression": 1.65, "error_bar": 0.4}
+{"panel": "F", "organ": "Liver", "sex": "Female", "diet": "control", "GAMT_relative_protein_expression": 1.25, "error_bar": 0.1}
+{"panel": "F", "organ": "Liver", "sex": "Female", "diet": "5% creatine", "GAMT_relative_protein_expression": 1.35, "error_bar": 0.35}
+```
+
+Figure 1. Messenger RNA (mRNA; A, B, D, and E) and protein (C, F) expression of the creatine synthesizing enzymes arginine:glycine amidi-
+notransferase (AGAT; A-C) and guanidinoaceteate methyltransferase (GAMT; D-F) in newborn spiny mouse kidney (A and C), liver (D and F),
+and brain samples (B and E) from mothers fed a control (open bars) or 5% creatine supplemented diet (closed bars). Group mean + standard
+error of the mean (SEM) are shown. The mRNA expression determined by quantitative polymerase chain reaction (qPCR) and protein expres-
+sion determined by Western blot (representative blots shown). All values expressed relative to an internal control.
+
+protein products were not affected by the maternal creatine
+load. This suggests that supplementation of the maternal diet
+with creatine does not impair expression of the enzymes neces-
+sary for endogenous creatine synthesis in the key creatine
+
+synthesizing organs (kidney and liver), but that local sites of
+creatine synthesis (eg, brain) may be affected in the neonate.
+
+To our knowledge this is the first evidence that SLC6A8 is
+expressed in the 2 major regions of the murid placenta. The
+
+Figure 2. Messenger RNA (mRNA) expression of solute carrier family 6 (neurotransmitter transporter, creatine) member 8 (SLC6A8) in spiny
+mouse placentas at term (labyrinth, A and spongy zone, B) and newborn spiny mouse brain (C), heart (D), kidney (E), and liver (F) samples from
+mothers fed a control (open bars) or 5% creatine supplemented diet (closed bars). Group mean + standard error of the mean (SEM) are shown.
+The mRNA expression determined by quantitative polymerase chain reaction (qPCR) and all values are expressed relative to an internal control.
+
+```jsonl
+{"panel": "A", "tissue": "Placenta - Labyrinth", "sex": "Male", "diet": "control", "SLC6A8_relative_mRNA_expression": 1.1, "error_bar": 0.25}
+{"panel": "A", "tissue": "Placenta - Labyrinth", "sex": "Male", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 1.65, "error_bar": 0.25}
+{"panel": "A", "tissue": "Placenta - Labyrinth", "sex": "Female", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.95, "error_bar": 0.25}
+{"panel": "A", "tissue": "Placenta - Labyrinth", "sex": "Female", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 1.05, "error_bar": 0.25}
+{"panel": "B", "tissue": "Placenta - Spongy Zone", "sex": "Male", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.8, "error_bar": 0.3}
+{"panel": "B", "tissue": "Placenta - Spongy Zone", "sex": "Male", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.9, "error_bar": 0.15}
+{"panel": "B", "tissue": "Placenta - Spongy Zone", "sex": "Female", "diet": "control", "SLC6A8_relative_mRNA_expression": 1.35, "error_bar": 0.25}
+{"panel": "B", "tissue": "Placenta - Spongy Zone", "sex": "Female", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.7, "error_bar": 0.25}
+{"panel": "C", "tissue": "Brain", "sex": "Male", "diet": "control", "SLC6A8_relative_mRNA_expression": 1.1, "error_bar": 0.4}
+{"panel": "C", "tissue": "Brain", "sex": "Male", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.5, "error_bar": 0.1}
+{"panel": "C", "tissue": "Brain", "sex": "Female", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.8, "error_bar": 0.35}
+{"panel": "C", "tissue": "Brain", "sex": "Female", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.65, "error_bar": 0.2}
+{"panel": "D", "tissue": "Heart", "sex": "Male", "diet": "control", "SLC6A8_relative_mRNA_expression": 1.1, "error_bar": 0.1}
+{"panel": "D", "tissue": "Heart", "sex": "Male", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.8, "error_bar": 0.15}
+{"panel": "D", "tissue": "Heart", "sex": "Female", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.8, "error_bar": 0.1}
+{"panel": "D", "tissue": "Heart", "sex": "Female", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.9, "error_bar": 0.1}
+{"panel": "E", "tissue": "Kidney", "sex": "Male", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.6, "error_bar": 0.15}
+{"panel": "E", "tissue": "Kidney", "sex": "Male", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.7, "error_bar": 0.05}
+{"panel": "E", "tissue": "Kidney", "sex": "Female", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.75, "error_bar": 0.05}
+{"panel": "E", "tissue": "Kidney", "sex": "Female", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.55, "error_bar": 0.05}
+{"panel": "F", "tissue": "Liver", "sex": "Male", "diet": "control", "SLC6A8_relative_mRNA_expression": 1.3, "error_bar": 0.4}
+{"panel": "F", "tissue": "Liver", "sex": "Male", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 1.4, "error_bar": 0.35}
+{"panel": "F", "tissue": "Liver", "sex": "Female", "diet": "control", "SLC6A8_relative_mRNA_expression": 0.65, "error_bar": 0.15}
+{"panel": "F", "tissue": "Liver", "sex": "Female", "diet": "5% creatine", "SLC6A8_relative_mRNA_expression": 0.75, "error_bar": 0.1}
+```
+
+placenta plays a critical role in the transport of creatine from
+the maternal circulation to fetal blood via a placental “pool”
+of creatine. The concept of a placental pool of creatine from
+which the creatine in fetal blood is derived was first described
+by Miller in 197416; indeed, we have shown significant loading
+of creatine within the placenta of the spiny mouse following
+maternal dietary creatine supplementation.9 This transport of
+creatine to the fetal blood from the maternal circulation is crit-
+ical for fetal creatine supplies, as our data suggest that the fetus
+
+may not be capable of synthesizing its own creatine until after
+0.9 day of gestation.5 The trend for downregulation of SLC6A8
+expression in the spongy zone region of the female placenta is
+an unexpected finding. This could suggest reduced storage of
+creatine in the placental pool for a female, although we have
+not detected any sex differences in the amount of creatine
+loaded in the placentas.
+
+We also observed sex-dependent expression of the SLC6A8
+gene in the 24-hour-old neonatal liver. However, this was
+
+independent of maternal diet, with the female liver having sig-
+nificantly lower expression than the male in both the diet
+groups. We observed no change in the expression of SLC6A8
+mRNA in the liver of 24-hour-old neonates in response to the
+maternal creatine diet. The mere presence of the SLC6A8 gene
+in the newborn spiny mouse liver is, however, a novel and
+interesting observation, with studies in the adult and near-
+term rat embryo showing no SLC6A8 expression in the liver.4,17
+We have measured the amount of creatine in maternal tissues
+following our 5% creatine diet from midgestation to term and
+we observed a 30-fold increase in the total creatine content
+within the maternal liver at term,9 suggesting that the presence
+of SLC6A8 in the spiny mouse liver is not restricted to develop-
+ing or young hepatic tissues. Why creatine supplementation
+leads to the preferential storage of creatine in the liver, over
+other nonmuscle sites in the spiny mouse is not known. We
+suggest that in the transition from fetal to newborn life there
+may be a shift of creatine storage from the placenta to the new-
+born liver. During pregnancy the placenta may function to
+extract excess creatine from the fetal circulation, either storing
+it itself or returning it to the maternal circulation. After birth,
+however, with the removal of the placenta, the newborn liver
+may take over this role, as it appears to do in the adult female.
+
+Determination of SLC6A8 protein is presently limited by
+the lack of a specific antibody, in particular for the spiny
+mouse.15 It is unknown whether the observed changes in
+mRNA expression also correspond to an increase in protein
+expression. Further work using in situ hybridization to localize
+placental SLC6A8 mRNA should be done.
+
+Placenta samples were collected at delivery and therefore, at
+that point in time, were still subject to the creatine concentra-
+tion prevailing in maternal blood. On the other hand, the neo-
+natal tissues were collected at 24 hours of age, and as all
+offspring were cross-fostered to a dam who was fed the normal
+diet, it is possible that some postpartum change of AGAT,
+GAMT, and SLC6A8 expression had occurred within this time.
+The half-life of AGAT and GAMT activity has been shown to
+be 16 to 20 hours,2 and it is therefore possible that in the 24
+hours period in which the newborn was not exposed to the crea-
+tine load that AGAT and GAMT protein levels had returned to
+normal. However, this is unlikely, because human studies show
+that it takes 4 weeks for total creatine levels to return to basal
+levels after a creatine load,12 and creatine supplementation has
+been previously shown to inhibit endogenous creatine synth-
+esis.10 We do not know the total creatine content of our tissues
+at 24 hours; values reported above are those at term, at the time
+the offspring are removed from the dam and insufficient tissue
+now prevents us from making further measurements. To our
+knowledge there is no data on the rate of creatine clearance
+after loading the fetus or newborn.
+
+Another important consideration is the effect of pregnancy
+hormones on creatine-synthesizing enzyme expression. Crea-
+tine biosynthesis occurs at the highest rates in young verte-
+brates supported by the good nutrient supply and optimal
+blood concentrations of insulin (stimulates uptake of blood
+creatine by muscle), somatotropin, thyroid hormone, and
+
+testosterone provided by pregnancy and the early neonatal
+period.2 The hormone profile during pregnancy may therefore
+override the inhibition of endogenous creatine synthesis
+expected to occur with maternal creatine loading.
+
+The lack of change in mRNA and protein expression of
+AGAT and GAMT in newborn spiny mouse tissues is a signif-
+icant finding, particularly with respect to the potential benefits
+of maternal dietary creatine supplementation for the protection
+of newborn tissues against hypoxia-induced injury,6-8,19
+although a limitation of this study is that we do not yet have
+measures of the activity of these enzymes and have based our
+conclusions only on gene expression and protein data. Also, the
+observed decrease in AGAT mRNA expression in the brain is
+difficult to interpret given that there is no accepted physiologi-
+cal role for guanidinoacetate in the brain. However, recent pre-
+liminary findings by Braissant and colleagues20 suggest that
+AGAT may be involved in the differentiation of neuroblasts
+and therefore have a role in determining the fate of neural stem
+cells during early brain development. Also, there appears to be
+a net exit of guanidinoacetate from cerebrospinal fluid to blood,
+at the blood–brain barrier, predominantly through the taurine
+transporter,21 further suggesting a role for this product of
+AGAT activity other than the cerebral synthesis of creatine.
+The implications of these findings for fetal brain development
+and the impact of maternal creatine ingestion on them require
+further study.
+
+Acknowledgments
+
+The authors would like to thank Mrs Maria Papaioannou for technical
+assistance.
+
+Declaration of Conflicting Interests
+
+The author(s) declared no potential conflicts of interest with respect to
+the research, authorship, and/or publication of this article.
+
+Funding
+
+The author(s) disclosed receipt of the following financial support for
+the research, authorship, and/or publication of this article: funding
+from the NH&MRC to D.W.W. and R.S. and the Victorian Govern-
+ment’s Operational Infrastructure Support Program supported this
+work. H.D. is an Australian Research Council Postdoctoral Research
+Fellow, Z.J.I. was supported by an Australian Postgraduate Award
+(APA) Scholarship when these experiments were completed and
+D.A.L., S.E., and B.A.O’C. are currently supported by APA
+Scholarships.
+
+References
+
+1. Wallimann T, Tokarska-Schlattner M, Schlattner U. The creatine
+kinase system and pleiotropic effects of creatine. Amino Acids.
+2011;40(5):1271-1296.
+
+2. Walker JB. Creatine: biosynthesis, regulation, and function. Adv
+Enzymol Relat Areas Mol Biol. 1979;50:177-242.
+
+3. Brosnan JT, Brosnan ME. Creatine: endogenous metabolite,
+dietary, and therapeutic supplement. Annu Rev Nutr. 2007;27:
+241-261.
+
+4. Braissant O, Henry H, Villard AM, Speer O, Wallimann T, Bach-
+mann C. Creatine synthesis and transport during rat embryogenesis:
+
+spatiotemporal expression of AGAT, GAMT and CT1. BMC Dev
+Biol. 2005;5:9.
+
+5. Ireland Z, Russell AP, Wallimann T, Walker DW, Snow R.
+Developmental changes in the expression of creatine synthesizing
+enzymes and creatine transporter in a precocial rodent, the spiny
+mouse. BMC Dev Biol. 2009;9:39.
+
+6. Cannata DJ, Ireland Z, Dickinson H, et al. Maternal creatine sup-
+plementation from mid-pregnancy protects the diaphragm of the
+newborn spiny mouse from intrapartum hypoxia-induced damage.
+Pediatr Res. 2010;68(5):393-398.
+
+7. Ireland Z, Castillo-Melendez M, Dickinson H, Snow R, Walker
+DW. A maternal diet supplemented with creatine from mid-
+pregnancy protects the newborn spiny mouse brain from birth
+hypoxia. Neuroscience. 2011;194:372-379.
+
+8. Ellery SJ, Ireland ZJ, Kett MM, Snow R, Walker DW, Dickinson
+H. Creatine pretreatment prevents birth asphyxia-induced injury
+of the newborn spiny mouse kidney [published online ahead of
+print November 22, 2012]. Pediatr Res. doi:10.1038/pr.2012.
+174.
+
+9. Ireland Z, Dickinson H, Snow R, Walker DW. Maternal creatine:
+does it reach the fetus and improve survival after an acute hypoxic
+episode in the spiny mouse (Acomys cahirinus)? Am J Obstet
+Gynecol. 2008;198(4):431 e1-e6.
+
+10. Derave W, Marescau B, Vanden Eede E, Eijnde BO, De Deyn PP,
+Hespel P. Plasma guanidino compounds are altered by oral crea-
+tine supplementation in healthy humans. J Appl Physiol. 2004;
+97(3):852-857.
+
+11. Fitch CD, Hsu C, Dinning JS. Some factors affecting kidney trans-
+amidinase activity in rats. J Biol Chem. 1960;235:2362-2364.
+
+12. McKenna MJ, Morton J, Selig SE, Snow RJ. Creatine supplemen-
+tation increases muscle total creatine but not maximal intermittent
+exercise performance. J Appl Physiol. 1999;87(6):2244-2252.
+
+13. Guthmiller P, Van Pilsum JF, Boen JR, McGuire DM. Cloning
+and sequencing of rat kidney L-arginine: glycine amidinotransfer-
+ase. Studies on the mechanism of regulation by growth hormone
+and creatine. J Biol Chem. 1994;269(26):17556-17560.
+
+14. Dickinson H, Walker DW. Managing a colony of spiny mice
+(Acomys cahirinus) for perinatal research. Australian and New
+Zealand Council for the Care of Animals in Research and Train-
+ing (ANZCCART) News 2007;20:4-11.
+
+15. Wyss M, Kaddurah-Daouk R. Creatine and creatinine metabo-
+lism. Physiol Rev. 2000;80(3):1107-1213.
+
+16. Miller RK, Davis BM, Brent RL, Koszalka TR. Transport of crea-
+tine in the human placenta. The Pharmacologist. 1974;16(2):305.
+
+17. Snow RJ, Murphy RM. Creatine and the creatine transporter: a
+review. Mol Cell Biochem. 2001;224(1-2):169-181.
+
+18. Speer O, Neukomm LJ, Murphy RM, et al. Creatine transporters:
+a reappraisal. Mol Cell Biochem. 2004;256-257(1-2):407-424.
+
+19. Wallimann T, Tokarska-Schlattner M, Schlattner U. The creatine
+kinase system and pleiotropic effects of creatine. Amino Acids.
+2011;40(5):1271-1296.
+
+20. Braissant O, Beard E, Uldry J. Models of creatine deficiency
+syndromes by RNAi in 3D reaggregated brain cell organotypic
+cultures. In: XXVth International Symposium on Cerebral Blood
+Flow, Metabolism, and Function. Barcelona, Spain; 2011:934.
+
+21. Braissant O. Creatine and guanidinoacetate transport at blood-
+brain and blood-cerebrospinal fluid barriers. J Inherit Metab Dis.
+2012;35(4):655-664.
+
+Finished pdfs/PMC3745711.pdf in 16.03s
+OCR OF /Users/ubuntu/tmpresearch/creatine_folate/pdfs/PMC3745711.pdf SAVED TO ./.pdfmds/pdfs-PMC3745711-pdf-33fa6c7.txt
+end pdfs/PMC3745711.pdf
+
+Page 5 done via google in 18.7s
+Page 6 done via google in 18.7s
+Page 7 done via google in 18.8s
+Page 2 done via google in 18.8s
+Page 1 done via google in 21.9s
+Page 5 done via google in 23.5s
+Page 10 done via google in 25.0s
+Writing to pdfs/folate_2026_1679067.pdf_b3fb23.md
+TYPE Clinical Trial
+PUBLISHED 26 March 2026
+DOI 10.3389/fnut.2026.1679067
+
+OPEN ACCESS
+
+EDITED BY
+Kenji Nagao,
+Ajinomoto, Japan
+
+REVIEWED BY
+Amanda J. MacFarlane,
+Health Canada, Canada
+Dorota Formanowicz,
+Poznan University of Medical
+Sciences, Poland
+
+*CORRESPONDENCE
+Xinyin Jiang
+XinyinJiang@brooklyn.cuny.edu
+
+RECEIVED 04 August 2025
+REVISED 08 March 2026
+ACCEPTED 09 March 2026
+PUBLISHED 26 March 2026
+
+CITATION
+Draicchio F, Hausser J, Sharafi M,
+Grier-Welch A, Vance A, Alamdari N,
+Futterman ID, Chudnoff S, Malysheva O,
+Caudill MA, Hanson I and Jiang X (2026)
+Using 6S-5-methyltetrahydrofolate
+instead of folic acid in prenatal
+multivitamin reduces unmetabolized
+folic acid concentrations in the
+mother-fetus dyad: a 24-week
+randomized controlled trial.
+Front. Nutr. 13:1679067.
+doi: 10.3389/fnut.2026.1679067
+
+COPYRIGHT
+© 2026 Draicchio, Hausser, Sharafi,
+Grier-Welch, Vance, Alamdari,
+Futterman, Chudnoff, Malysheva, Caudill,
+Hanson and Jiang. This is an
+open-access article distributed under the
+terms of the Creative Commons
+Attribution License (CC BY). The use,
+distribution or reproduction in other
+forums is permitted, provided the
+original author(s) and the copyright
+owner(s) are credited and that the
+original publication in this journal is
+cited, in accordance with accepted
+academic practice. No use, distribution
+or reproduction is permitted which does
+not comply with these terms.
+
+# Using 6S-5-methyltetrahydrofolate instead of folic acid in prenatal multivitamin reduces unmetabolized folic acid concentrations in the mother-fetus dyad: a 24-week randomized controlled trial
+
+Fulvia Draicchio¹, Jeanette Hausser¹, Mastaneh Sharafi², Adeline Grier-Welch², Arianne Vance², Nima Alamdari², Itamar D. Futterman³, Scott Chudnoff³, Olga Malysheva⁴, Marie A. Caudill⁴, Isabelle Hanson¹ and Xinyin Jiang¹*
+
+¹Department of Health and Nutrition Sciences, Brooklyn College of the City University of New York, Brooklyn, NY, United States, ²Ritual, Los Angeles, CA, United States, ³Department of Obstetrics and Gynecology, Division of Maternal Fetal Medicine, Maimonides Medical Center, Brooklyn, NY, United States, ⁴Division of Nutritional Sciences, Cornell University, Ithaca, NY, United States
+
+A growing number of prenatal multivitamin (MVI) products use 5-methyltetrahydrofolate (5-MTHF) in place of the synthetic folic acid (FA), because FA needs to be reduced to 5-MTHF for use in cellular methylation reactions and excess FA consumption can increase unmetabolized FA (UMFA) concentrations in circulation. However, the efficacy of 5-MTHF supplementation on maintaining maternal and fetal folate status in comparison to FA has not been sufficiently investigated. This study examined whether using 6S-5-MTHF instead of FA in a prenatal MVI affected total folate and UMFA status in maternal and fetal tissues. Eighty first-trimester pregnant participants were randomized to receive either a prenatal MVI containing 1,000 μg DFE of 6S-5-MTHF (MTHF-MVI group) or 1,330 μg DFE of FA (FA-MVI group) for 24 weeks (n = 40/group) beginning at their second trimester. Fasting blood samples were collected at week 0, 12, and 24 of the study whereas cord blood and placental samples were collected at delivery. Thirty-one participants in each group completed the study. By week 24 of the study, 5-MTHF and total folate concentrations in maternal and cord serum and the placenta did not differ between groups. There were significantly fewer participants (7% vs. 31%) with detectable UMFA and lower average UMFA concentrations in maternal blood of the MTHF-MVI group vs. the FA-MVI group (p < 0.01). UMFA concentrations in the placenta were lower in the MTHF-MVI group than the FA-MVI group (p < 0.01). Few cord blood samples (n = 2) contained detectable UMFA and both were from the FA-MVI group. In conclusion, during the second and third trimesters of pregnancy, prenatal MVIs providing 6S-5-MTHF may be an efficacious alternative to FA to
+
+Frontiers in Nutrition
+01
+frontiersin.org
+
+maintain total folate status while reducing UMFA concentrations in maternal
+and fetal compartments. More research is needed to delineate the influence of
+different folate forms on fetal health and developmental outcomes.
+Clinical trial registration: ClinicalTrials.gov, identifier: NCT05673070.
+
+KEYWORDS
+5-methyltetrahydrofolate, folic acid, pregnancy, prenatal multivitamin, unmetabolized
+folic acid
+
+# 1 Introduction
+
+Folate is a water-soluble B vitamin naturally found in a
+wide range of foods, particularly in dark green leafy vegetables,
+fruits and their juices, beans, nuts, grains, eggs, seafood, and
+grains. A series of randomized controlled trials (RCTs) have
+consistently demonstrated that folic acid (FA) supplementation
+during the periconceptional period can reduce the risk of neural
+tube defects (NTDs) of fetuses (1). As a result, mandatory FA
+fortification in enriched cereal grain products was implemented
+in the United States in 1998 and continues to the present day (2).
+FA is the synthetic, oxidized form of folate, which is metabolically
+inactive. For FA to be used in biological processes, it must be
+reduced by dihydrofolate reductase (DHFR) sequentially to form
+tetrahydrofolate (THF). THF can then be converted to different
+forms of folate such as 5, 10-methylene-THF, 10-formyl-THF, and
+5-methyltetrahydrofolate (5-MTHF), and participate in nucleotide
+synthesis and the methionine cycle for methyl group transfer
+reactions (3).
+
+FA supplementation as low as 200 µg in combination with
+normal intake of foods fortified with FA has been found to
+cause increases in unmetabolized folic acid (UMFA) in the blood.
+Further, some animal and in vitro studies indicate that high UMFA
+status may inhibit folate metabolizing enzymes such as DHFR
+and methyltetrahydrofolate reductase (MTHFR) (4, 5). However,
+the clinical implications of UMFA elevation in humans remain
+unclear (6–8).
+
+It is recommended that women capable of becoming pregnant
+or who are pregnant consume 400 µg of FA per day to reduce
+the risk of NTDs (1). However, the benefits of FA supplementation
+throughout the remainder of pregnancy beyond neural tube closure
+(which typically occurs around day 28 of gestation), remain
+less well understood (9). Specifically, questions remain regarding
+the necessity of continued high FA intake later in pregnancy,
+particularly in FA-fortified populations where cumulative intake
+may be excessive.
+
+Studies that examine how supplementation of other forms
+of folate, such as 5-MTHF, during mid and late pregnancy
+influences maternal and fetal folate status and health outcomes are
+limited. Nevertheless, there are an increasing number of prenatal
+multivitamin mineral (MVI) supplements on the market that
+use the metabolically active 5-MTHF form of folate instead of
+FA, representing the growing interest in these products among
+both women trying to conceive and those who are pregnant
+(10). The gap in knowledge regarding the safety and comparative
+effectiveness of taking supplements containing different forms of
+folate for the mother-fetus dyad is apparent. Pharmacokinetic
+
+studies demonstrate that the bioavailability of 5-MTHF may be
+slightly higher than FA initially, yet this difference may disappear
+after a few days of supplementation. Additionally, the response
+may vary among different populations (11–13). A 2024 RCT
+demonstrated that pregnant women receiving 625 µg of either 5-
+MTHF (n = 30) or FA (n = 30) as a supplement daily for 16 weeks
+showed no difference in their red blood cell or serum folate status
+(14). However, how placental and fetal folate status may be affected
+by different forms of folate in prenatal MVI supplements remains
+largely unknown.
+
+Given the unresolved questions regarding the health impact
+of folate forms during preconception and pregnancy, RCTs are
+necessary to clarify how these differing folate forms influence
+the folate status of the mother-fetus dyad, especially considering
+possible interaction with other nutrients in a prenatal MVI.
+Therefore, the current study aimed to compare the differential
+effects of using a prenatal MVI containing 5-MTHF vs. FA on
+maternal and fetal folate status, UMFA concentrations, and DNA
+methylation beyond the first trimester of pregnancy.
+
+# 2 Materials and methods
+
+## 2.1 Study population and study procedures
+
+The study was a 24-week double-blind RCT. Pregnant
+individuals (n = 80) who received prenatal care at the Maimonides
+Medical Center in Brooklyn, NY, USA were recruited to participate
+in the study from October 2023 to October 2024. Inclusion criteria
+included English-speaking, over 18 years of age, gestational age
+between 12 and 16 weeks, and singleton pregnancy. Exclusion
+criteria were chronic illnesses including diabetes, cardiovascular
+conditions including hypercholesterolemia and hypertension that
+required medical treatment, kidney disease, and liver disease.
+Using simple randomization, participants were assigned to either
+take a prenatal multivitamin (Essential for Women Prenatal
+Multivitamin, Ritual, USA) providing 1,000 µg dietary folate
+equivalents (DFE) of 6S-5-MTHF (approximately 588 µg of 6S-5-
+MTHF based on a conversion factor of 1.7) per serving (n = 40)
+(MTHF-MVI group) or a standard control prenatal multivitamin,
+which provided 800 µg of FA (approximately 1,330 µg DFE) (n
+= 40) (FA-MVI group). While the two MVIs did not contain
+equivalent amounts of folate, they were matched as closely as
+possible using commercially available options in order to mimic
+the real-world circumstances facing pregnant individuals. It should
+be noted that the two MVIs had other differences in composition,
+such as the content of other B vitamins, choline, and vitamin
+
+D, which are detailed in Supplementary Table 1. Participants took
+their assigned MVI daily for 24 weeks during the second and third
+trimesters of pregnancy.
+
+At enrollment, each participant completed a baseline
+questionnaire which included demographic and medical
+information. Three 24-h dietary recalls, two on weekdays
+and one on a weekend day, were obtained from each participant by
+a trained research assistant via phone following the baseline visit
+(15). In addition to dietary recalls, blood samples were collected
+at baseline, and at study weeks 12 and 24, corresponding to
+gestational weeks 24 and 36, respectively. Prior to study visits,
+participants were instructed to fast for at least 4 h, then 10 mL of
+blood was drawn into a serum separator SST tube (BD, Franklin
+Lakes, NJ, USA) to retrieve serum and an EDTA BD vacutainer
+tube to retrieve plasma and buffy coat. Adherence to the protocol
+was assessed by a pill count at the second and third visits.
+
+Immediately after delivery, cord venous blood was collected
+to retrieve plasma, buffy coat, and serum. Full thickness placenta
+biopsies (0.5 × 0.5 cm) were retrieved at the center of four
+virtually divided quadrants of the placental disk and pooled for
+analysis (16). These pooled placental samples were either fixed with
+RNAlater® (Thermo Fisher, Suwanee, GA, USA) or homogenized
+in liquid nitrogen. All samples were stored at −80◦C until analysis.
+Obstetric and birth outcome information including neonate sex,
+mode of delivery, and birth weight was collected through medical
+chart review.
+
+The study protocol was reviewed and approved by both the City
+University of New York (CUNY) Institutional Review Board (IRB)
+(Approval ID:2022-0670) and the Maimonides Medical Center
+IRB (Approval ID: 2023-08-07). Written informed consent was
+obtained from each participant before participation in the study.
+The trial was registered on ClinicalTrials.gov (NCT05673070).
+
+## 2.2 Sample size calculation
+
+The sample size calculation was based on detecting a 40%
+difference in UMFA concentrations between groups at 80% power
+and a 0.05 significance level. A 25% attrition rate was also factored
+in the calculation given the high mobility of the urban population,
+to reach the n = 40/group sample size. The sample size chosen was
+considered as generally sufficient for similar pilot RCTs (17).
+
+## 2.3 Diet analysis
+
+Dietary data was analyzed with the Nutrition Data System
+for Research (NDSR) software to analyze nutrient intake. Average
+daily intakes were calculated as the average daily consumption of
+nutrients over the three days of dietary recalls (18). Dietary recalls
+with extremely low (<500 kcal/day) or high (>5,000 kcal/day)
+total energy intake were excluded from data analysis. Total folate
+intake was calculated as the sum of folate intake from both diet
+and supplements. The tolerable upper intake level (UL) for folate
+is 1,000 µg FA which does not include intake from naturally-
+occurring food folates. To compare whether a participant’s intake
+exceeded the UL, the European Food Safety Authority (EFSA)
+
+interpretation of UL was used (19), that is, in addition to FA
+consumed from fortified foods and the FA-MVI supplement,
+folate as 6S-5-MTHF from the MTHF-MVI supplement was also
+added after being converted to µg FA equivalent. Since an official
+conversion factor has not been established, a conversion factor of
+1.7 that assumes similar bioavailability of 5-MTHF and FA was
+used. The sum of FA and FA equivalent from fortified food and
+supplement was compared to the UL (19).
+
+## 2.4 Analytical measurements
+
+### 2.4.1 Folate quantification
+
+Serum and placenta folate species were measured by liquid
+chromatography mass spectrometry liquid chromatography-mass
+spectrometry (LC-MS)/MS using published methods (20). Folates
+were quantified using Thermo QExactive mass spectrometer
+operating in PRM positive mode with Vanquish UPLC.
+
+### 2.4.2 Genotyping
+
+DNA was extracted from the cord blood samples using
+the GeneJET Genomic DNA Purification Kit (Thermo Fisher)
+following manufacturer’s instructions. Amplification for the
+target SNP MTHFR C677T (rs1801133) was performed using
+ThermoFisher Scientific TaqMan assays with pre-designed TaqMan
+probes (Thermo Fisher). Real-time PCR condition was 95◦C for
+10 min, followed by 40 cycles of 95◦C for 15 s and 60 C for 1 min
+and fluorescence of the two probes FAM and VIC, labeling the
+two alleles of a SNP, was detected and analyzed by the genotyping
+program in the BioRad CFX Manager software.
+
+### 2.4.3 Global DNA methylation
+
+Global methylation was assessed after nuclease P1, alkaline
+phosphatase, and phosphodiesterase (Sigma-Aldrich, St. Louis,
+MO) trienzyme treatment of the genomic DNA samples, followed
+with measurements using the DNA methylation ELISA kit
+(Cayman Chemical, Ann Arbor, Michigan, USA) according to the
+manufacturer’s instructions.
+
+## 2.5 Statistical analyses
+
+Demographic characteristics at baseline were compared using
+Student’s t-test for continuous variables and χ-square test for
+nominal variables. To compare the differences in folate intakes and
+placental and cord blood measurements, a generalized linear model
+was used with intervention groups as the independent variable and
+controlling for a predefined set of covariates including maternal
+age, race/ethnicity, education levels, parity, sex of the neonate,
+gestational age, and maternal pre-pregnancy BMI initially (21). The
+covariates were dropped from the model in a step-wise process
+if they did not reach statistical significance. For maternal serum
+folates, a general linear mixed model was used with group and
+
+week of visit as independent variables and participant code as a
+nested variable. The maternal demographics and folate levels at
+baseline were also included as covariates. Maternal demographic
+variables were removed from the model in a step-wise process
+when they did not reach statistical significance. Data that were not
+normally distributed were log-transformed before analyses. Data
+were presented as mean $\pm$ standard deviation (SD). A $p$ value of
+<0.05 was considered significant. Data were analyzed with SPSS
+software (version 24, IBM Inc., Armonk, NY, USA).
+
+# 3 Results
+
+## 3.1 Demographic characteristics
+
+Of the total of 80 participants enrolled in the study, 18 dropped
+out and 62 completed the study, including 31 from the MTHF-
+MVI group and 31 from the FA-MVI group. Reasons for drop-
+out included nausea and vomiting and other symptoms related
+to pregnancy ($n$ = 5), transferring to another healthcare group
+($n$ = 4), pregnancy loss or congenital defects unrelated to study
+activities ($n$ = 2), lost to follow-up ($n$ = 3), non-compliance ($n$
+= 1), and not feeling comfortable to take supplements from a
+study ($n$ = 3) (Figure 1). There were no significant differences in
+the number of drop-outs between groups for any of the reasons.
+Since no data or samples were collected beyond the baseline for
+participants who dropped out, we only included the 62 participants
+who completed the study for per-protocol final data analyses.
+At baseline, there were no differences in most demographic or
+anthropometric characteristics such as maternal age, prepregnancy
+BMI, race/ethnicity, education levels, prior tobacco and alcohol use,
+current vitamin use, and parity between the two groups. However,
+there were more participants that were married in the FA-MVI vs.
+the MTHF-MVI group ($p$ = 0.03) (Table 1).
+
+## 3.2 More FA-MVI participants had a supplemental folate intake exceeding the UL
+
+All dietary intake data were collected after enrollment and
+randomization to one of the two MVIs. There were no differences
+in the dietary intake of natural folate and FA from fortified food
+between groups at week 0 and week 12. At week 24, the MTHF-
+MVI group had 30% lower natural food folate intakes ($p$ = 0.033)
+(Table 2). After accounting for folate intake from prenatal MVIs,
+the MTHF-MVI group had lower total folate intakes than the FA-
+MVI group ($p$ = 0.001). Nevertheless, all participants had intake
+levels above the folate RDA of 600 $\mu$g DFE for pregnant women.
+However, at the end of the 24-week study, 29% of participants in
+the FA-MVI group had FA intake levels exceeding the UL of 1,000
+$\mu$g throughout the study period while none of the MTHF-MVI
+participants had supplemental and fortified folate intakes exceeding
+the UL.
+
+## 3.3 More participants had UMFA in their blood in the FA-MVI group
+
+Upon examination of the serum folate metabolites in the
+two groups, there were no differences in 5-MTHF or total folate
+(FA+5-MTHF) concentrations between groups in the maternal
+blood throughout the study (Table 3). There were no changes in
+the concentrations of these metabolites over time either. At the
+end of the study, 12 and 17 participants had supraphysiologic
+concentrations (>20 ng/mL) of total folate (22), concentrations
+that are higher than the physiologic need, in the two groups,
+respectively. There were no differences in total folate status between
+groups ($p$ = 0.21). Serum UMFA was detectable among 26% and
+32% of participants in the MTHF-MVI and FA-MVI groups at week
+0, respectively, which was not significantly different ($p$ = 0.78). The
+MTHF-MVI group had a drop in FA detection rate over time which
+was not observed in the FA-MVI group. As a result, at week 24
+there were significantly more participants with detectable UMFA
+(31% vs. 7% detection rate) and significantly higher average UMFA
+concentrations in the FA-MVI group vs. in the MTHF-MVI group
+($p$ = 0.013) (Table 3).
+
+## 3.4 The MTHFR C677T genotypes did not have a clear effect on maternal blood folate metabolites in either group
+
+The potential modifying effect of the MTHFR C677T
+(rs1801133) genotype on maternal blood folate metabolites and
+their response to the two different MVIs were also assessed
+(Table 4). The MTHFR C677T SNP did not result in different 5-
+MTHF or total folate concentrations at any time point in either
+group. However, at baseline those with the TT genotype had
+significantly higher concentrations of UMFA than those with the
+CC and CT genotypes ($p$ < 0.05), yet such differences were
+eliminated at week 12 and 24 in both groups.
+
+## 3.5 Placental UMFA concentrations were higher in the FA-MVI group
+
+Next, folate metabolites in the full thickness placental samples
+(which contained both the maternal and fetal tissues and blood) and
+cord blood were measured. There were three major forms of folate
+metabolites in the placenta, including 5-MTHF, FA, and 5-formyl-
+THF. 5-MTHF ($p$ = 0.71) and total folate metabolite ($p$ = 0.33)
+concentrations did not differ between groups. Both 5-formyl-THF
+($p$ = 0.012) and UMFA ($p$ < 0.01) concentrations were higher in the
+FA-MVI group vs. the MTHF-MVI group (Table 5). Accordingly,
+the UMFA detection rate was significantly higher in the FA-MVI
+group than the MTHF-MVI group ($p$ < 0.01).
+
+The main form of folate detected in the cord blood was 5-
+MTHF. There were no differences in cord blood 5-MTHF levels
+between groups ($p$ = 0.08) (Table 5). Two cord blood samples had
+detectable UMFA, both of which belonged to the FA-MVI group.
+
+Draicchio et al.
+10.3389/fnut.2026.1679067
+
+FIGURE 1
+Study flow chart. FA, folic acid; MTHF, methyltetrahydrofolate; MVI, multivitamin.
+
+```jsonl
+{"source": "Enrollment\nn = 80", "target": "FA-MVI\nn = 40", "label": null}
+{"source": "Enrollment\nn = 80", "target": "MTHF-MVI\nn = 40", "label": null}
+{"source": "FA-MVI\nn = 40", "target": "Drop-out\nn = 2 changed healthcare system\nn = 1 did not want the MVI\nanymore\nn = 3 nausea and vomiting\nn = 1 lost to follow-up\nn = 1 non-compliance\nn = 1 pregnancy loss", "label": null}
+{"source": "FA-MVI\nn = 40", "target": "Participants for maternal\nmeasurement analysis\nn = 31", "label": null}
+{"source": "MTHF-MVI\nn = 40", "target": "Drop-out\nn = 2 changed healthcare system\nn = 2 did not want the MVI\nanymore\nn = 2 nausea and vomiting\nn = 2 lost to follow-up\nn = 1 pregnancy loss", "label": null}
+{"source": "MTHF-MVI\nn = 40", "target": "Participants for maternal\nmeasurement analysis\nn = 31", "label": null}
+{"source": "Participants for maternal\nmeasurement analysis\nn = 31", "target": "No placenta or cord blood\ncollection\nn = 7", "label": null}
+{"source": "Participants for maternal\nmeasurement analysis\nn = 31", "target": "Participants with placenta and\ncord blood measurements\nn = 24", "label": null}
+{"source": "Participants for maternal\nmeasurement analysis\nn = 31", "target": "No placenta and cord blood\ncollection\nn = 5", "label": null}
+{"source": "Participants for maternal\nmeasurement analysis\nn = 31", "target": "Participants with placenta and\ncord blood measurements\nn = 26", "label": null}
+```
+
+TABLE 1 Participant demographics.
+
+```jsonl
+{"Participant information": "Age (year)", "MTHF-MVI (n = 31)": "31.2 ± 5.5", "FA-MVI (n = 31)": "32.4 ± 5.5", "p-value": 0.4}
+{"Participant information": "Prepregnancy BMI (kg/m2)", "MTHF-MVI (n = 31)": "27.7 ± 6.2", "FA-MVI (n = 31)": "26.1 ± 5.0", "p-value": 0.27}
+{"Participant information": "Race", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": 0.84}
+{"Participant information": "White", "MTHF-MVI (n = 31)": "9 (29%)", "FA-MVI (n = 31)": "12 (38.7%)", "p-value": null}
+{"Participant information": "Black", "MTHF-MVI (n = 31)": "9 (29%)", "FA-MVI (n = 31)": "9 (29%)", "p-value": null}
+{"Participant information": "Asian", "MTHF-MVI (n = 31)": "8 (25.8%)", "FA-MVI (n = 31)": "6 (19.4%)", "p-value": null}
+{"Participant information": "Other", "MTHF-MVI (n = 31)": "5 (16.1%)", "FA-MVI (n = 31)": "4 (12.9%)", "p-value": null}
+{"Participant information": "Ethnicity", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": 0.79}
+{"Participant information": "Hispanic", "MTHF-MVI (n = 31)": "10 (32.3%)", "FA-MVI (n = 31)": "11 (35.5%)", "p-value": null}
+{"Participant information": "Non-Hispanic", "MTHF-MVI (n = 31)": "21 (67.7%)", "FA-MVI (n = 31)": "20 (64.5%)", "p-value": null}
+{"Participant information": "Education", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": 0.63}
+{"Participant information": "Less than or equal to high school", "MTHF-MVI (n = 31)": "5 (16.1%)", "FA-MVI (n = 31)": "8 (25.8%)", "p-value": null}
+{"Participant information": "Some college", "MTHF-MVI (n = 31)": "22 (71%)", "FA-MVI (n = 31)": "20 (64.5%)", "p-value": null}
+{"Participant information": "College graduate and higher", "MTHF-MVI (n = 31)": "4 (12.9%)", "FA-MVI (n = 31)": "3 (9.7%)", "p-value": null}
+{"Participant information": "Marital status", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": "0.03*"}
+{"Participant information": "Single", "MTHF-MVI (n = 31)": "17 (54.8%)", "FA-MVI (n = 31)": "8 (25.8%)", "p-value": null}
+{"Participant information": "Married", "MTHF-MVI (n = 31)": "13 (41.9%)", "FA-MVI (n = 31)": "23 (74.2%)", "p-value": null}
+{"Participant information": "Separated", "MTHF-MVI (n = 31)": "1 (3.2%)", "FA-MVI (n = 31)": "0 (0%)", "p-value": null}
+{"Participant information": "Prior tobacco use", "MTHF-MVI (n = 31)": "2 (6.5%)", "FA-MVI (n = 31)": "2 (6.5%)", "p-value": 0.3}
+{"Participant information": "Prior alcohol use", "MTHF-MVI (n = 31)": "8 (25.8%)", "FA-MVI (n = 31)": "6 (19.4%)", "p-value": 0.77}
+{"Participant information": "Current prenatal vitamin user", "MTHF-MVI (n = 31)": "27 (87.1%)", "FA-MVI (n = 31)": "24 (77.4%)", "p-value": 0.32}
+{"Participant information": "Nulliparity", "MTHF-MVI (n = 31)": "11 (35.5%)", "FA-MVI (n = 31)": "13 (41.9%)", "p-value": 0.6}
+```
+
+Analyzed with χ-square test for categorical variables and Student's t-test for continuous variables (data were presented as mean and standard deviation). *p < 0.05 is considered as significantly
+different from the FA-MVI group.
+
+Frontiers in Nutrition
+05
+frontiersin.org
+
+Draicchio et al.
+10.3389/fnut.2026.1679067
+
+TABLE 2 Folate intake of study participants.
+
+```jsonl
+{"Folate intake": "Dietary natural folate (μg DFE)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": null, "Difference or RR": "Difference", "95% CI": null}
+{"Folate intake": "Week 0", "MTHF-MVI (n = 31)": "188 ± 117", "FA-MVI (n = 31)": "144 ± 72", "p-value": 0.076, "Difference or RR": 44, "95% CI": "-5, 94"}
+{"Folate intake": "Week 12", "MTHF-MVI (n = 31)": "151 ± 75", "FA-MVI (n = 31)": "203 ± 205", "p-value": 0.19, "Difference or RR": -52, "95% CI": "-130, 27"}
+{"Folate intake": "Week 24", "MTHF-MVI (n = 31)": "143 ± 54", "FA-MVI (n = 31)": "206 ± 148", "p-value": "0.033*", "Difference or RR": -63, "95% CI": "-121, -5"}
+{"Folate intake": "FA from fortified food (μg)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": null, "Difference or RR": null, "95% CI": null}
+{"Folate intake": "Week 0", "MTHF-MVI (n = 31)": "156 ± 154", "FA-MVI (n = 31)": "189 ± 245", "p-value": 0.53, "Difference or RR": -33, "95% CI": "-137, 71"}
+{"Folate intake": "Week 12", "MTHF-MVI (n = 31)": "140 ± 137", "FA-MVI (n = 31)": "194 ± 206", "p-value": 0.23, "Difference or RR": -54, "95% CI": "-142, 35"}
+{"Folate intake": "Week 24", "MTHF-MVI (n = 31)": "145 ± 139", "FA-MVI (n = 31)": "196 ± 203", "p-value": 0.27, "Difference or RR": -51, "95% CI": "-141, 50"}
+{"Folate intake": "Total folate intake from diet and supplement (μg DFE)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": null, "Difference or RR": null, "95% CI": null}
+{"Folate intake": "Week 0a", "MTHF-MVI (n = 31)": "1454 ± 268", "FA-MVI (n = 31)": "1825 ± 405", "p-value": "<0.001*", "Difference or RR": -371, "95% CI": "-546, -197"}
+{"Folate intake": "Week 12", "MTHF-MVI (n = 31)": "1357 ± 327", "FA-MVI (n = 31)": "1893 ± 500", "p-value": "<0.001*", "Difference or RR": -536, "95% CI": "-750, -321"}
+{"Folate intake": "Week 24", "MTHF-MVI (n = 31)": "1345 ± 344", "FA-MVI (n = 31)": "1777 ± 627", "p-value": "<0.001*", "Difference or RR": -432, "95% CI": "-688, -330"}
+{"Folate intake": "Participants with fortified and supplement folates exceeding UL (n,%)b", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "p-value": null, "Difference or RR": "RR", "95% CI": null}
+{"Folate intake": "Week 0", "MTHF-MVI (n = 31)": 0, "FA-MVI (n = 31)": "5 (16%)", "p-value": 0.053, "Difference or RR": 0.091, "95% CI": "0.0052, 1.58"}
+{"Folate intake": "Week 12", "MTHF-MVI (n = 31)": 0, "FA-MVI (n = 31)": "8 (26%)", "p-value": "0.005*", "Difference or RR": 0.059, "95% CI": "0.0035, 0.98"}
+{"Folate intake": "Week 24", "MTHF-MVI (n = 31)": 0, "FA-MVI (n = 31)": "9 (29%)", "p-value": "0.001*", "Difference or RR": 0.051, "95% CI": "0.0031, 0.84"}
+```
+
+aWeek 0 data were collected after enrollment and randomization to receive one of the two multivitamins. bBased on the European Food Safety Authority (EFSA) interpretation of UL, 6S-
+5-MTHF from supplement (1,000 μg DFE) was converted to μg FA equivalent using a conversion factor of 1.7 assuming similar bioavailability of 5-MTHF and FA. The sum of FA and FA
+equivalent from fortified food and supplement was compared to the UL (19). Analyzed with χ-square test for categorical variables and Student’s t-test for continuous variables (data were
+presented as mean and standard deviation). *p < 0.05 is considered as significantly different from the FA-MVI group. CI, confidence interval; FA, folic acid; MTHF, methyltetrahydrofolate;
+MVI, multivitamin; RR, relative risk; UL, upper tolerable intake level.
+
+### 3.6 Global DNA methylation levels
+
+Global DNA methylation was measured in the placenta and
+cord blood, but no significant differences were found between the
+two groups (p = 0.14 and 0.082, respectively) (Table 5).
+
+## 4 Discussion
+
+The National Institutes of Health (NIH) identified knowledge
+gaps related to the differential effects of 5-MTHF vs. FA
+supplementation during pregnancy on folate status and functional
+outcomes of the mother-fetus dyad in a 2019 expert workshop
+(23), yet studies that address these questions are still limited. In
+this RCT, supplementation with a prenatal MVI containing 6S-5-
+MTHF, as compared to FA, resulted in reduced concentrations of
+UMFA in both the maternal and placental compartments while
+having no significant difference in total folate status. These results
+suggest that 5-MTHF is an efficacious form of folate for pregnant
+women and their fetuses in the second and third trimesters
+of pregnancy.
+
+FA is the predominant and recommended form of folate to be
+used for women are pregnant or may become pregnant, mainly
+for its important role in reducing NTD risk in early gestation
+(1). It should be noted, however, that human studies investigating
+whether other forms of folate could be as effective as FA for
+NTD risk reduction are lacking (24). There remains uncertainty
+regarding the necessity and dosage of FA supplementation beyond
+the window of neural tube closure, i.e., during mid and late
+
+gestation (14). This is particularly relevant given that FA must
+be reduced to THF to participate in folate metabolism, then the
+folates are interconvertible within the folate cycle. Theoretically
+speaking, if the other forms of folate supplement raise folate
+status comparably to FA in the maternal and fetal compartments,
+it is intuitive that they may share the same effect as FA on
+disease risk reduction. While the current study did not capture
+the periconceptional period, it provided comparative evidence
+regarding the efficacy of 5-MTHF vs. FA supplementation during
+pregnancy for maintaining folate status in both maternal and fetal
+compartments in mid and late gestation.
+
+While 5-MTHF supplementation has been shown to improve
+serum folate levels in women of childbearing age (25), comparative
+studies evaluating the effect of 5-MTHF vs. FA supplementation
+on folate status and maternal and fetal outcomes across pregnancy
+remain limited (9). Most available data instead evaluated FA alone.
+In a 2016 study, low-dose FA supplementation (400 μg per day)
+did not significantly alter folate status or UMFA concentrations in
+maternal and cord blood compared to placebo (26). However, this
+finding may have limited relevance to typical prenatal FA intake,
+as a 2019 review found that 99% of prescription and 91% of non-
+prescription prenatal MVIs contained ≥800 μg FA per serving, an
+amount substantially higher than the 400 μg dose that is currently
+recommended for women of childbearing age and the amount used
+in the aforementioned study (27). Several RCTs have demonstrated
+that 5-MTHF is at least as effective as FA in lowering plasma
+homocysteine levels (4, 28). A small number of studies have also
+examined the use of 5-MTHF vs. FA in fertility treatment and
+pregnancy loss, finding that 5-MTHF provided greater protection
+against pregnancy loss than FA (29, 30). The present study’s findings
+
+Draicchio et al.
+10.3389/fnut.2026.1679067
+
+TABLE 3 Maternal serum folate metabolites.
+
+```jsonl
+{"Serum folate": "Serum total folate (ng/mL)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "Difference or RR": "Difference", "95% CI": null, "p group": 0.16, "p week": 0.08, "p group x week interaction": 0.77}
+{"Serum folate": "Week 0", "MTHF-MVI (n = 31)": "21.5 \u00b1 6.6", "FA-MVI (n = 31)": "22.0 \u00b1 8.8", "Difference or RR": -0.5, "95% CI": "-4.5, 3.4", "p group": null, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 12", "MTHF-MVI (n = 31)": "21.5 \u00b1 7.0", "FA-MVI (n = 31)": "24.4 \u00b1 11.0", "Difference or RR": -2.9, "95% CI": "-7.6, 1.8", "p group": null, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 24", "MTHF-MVI (n = 31)": "19.7 \u00b1 7.0", "FA-MVI (n = 31)": "22.0 \u00b1 6.5", "Difference or RR": -2.3, "95% CI": "-5.8, 1.1", "p group": null, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Serum methyltetrahydrofolate (ng/mL)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "Difference or RR": null, "95% CI": null, "p group": 0.99, "p week": 0.14, "p group x week interaction": 0.52}
+{"Serum folate": "Week 0", "MTHF-MVI (n = 31)": "21.0 \u00b1 6.2", "FA-MVI (n = 31)": "20.8 \u00b1 6.6", "Difference or RR": 0.2, "95% CI": "-3.1, 3.4", "p group": null, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 12", "MTHF-MVI (n = 31)": "21.5 \u00b1 7.0", "FA-MVI (n = 31)": "22.7 \u00b1 9.3", "Difference or RR": -1.2, "95% CI": "-5.4, 3.0", "p group": null, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 24", "MTHF-MVI (n = 31)": "19.9 \u00b1 7.0", "FA-MVI (n = 31)": "20.7 \u00b1 6.6", "Difference or RR": -1.6, "95% CI": "-4.9, 1.7", "p group": null, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Unmetabolized folic acid (ng/mL)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "Difference or RR": null, "95% CI": null, "p group": "0.014*", "p week": 0.39, "p group x week interaction": 0.27}
+{"Serum folate": "Week 0", "MTHF-MVI (n = 31)": "0.5 \u00b1 1.4", "FA-MVI (n = 31)": "1.2 \u00b1 3.5", "Difference or RR": -0.7, "95% CI": "-2.1, 0.7", "p group": 0.32, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 12", "MTHF-MVI (n = 31)": "0.06 \u00b1 0.3", "FA-MVI (n = 31)": "1.8 \u00b1 4.6", "Difference or RR": -1.7, "95% CI": "-3.3, -0.04", "p group": "0.044*", "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 24", "MTHF-MVI (n = 31)": "0.02 \u00b1 0.1", "FA-MVI (n = 31)": "0.8 \u00b1 1.7", "Difference or RR": -0.7, "95% CI": "-1.3, -0.2", "p group": "0.013*", "p week": null, "p group x week interaction": null}
+{"Serum folate": "Presence of unmetabolized folic acid (n, %)", "MTHF-MVI (n = 31)": null, "FA-MVI (n = 31)": null, "Difference or RR": "RR", "95% CI": null, "p group": "0.001*", "p week": 0.63, "p group x week interaction": 0.63}
+{"Serum folate": "Week 0", "MTHF-MVI (n = 31)": "8 (26%)", "FA-MVI (n = 31)": "10 (32%)", "Difference or RR": 0.8, "95% CI": "0.36, 1.75", "p group": 0.78, "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 12", "MTHF-MVI (n = 31)": "2 (6%)", "FA-MVI (n = 31)": "11 (35%)", "Difference or RR": 0.18, "95% CI": "0.04, 0.75", "p group": "0.011*", "p week": null, "p group x week interaction": null}
+{"Serum folate": "Week 24", "MTHF-MVI (n = 31)": "2 (7%)", "FA-MVI (n = 31)": "9 (31%)", "Difference or RR": 0.22, "95% CI": "0.25, 0.91", "p group": "0.041*", "p week": null, "p group x week interaction": null}
+```
+
+Analyzed with mixed model controlling for baseline folate metabolite levels. *p < 0.05 is considered as significantly different. The serum total folate concentration is calculated as folic acid +
+methyltetrahydrofolate concentrations. CI, confidence interval; FA, folic acid; MTHF, methyltetrahydrofolate; MVI, multivitamin; RR, relative risk.
+
+build upon the literature comparing 5-MTHF to FA by providing
+longitudinal tracing of folate status in response to supplementation
+with these two forms of folate during the latter two-thirds of
+pregnancy, a pattern consistent with prenatal MVI use in pregnant
+women in the U.S. population as many women take prenatal MVIs
+through the duration of their pregnancy (31). The folate content in
+the FA-MVI was about 30% higher than that in the MTHF-MVI,
+yet there was no difference in 5-MTHF and total folate status across
+maternal blood, placenta, and fetal blood between the two groups,
+indicating that 6S-5-MTHF provided in a MVI supplement is at
+least as effective as FA-containing MVI in maintaining maternal
+and fetal folate status. Further, the similar effectiveness on folate
+status maintenance was not modified by a major folate genetic
+polymorphism (MTHFR C677T) or differential exposure to other
+nutrients (e.g., other B vitamins and vitamin D) in the two MVIs.
+Our results were consistent with findings from a similar RCT
+conducted on a Canadian cohort, where supplementation of FA
+vs. 5-MTHF for 16 weeks yielded similar folate concentrations
+in maternal blood (14). The current study further confirms that
+folate status in the placenta and fetal cord blood were also not
+differentially affected by folate supplement forms.
+
+The growing use of 5-MTHF in prenatal MVIs instead of
+FA is partly driven by concern of UMFA detection in tissues,
+
+although the clinical implications of UMFA remain unclear (23).
+Earlier research has reported that FA intake exceeding 200 µg
+per day led to detectable amounts of UMFA in blood, while, as
+mentioned previously, 400 µg FA per day did not alter UMFA
+concentrations and more recent findings indicate that trace levels of
+UMFA may be present in the blood of individuals not consuming
+FA from fortified foods or supplements (6–8, 32). Further, UMFA
+has been detected in the majority of blood samples from NHANES
+participants (32) and 93% of cord blood samples from a 2015
+Canadian cohort study (33). Consistent with prior reports, the
+present study demonstrated that supplementation with a prenatal
+MVI containing FA led to UMFA elevation in both maternal and
+fetal compartments (33, 34). This elevation in UMFA is generally
+understood to be transient during periods of supplementation,
+mitigating the long-term concern of overaccumulaton (35). In the
+present cohort, UMFA was chronically elevated in maternal blood
+and was primarily retained in the placenta with only two cord
+blood samples, both from the FA-MVI group, showing detectable
+amounts of UMFA. Supplementation with a 5-MTHF-containing
+MVI significantly reduced UMFA concentrations in maternal blood
+and placenta, although it did not completely eliminate UMFA
+detection. This is likely attributable to FA intake from foods
+(participants in the MTHF-VMI group had an average intake of 110
+
+Frontiers in Nutrition
+
+07
+
+frontiersin.org
+
+TABLE 4 Folate levels in participants with different MTHFR C677T genotypes.
+
+```jsonl
+{"Serum folate": "Serum methyltetrahydrofolate (ng/mL)", "CC (n = 23)": null, "CT (n = 20)": null, "TT (n = 19)": null, "CT vs. CC_Difference": null, "CT vs. CC_95% CI": null, "TT vs. CC_Difference": null, "TT vs. CC_95% CI": null, "p genotype": null, "p group×genotype interaction": null}
+{"Serum folate": "Week 0", "CC (n = 23)": "22.4 ± 7.4", "CT (n = 20)": "19.3 ± 4.9", "TT (n = 19)": "20.7 ± 6.1", "CT vs. CC_Difference": -3.2, "CT vs. CC_95% CI": "-7.0, 0.6", "TT vs. CC_Difference": -1.7, "TT vs. CC_95% CI": "-5.6,2.2", "p genotype": 0.24, "p group×genotype interaction": 0.37}
+{"Serum folate": "Week 12", "CC (n = 23)": "23.1 ± 10.8", "CT (n = 20)": "20.7 ± 6.0", "TT (n = 19)": "22.1 ± 6.5", "CT vs. CC_Difference": -2.4, "CT vs. CC_95% CI": "-7.5, 2.6", "TT vs. CC_Difference": -1.0, "TT vs. CC_95% CI": "-6.1, 4.1", "p genotype": 0.59, "p group×genotype interaction": 0.98}
+{"Serum folate": "Week 24", "CC (n = 23)": "19.8 ± 6.5", "CT (n = 20)": "21.2 ± 6.2", "TT (n = 19)": "20.5 ± 7.1", "CT vs. CC_Difference": 1.5, "CT vs. CC_95% CI": "-2.5, 5.5", "TT vs. CC_Difference": 0.7, "TT vs. CC_95% CI": "-3.4, 4.8", "p genotype": 0.86, "p group×genotype interaction": 0.98}
+{"Serum folate": "Serum total folate (ng/mL)", "CC (n = 23)": null, "CT (n = 20)": null, "TT (n = 19)": null, "CT vs. CC_Difference": null, "CT vs. CC_95% CI": null, "TT vs. CC_Difference": null, "TT vs. CC_95% CI": null, "p genotype": null, "p group×genotype interaction": null}
+{"Serum folate": "Week 0", "CC (n = 23)": "22.8 ± 7.6", "CT (n = 20)": "19.5 ± 5.1", "TT (n = 19)": "22.8 ± 9.8", "CT vs. CC_Difference": -3.3, "CT vs. CC_95% CI": "-8, 1.4", "TT vs. CC_Difference": 0.06, "TT vs. CC_95% CI": "-4.7,4.8", "p genotype": 0.26, "p group×genotype interaction": 0.49}
+{"Serum folate": "Week 12", "CC (n = 23)": "23.3 ± 10.9", "CT (n = 20)": "22.0 ± 7.2", "TT (n = 19)": "23.6 ± 9.6", "CT vs. CC_Difference": -1.3, "CT vs. CC_95% CI": "-7.0, 4.5", "TT vs. CC_Difference": 0.3, "TT vs. CC_95% CI": "-5.6, 6.1", "p genotype": 0.8, "p group×genotype interaction": 0.83}
+{"Serum folate": "Week 24", "CC (n = 23)": "20.0 ± 6.7", "CT (n = 20)": "22.1 ± 6.8", "TT (n = 19)": "20.6 ± 7.1", "CT vs. CC_Difference": 2.1, "CT vs. CC_95% CI": "-2.1, 6.3", "TT vs. CC_Difference": 0.6, "TT vs. CC_95% CI": "-3.6, 4.9", "p genotype": 0.75, "p group×genotype interaction": 0.9}
+{"Serum folate": "Unmetabolized folic acid (ng/mL)", "CC (n = 23)": null, "CT (n = 20)": null, "TT (n = 19)": null, "CT vs. CC_Difference": null, "CT vs. CC_95% CI": null, "TT vs. CC_Difference": null, "TT vs. CC_95% CI": null, "p genotype": null, "p group×genotype interaction": null}
+{"Serum folate": "Week 0a", "CC (n = 23)": "0.33 ± 0.52", "CT (n = 20)": "0.25 ± 0.46", "TT (n = 19)": "2.10 ± 4.72", "CT vs. CC_Difference": -0.08, "CT vs. CC_95% CI": "-1.53, 1.70", "TT vs. CC_Difference": 1.77, "TT vs. CC_95% CI": "0.73, 3.40", "p genotype": "0.047*", "p group×genotype interaction": 0.36}
+{"Serum folate": "Week 12", "CC (n = 23)": "0.13 ± 0.35", "CT (n = 20)": "1.34 ± 2.99", "TT (n = 19)": "1.39 ± 5.14", "CT vs. CC_Difference": 1.21, "CT vs. CC_95% CI": "-0.82, 3.24", "TT vs. CC_Difference": 1.26, "TT vs. CC_95% CI": "-0.80, 3.31", "p genotype": 0.44, "p group×genotype interaction": 0.45}
+{"Serum folate": "Week 24", "CC (n = 23)": "0.22 ± 0.77", "CT (n = 20)": "0.86 ± 1.89", "TT (n = 19)": "0.12 ± 0.37", "CT vs. CC_Difference": 0.63, "CT vs. CC_95% CI": "-0.09, 1.36", "TT vs. CC_Difference": -0.1, "TT vs. CC_95% CI": "-0.84, 0.64", "p genotype": 0.25, "p group×genotype interaction": 0.26}
+```
+
+Analyzed with generalized linear model with intervention group and the rs1801133 genotype as independent variables; aThis model controlled for prepregnancy BMI additionally. *p < 0.05 is considered as significantly different. The serum total folate concentration
+is calculated as folic acid + methyltetrahydrofolate concentrations. CI, confidence interval.
+
+Draicchio et al.
+10.3389/fnut.2026.1679067
+
+TABLE 5 Placenta and cord blood folate metabolite and DNA methylation levels.
+
+```jsonl
+{"Folate status": "Placenta", "MTHF-MVI": null, "FA-MVI": null, "Difference": null, "95% CI": null, "p-value": null}
+{"Folate status": "5-MTHF (ng/g tissue)", "MTHF-MVI": "412 ± 95", "FA-MVI": "422 ± 81", "Difference": -10, "95% CI": "-60, 41", "p-value": "0.71"}
+{"Folate status": "UMFA (ng/g tissue)", "MTHF-MVI": "0.52 ± 0.63", "FA-MVI": "2.93 ± 2.13", "Difference": -2.41, "95% CI": "-3.29, -1.53", "p-value": "<0.01*"}
+{"Folate status": "5-formyl THF (ng/g tissue)", "MTHF-MVI": "29.4 ± 9.6", "FA-MVI": "43.6 ± 25.1", "Difference": -14.2, "95% CI": "-24.8, -3.5", "p-value": "0.01*"}
+{"Folate status": "Total folate (ng/g tissue)", "MTHF-MVI": "442 ± 95", "FA-MVI": "469 ± 91", "Difference": -26, "95% CI": "-79, 27", "p-value": "0.33"}
+{"Folate status": "Global DNA methylation (fold difference)", "MTHF-MVI": "0.7 ± 0.5", "FA-MVI": "1.0 ± 1.0", "Difference": -0.3, "95% CI": "-0.8, 0.1", "p-value": "0.14"}
+{"Folate status": "Cord blood", "MTHF-MVI": null, "FA-MVI": null, "Difference": null, "95% CI": null, "p-value": null}
+{"Folate status": "Serum 5-MTHF (ng/mL)", "MTHF-MVI": "32.1 ± 9.2", "FA-MVI": "40.8 ± 17.1", "Difference": -8.7, "95% CI": "-14.6, 0.5", "p-value": "0.08"}
+{"Folate status": "Global DNA methylation (fold difference)", "MTHF-MVI": "0.7 ± 0.4", "FA-MVI": "1.0 ± 0.5", "Difference": -0.3, "95% CI": "-0.5, 003", "p-value": "0.08"}
+```
+
+Analyzed with generalized linear models controlling for maternal folate intake at week 24. FA, folic acid; 5-MTHF, 5-methyltetrahydrofolate. *p < 0.05 is considered as significantly different from
+the FA-MVI group. The placental total folate concentration is calculated as FA + 5-MTHF + 5-formyl THF concentrations. CI, confidence interval; FA, folic acid; MTHF, methyltetrahydrofolate;
+MVI, multivitamin; UMFA, unmetabolized folic acid.
+
+μg/day of FA) due to mandatory FA fortification of enriched cereal
+grain products in the U.S. Despite detection of UMFA in some
+participants in the MTHF-MVI group, the MTHF-MVI group
+experienced significant decreases in serum UMFA over the study
+period, while UMFA concentrations remained unchanged in the
+FA-MVI group. These findings suggest that formulation with 5-
+MTHF instead of FA in prenatal MVIs may be an effective strategy
+to minimize UMFA’s presence in maternal and fetal circulation.
+
+It has been hypothesized that UMFA may inhibit key enzymes
+in the folate cycle. For example, UMFA may inhibit DHFR, a
+rate-limiting enzyme responsible for converting FA to THF (36).
+Inhibition of MTHFR, which catalyzes the conversion of 5,10-
+methylene-THF to 5-MTHF, a critical point of entry into the
+methionine cycle of one-carbon metabolism, has also been shown
+in vitro (37, 38). Further, very high dose FA supplementation (20
+mg/kg diet or 10× recommended intake) in mice has been shown to
+result in a pseudo-MTHFR deficiency and ensuing liver injury (38).
+Also in mice, high maternal FA intake (5× recommended intake)
+has been shown to induce neurocognitive damages in the rodent
+offspring (39).
+
+UMFA has a higher affinity to bind folate receptor 1 (FOLR1)
+than 5-MTHF and variable affinity to folate transporters, potentially
+competing with 5-MTHF for cellular uptake (23, 40). In vitro
+studies suggest that UMFA may influence cellular growth during
+tumorigenesis as well as natural killer cell toxicity (41–45).
+The current study did not identify differences in global DNA
+methylation in the cord blood, consistent with the notion that
+UMFA may not have a substantial effect on global epigenetic
+regulation to be observed in studies with a small sample size
+(23). However, targeted methylome profiling would be necessary
+to determine whether specific epigenetic sites are susceptible to
+alteration in the presence of UMFA. Overall, further studies that
+investigate the association between UMFA and the health of the
+mother-fetus dyad are needed.
+
+Some speculation exists regarding the notion that excess
+folate intake, independent of UMFA levels, may be a risk
+factor for diseases such as cancer, cardiometabolic disorders,
+and abnormalities in neurodevelopmental development including
+autism spectrum disorder (ASD). This speculation is grounded
+
+in data from multiple epidemiological studies, although it must
+be considered along with the counter evidence suggesting no
+correlation between high folate intake and these diseases (2, 23,
+46–49). Moreover, the UL for supplemental and fortified folate
+was established partly because it may enable nucleotide synthesis
+despite a deficiency in vitamin B12, which serves as a co-factor in
+the methionine cycle that converts 5-MTHF to THF. Nevertheless,
+this concern of folate excess masking B12 deficiency may be less
+relevant to pregnant individuals who receive a prenatal MVI which
+almost certainly contains vitamin B12. Despite the contradictory
+evidence, preventing pregnant women from exceeding the UL
+is still a reasonable precaution. This is especially pertinent in
+countries with mandatory FA fortification programs, as studies
+have found that pregnant women routinely approach or exceed
+the UL for FA from food and MVIs combined (50–52). The UL
+was established by the National Academy of Medicine (formerly
+the Food and Nutrition Board of the Institute of Medicine)
+in 1998. It applies to synthetic forms of folate from obtained
+from supplements, fortified foods, or a combination of the two,
+similar to the more recent interpretation made by the European
+Food Safety Authority (EFSA) (19). Regardless, significantly fewer
+participants in the MTHF-MVI group reached and exceeded the
+UL compared to the FA-MVI group as a function of the dose being
+higher in the FA-MVI group. Consistent with prior findings, the
+present study demonstrates that nearly one-third of participants
+in the FA-MVI group exceeded the current UL by the end of
+the intervention despite taking a commonly consumed prenatal
+MVI containing 800 μg of FA, one of the lowest doses readily
+available on the market. This excessive intake could be entirely
+prevented by taking a prenatal MVI containing a lower dose of
+folate. Notably, while the FA-MVI provided in the study supplied
+1,330 μg DFE and the MTHF-MVI provided 1,000 μg DFE, 330
+μg DFE less, total folate concentrations in maternal serum, cord
+blood, and placental tissue did not differ between groups. This
+suggests that the higher FA dose in the FA-MVI may have exceeded
+the body’s capacity for utilization. Nevertheless, the proportion
+of participants with high folate levels (>20 ng/mL) did not differ
+between groups, suggesting that both doses likely meet or exceed
+adequate intakes.
+
+This study has several limitations. Since the intervention did not capture the periconceptional period or the first trimester of pregnancy, whether supplementing 5-MTHF vs. FA during these periods has similar effects on maternal and fetal folate status and birth outcomes remains unclear. The sample size was relatively small, and only a single dosage level of 6S-5-MTHF or FA was tested in each group. Additionally, participants had relatively low background FA intake from their diets, limiting the generalizability to populations with higher prenatal dietary FA exposure. The two MVIs have dosage differences in not only folate but also other nutrients, yet this imperfect comparison reflects the complexity of the decision that pregnant individuals make regarding MVI selection in real world conditions. It also reflects that in prenatal MVIs with complex inter-nutrient interactions, 5-MTHF and FA have similar performance in maintaining maternal and fetal folate status.
+
+In conclusion, prenatal MVIs containing 6S-5-MTHF may offer an efficacious alternative to those containing FA in the latter two trimesters of pregnancy, as they reduce concentrations of UMFA in maternal and fetal tissues, without compromising total folate status. However, additional well-designed clinical and mechanistic studies are needed to confirm long-term maternal and fetal outcomes and to inform evidence-based guidelines across diverse populations.
+
+## Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+## Ethics statement
+
+The studies involving humans were approved by the City University of New York (CUNY) Institutional Review Board (IRB) (Approval ID: 2022-0670) and the Maimonides Medical Center IRB (Approval ID: 2023-08-07). The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study.
+
+## Author contributions
+
+FD: Investigation, Writing – original draft. JH: Investigation, Writing – original draft. MS: Conceptualization, Writing – review & editing. AG-W: Writing – review & editing. AV: Writing – review & editing. NA: Conceptualization, Writing – review & editing. IF: Conceptualization, Writing – review & editing. SC: Writing – review & editing. OM: Investigation, Writing – review & editing. MC: Conceptualization, Writing – review & editing. IH: Investigation, Writing – original draft. XJ: Conceptualization, Formal analysis, Investigation, Writing – original draft, Writing – review & editing.
+
+## Funding
+
+The author(s) declared that financial support was received for this work and/or its publication. This research was supported by a research grant funded by Ritual.
+
+## Acknowledgments
+
+The authors would like to thank the support of the staff in the Department of Obstetrics and Gynecology of Maimonides Medical Center. The authors are also thankful for the participation of study participants.
+
+## Conflict of interest
+
+MS, AG-W, AV, and NA were employed by Ritual.
+
+The remaining author(s) declared that the research was conducted in the absence of any commercial or financial relationships that could be construed as a conflict of interest. The sponsor Ritual has no influence on the implementation of the study and final interpretation of the data. The data analysis and interpretation were conducted.
+
+## Generative AI statement
+
+The author(s) declared that generative AI was not used in the creation of this manuscript.
+
+Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.
+
+## Publisher's note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+## Supplementary material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fnut.2026.1679067/full#supplementary-material
+
+Frontiers in Nutrition
+10
+frontiersin.org
+
+Draicchio et al.
+10.3389/fnut.2026.1679067
+
+# References
+
+1. Crider KS Qi YP, Yeung LF, Mai CT, Zauche LH, Wang A, et al. Folic acid and the prevention of birth defects: 30 years of opportunity and controversies. Annu Rev Nutr. (2022) 42:423–52. doi: 10.1146/annurev-nutr-043020-091647
+
+2. Crider KS, Bailey LB, Berry RJ. Folic acid food fortification-its history, effect, concerns, and future directions. Nutrients. (2011) 3:370–84. doi: 10.3390/nu3030370
+
+3. Korsmo HW, Jiang X. One carbon metabolism and early development: a diet-dependent destiny. Trends Endocrinol Metab. (2021) 32:579–93. doi: 10.1016/j.tem.2021.05.011
+
+4. Menezo Y, Elder K, Clement A, Clement P. Folic Acid, folinic acid, 5 methyl tetrahydrofolate supplementation for mutations that affect epigenesis through the folate and one-carbon cycles. Biomolecules. (2022) 12:197. doi: 10.3390/biom12020197
+
+5. Bahous RH, Jadavji NM, Deng L, Cosin-Tomas M, Lu J, Malysheva O, et al. High dietary folate in pregnant mice leads to pseudo-MTHFR deficiency and altered methyl metabolism, with embryonic growth delay and short-term memory impairment in offspring. Hum Mol Genet. (2017) 26:888–900. doi: 10.1093/hmg/ddx004
+
+6. Sweeney MR, McPartlin J, Scott J. Folic acid fortification and public health: report on threshold doses above which unmetabolised folic acid appear in serum. BMC Public Health. (2007) 7:41. doi: 10.1186/1471-2458-7-41
+
+7. Sweeney MR, McPartlin J, Weir DG, Daly L, Scott JM. Postprandial serum folic acid response to multiple doses of folic acid in fortified bread. Br J Nutr. (2006) 95:145–51. doi: 10.1079/BJN20051618
+
+8. Sweeney MR, McPartlin J, Weir DG, Scott JM. Measurements of sub-nanomolar concentrations of unmetabolised folic acid in serum. J Chromatogr B Analyt Technol Biomed Life Sci. (2003) 788:187–91. doi: 10.1016/S1570-0232(02)01010-3
+
+9. Xie M, Qing X, Huang H, Zhang J. The effectiveness and safety of the active form of folate on biochemical parameters in women of childbearing age: a systematic review and meta-analysis. Medicine. (2025) 104:e46564. doi: 10.1097/MD.0000000000046564
+
+10. Saldanha LG, Dwyer JT, Haggans CJ, Mills JL, Potischman N. Perspective: time to resolve confusion on folate amounts, units, and forms in prenatal supplements. Adv Nutr. (2020) 11:753–9. doi: 10.1093/advances/nmaa017
+
+11. Schön C, Micka A, Menzel D, Wilhelm M, Obeid R. Pharmacokinetics of (6S)- 5-methyltetrahydrofolate dicholine salt compared to folic acid: a randomized double-blind single dose cross-over study. Food Nutr Res. (2025) 24:69. doi: 10.29219/fnr.v69.12633
+
+12. Venn BJ, Green TJ, Moser R, Mann JI. Comparison of the effect of low- dose supplementation with L-5-methyltetrahydrofolate or folic acid on plasma homocysteine: a randomized placebo-controlled study. Am J Clin Nutr. (2003) 77:658– 62. doi: 10.1093/ajcn/77.3.658
+
+13. Pentieva K, McNulty H, Reichert R, Ward M, Strain JJ, McKillop DJ, et al. The short-term bioavailabilities of [6S]-5-methyltetrahydrofolate and folic acid are equivalent in men. J Nutr. (2004) 134:580–5. doi: 10.1093/jn/134.3.580
+
+14. Cochrane KM, Elango R, Devlin AM, Mayer C, Hutcheon JA, Karakochuk CD. Supplementation with (6S)-5-methyltetrahydrofolic acid appears as effective as folic acid in maintaining maternal folate status while reducing unmetabolised folic acid in maternal plasma: a randomised trial of pregnant women in Canada. Br J Nutr. (2024) 131:92–102. doi: 10.1017/S0007114523001733
+
+15. Harnack L, Stevens M, Van Heel N, Schakel S, Dwyer JT, Himes J, et al. computer- based approach for assessing dietary supplement use in conjunction with dietary recalls. J Food Compost Anal. (2008) 21:S78–82. doi: 10.1016/j.jfca.2007.05.004
+
+16. Jiang X, Yan J, West AA, Perry CA, Malysheva OV, Devapatla S, et al. Maternal choline intake alters the epigenetic state of fetal cortisol-regulating genes in humans. FASEB J. (2012) 26:3563–74. doi: 10.1096/fj.12-207894
+
+17. Sim J, Lewis M. The size of a pilot study for a clinical trial should be calculated in relation to considerations of precision and efficiency. J Clin Epidemiol. (2012) 65:301–8. doi: 10.1016/j.jclinepi.2011.07.011
+
+18. Jack-Roberts C, Maples P, Kalkan B, Gilboa E, Djuraev I, et al. Gestational diabetes status and dietary intake modify maternal and cord blood allostatic load markers. BMJ Open Diabetes Res Care. (2020) 8:e001468. doi: 10.1136/bmjdrc-2020-001468
+
+19. Turck D, Bohn T, Castenmiller J, de Henauw S, Hirsch-Ernst K-I, et al. Scientific opinion on the tolerable upper intake level for folate. EFSA J Nov. (2023) 21:e08353. doi: 10.2903/j.efsa.2023.8353
+
+20. West AA, Yan J, Perry CA, Jiang X, Malysheva OV, Caudill MA. Folate-status response to a controlled folate intake in nonpregnant, pregnant, and lactating women. Am J Clin Nutr. (2012) 96:789–800. doi: 10.3945/ajcn.112.037523
+
+21. Holmberg MJ, Andersen LW. Adjustment for baseline characteristics in randomized clinical trials. JAMA. (2022) 328:2155–6. doi: 10.1001/jama.2022.21506
+
+22. Pfeiffer CM, Johnson CL, Jain RB, Yetley EA, Picciano MF, Radar JI, et al. Trends in blood folate and vitamin B-12 concentrations in the United States, 1988–2004. Am J Clin Nutr. (2007) 86:718–27. doi: 10.1093/ajcn/86.3.718
+
+23. Maruvada P, Stover PJ, Mason JB, Bailey RL, Davis CD, Field MS, et al. Knowledge gaps in understanding the metabolic and clinical effects of excess folates/folic acid: a summary, and perspectives, from an NIH workshop. Am J Clin Nutr. (2020) 112:1390– 403. doi: 10.1093/ajcn/nqaa259
+
+24. Samaniego-Vaesken ML, Morais-Moreno C, Carretero-Krug A, et al. Supplementation with folic acid or 5-methyltetrahydrofolate and prevention of neural tube defects: an evidence-based narrative review. Nutrients. (2024) 16:3154. doi: 10.3390/nu16183154
+
+25. Osburn SC, Roberson PA, Medler JA, Shake J, Arnold RD, Alamdari N, et al. Effects of 12-week multivitamin and omega-3 supplementation on micronutrient levels and red blood cell fatty acids in pre-menopausal women. Front Nutr. (2021) 8:610382. doi: 10.3389/fnut.2021.610382
+
+26. Pentieva K, Selhub J, Paul L, Molloy AM, McNulty B, Ward M, et al. Evidence from a randomized trial that exposure to supplemental folic acid at recommended levels during pregnancy does not lead to increased unmetabolized folic acid concentrations in maternal or cord blood. J Nutr. (2016) 146:494–500. doi: 10.3945/jn.115.223644
+
+27. Saldanha L, Dwyer J, Potischman N, Andrews K. Folic acid in prenatal supplements: labeled amounts compared to recommendations (P11-024-19). Curr Dev Nutr. (2019) 3:nzz048. doi: 10.1093/cdn/nzz048.P11-024-19
+
+28. Clément A, Menezo Y, Cohen M, Cornet D, Clément P. 5-Methyltetrahydrofolate reduces blood homocysteine level significantly in C677T methyltetrahydrofolate reductase single-nucleotide polymorphism carriers consulting for infertility. J Gynecol Obstet Hum Reprod. (2020) 49:101622. doi: 10.1016/j.jogoh.2019.08.005
+
+29. Goyco Ortiz LE, Servy EJ, Menezo YJR. A successful treatment with 5 methyltetrahydrofolate of a 677 TT MTHFR woman suffering premature ovarian insufficiency post a NHL (non-Hodgkin's lymphoma) and RPL (repeat pregnancy losses). J Assist Reprod Genet. (2019) 36:65–7. doi: 10.1007/s10815-018-1332-0
+
+30. Essmat A. Comparative study between the use of regular folic acid supplement versus the use of l-methyl folate in patients with methyl tetrahydrofolate reductase (MTHFR) gene mutation with recurrent pregnancy loss. Open J Obstet Gynecol. (2011) 11:1104–11. doi: 10.4236/ojog.2021.119103
+
+31. Branum AM, Bailey R, Singer BJ. Dietary supplement use and folate status during pregnancy in the United States. J Nutr. (2013) 143:486–92. doi: 10.3945/jn.112.169987
+
+32. Pfeiffer CM, Sternberg MR, Fazili Z, Yetley EA, Lacher DA, Bailey RL, et al. Unmetabolized folic acid is detected in nearly all serum samples from US children, adolescents, and adults. J Nutr. (2015) 145:520–31. doi: 10.3945/jn.114.201210
+
+33. Plumptre L, Masih SP, Ly A, Aufreiter S, Sohn K-J, Croxford R, et al. High concentrations of folate and unmetabolized folic acid in a cohort of pregnant Canadian women and umbilical cord blood. Am J Clin Nutr. (2015) 102:848–57. doi: 10.3945/ajcn.115.110783
+
+34. Sweeney MR, McPartlin J, Weir DG, Daly S, Pentieva K, Daly L, et al. Evidence of unmetabolised folic acid in cord blood of newborn and serum of 4-day-old infants. Br J Nutr. (2005) 94:727–30. doi: 10.1079/BJN20051572
+
+35. Tam C, O'Connor D, Koren G. Circulating unmetabolized folic acid: relationship to folate status and effect of supplementation. Obstet Gynecol Int. (2012) 2012:485179. doi: 10.1155/2012/485179
+
+36. Bailey SW, Ayling JE. The extremely slow and variable activity of dihydrofolate reductase in human liver and its implications for high folic acid intake. Proc Natl Acad Sci USA. (2009) 106:15424–9. doi: 10.1073/pnas.0902072106
+
+37. Cornet D, Clement A, Clement P, Menezo Y. High doses of folic acid induce a pseudo-methylenetetrahydrofolate syndrome. SAGE Open Med Case Rep. (2019) 7:2050313X19850435. doi: 10.1177/2050313X19850435
+
+38. Christensen KE, Mikael LG, Leung KY, Levesque N, Deng L, Wu Q, et al. High folic acid consumption leads to pseudo-MTHFR deficiency, altered lipid metabolism, and liver injury in mice. Am J Clin Nutr. (2015) 101:646–58. doi: 10.3945/ajcn.114.086603
+
+39. Cosín-Tomás M, Luan Y, Leclerc D, Malysheva OV, Lauzon N, Bahous RH, et al. Moderate folic acid supplementation in pregnant mice results in behavioral alterations in offspring with sex-specific changes in methyl metabolism. Nutrients. (2020) 12:1716. doi: 10.3390/nu12061716
+
+40. Page R, Robichaud A, Arbuckle TE, Fraser WD, MacFarlane AJ. Total folate and unmetabolized folic acid in the breast milk of a cross-section of Canadian women. Am J Clin Nutr. (2017) 105:1101–9. doi: 10.3945/ajcn.116.137968
+
+41. Fernández M, Javaid F, Chudasama V. Advances in targeting the folate receptor in the treatment/imaging of cancers. Chem Sci. (2018) 9:790–810. doi: 10.1039/C7SC04004K
+
+42. Hanley KZ, Horowitz IR, Gordon A, Meisel J, Khanna N. Folate receptor alpha is preferentially expressed in the carcinoma component of endometrial carcinosarcomas: a potential target for adjuvant therapy. Int J Gynecol Pathol. (2021) 40:501–9. doi: 10.1097/PGP.0000000000000736
+
+43. Paniz C, Bertinato JF, Lucena MR, De Carli E, da Silva Amorim PM, Wataru Gomes G, et al. A daily dose of 5 mg folic acid for 90 days is associated with increased serum unmetabolized folic acid and reduced natural killer cell cytotoxicity in healthy Brazilian adults. J Nutr. (2017) 147:1677–85. doi: 10.3945/jn.117.247445
+
+44. Sawaengsri H, Wang J, Reginaldo C, Steluti J, Wu D, Meydani SN, et al. High folic acid intake reduces natural killer cell cytotoxicity in aged mice. J Nutr Biochem. (2016) 30:102–7. doi: 10.1016/j.jnutbio.2015.12.006
+
+45. Troen AM, Mitchell B, Sorensen B, Wener MH, Johnston A, Wood B, et al. Unmetabolized folic acid in plasma is associated with reduced natural
+
+killer cell cytotoxicity among postmenopausal women. J Nutr. (2006) 136:189–94.
+doi: 10.1093/jn/136.1.189
+
+46. Deghan Manshadi S, Ishiguro L, Sohn KJ, Medline A, Renlund R, Croxford
+R, et al. Folic acid supplementation promotes mammary tumor progression
+in a rat model. PLoS ONE. (2014) 9:e84635. doi: 10.1371/journal.pone.008
+4635
+
+47. Mason JB, Dickstein A, Jacques PF, Haggarty P, Selhub J, Dallal G, et al. A
+temporal association between folic acid fortification and an increase in colorectal
+cancer rates may be illuminating important biological principles: a hypothesis.
+Cancer Epidemiol Biomarkers Prev. (2007) 16:1325–9. doi: 10.1158/1055-9965.EPI-
+07-0329
+
+48. Surén P, Roth C, Bresnahan M, Haugen M, Hornig M, Hirtz D, et al. Association
+between maternal use of folic acid supplements and risk of autism spectrum disorders
+in children. JAMA. (2013) 309:570–7. doi: 10.1001/jama.2012.155925
+
+49. Wiens D, DeSoto MC. Is high folic acid intake a risk factor for autism?-A review.
+Brain Sci. (2017) 7:149. doi: 10.3390/brainsci7110149
+
+50. Masih SP, Plumptre L, Ly A, Berger H, Lausman AY, Croxford R, et al. Pregnant
+Canadian women achieve recommended intakes of one-carbon nutrients through
+prenatal supplementation but the supplement composition, including choline, requires
+reconsideration. J Nutr. (2015) 145:1824–34. doi: 10.3945/jn.115.211300
+
+51. Gómez MF, Field CJ, Olstad DL, Loehr S, Ramage S, McCargar LJ, et al. Use
+of micronutrient supplements among pregnant women in Alberta: results from the
+Alberta pregnancy outcomes and nutrition (APrON) cohort. Matern Child Nutr. (2015)
+11:497–510. doi: 10.1111/mcn.12038
+
+52. Dubois L, Diasparra M, Bédard B, Colapinto CK, Fontaine-Bisson B, Morisset A-S,
+et al. Adequacy of nutritional intake from food and supplements in a cohort of pregnant
+women in Québec, Canada: the 3D cohort study (Design, Develop, Discover). Am J Clin
+Nutr. (2017) 106:541–8. doi: 10.3945/ajcn.117.155499
+
+Frontiers in Nutrition 12 frontiersin.org
+
+Finished pdfs/folate_2026_1679067.pdf in 25.39s
+OCR OF /Users/ubuntu/tmpresearch/creatine_folate/pdfs/folate_2026_1679067.pdf SAVED TO ./.pdfmds/pdfs-folate-2026-1679067-pdf-e203f26.txt
+end pdfs/folate_2026_1679067.pdf
+
+Page 3 done via google in 28.2s
+Page 4 done via google in 32.6s
+Writing to pdfs/columbia_Peters_EHP.pdf_cfef29.md
+Research
+A Section 508–conformant HTML version of this article
+is available at http://dx.doi.org/10.1289/ehp.1409396.
+
+# Folic Acid and Creatine as Therapeutic Approaches to Lower Blood Arsenic: A Randomized Controlled Trial
+
+Brandilyn A. Peters,1* Megan N. Hall,2* Xinhua Liu,3 Faruque Parvez,1 Tiffany R. Sanchez,1 Alexander van Geen,4 Jacob L. Mey,4 Abu B. Siddique,5 Hasan Shahriar,5 Mohammad Nasir Uddin,5 Tariqul Islam,5 Olgica Balac,1 Vesna Ilievski,1 Pam Factor-Litvak,2 Joseph H. Graziano,1 and Mary V. Gamble1
+
+1Department of Environmental Health Sciences, 2Department of Epidemiology, and 3Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, New York, USA; 4Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York, USA; 5Columbia University Arsenic Project in Bangladesh, Dhaka, Bangladesh
+
+BACKGROUND: The World Health Organization estimates that > 140 million people worldwide are exposed to arsenic (As)–contaminated drinking water. As undergoes biologic methylation, which facilitates renal As elimination. In folate-deficient individuals, this process is augmented by folic acid (FA) supplementation, thereby lowering blood As (bAs). Creatinine concentrations in urine are a robust predictor of As methylation patterns. Although the reasons for this are unclear, creatine synthesis is a major consumer of methyl donors, and this synthesis is down-regulated by dietary/ supplemental creatine.
+
+OBJECTIVES: Our aim was to determine whether 400 or 800 μg FA and/or creatine supplementation lowers bAs in an As-exposed Bangladeshi population.
+
+METHODS: We conducted a clinical trial in which 622 participants were randomized to receive 400 μg FA, 800 μg FA, 3 g creatine, 3 g creatine+400 μg FA, or placebo daily. All participants received an As-removal filter on enrollment, and were followed for 24 weeks. After the 12th week, half of the two FA groups were switched to placebo to evaluate post-treatment bAs patterns.
+
+RESULTS: Linear models with repeated measures indicated that the decline in ln(bAs) from baseline in the 800-μg FA group exceeded that of the placebo group (weeks 1–12: β= –0.09, 95% CI: –0.18, –0.01; weeks 13–24: FA continued: β= –0.12, 95% CI: –0.24, –0.00; FA switched to placebo: β= –0.14, 95% CI: –0.26, –0.02). There was no rebound in bAs related to cessation of FA supplementation. Declines in bAs observed in the remaining treatment arms were not significantly different from those of the placebo group.
+
+CONCLUSIONS: In this mixed folate-deficient/replete study population, 12- and 24-week treatment with 800 μg (but not 400 μg) FA lowered bAs to a greater extent than placebo; this was sustained 12 weeks after FA cessation. In future studies, we will evaluate whether FA and/or creatine altered As methylation profiles.
+
+CITATION: Peters BA, Hall MN, Liu X, Parvez F, Sanchez TR, van Geen A, Mey JL, Siddique AB, Shahriar H, Uddin MN, Islam T, Balac O, Ilievski V, Factor-Litvak P, Graziano JH, Gamble MV. 2015. Folic acid and creatine as therapeutic approaches to lower blood arsenic: a randomized controlled trial. Environ Health Perspect 123:1294–1301; http://dx.doi.org/10.1289/ehp.1409396
+
+## Introduction
+
+Chronic arsenic (As) exposure currently affects well over 140 million people in at least 70 countries worldwide. In Asia, at least 60 million people are at risk of chronic As exposure, of whom 35 million reside in Bangladesh (Kinniburgh and Smedley 2001). In a survey of 4,997 tube wells conducted in 2000 in our study region of Araihazar, Bangladesh, 72% of wells exceeded the World Health Organization maximum contaminant level for As of 10 μg/L (van Geen et al. 2002). A subsequent survey of the area 12 years later revealed that the number of wells had roughly doubled, with a similar proportion of contaminated wells (van Geen et al. 2014). Exposure to inorganic As (InAs) is associated with increased risk for cancers of the skin, lung, and bladder, as well as cardiovascular disease, respiratory illness, and neurologic deficits (National Research Council 2013).
+
+Arsenic is metabolized through a series of reactions in which arsenite (AsIII) is first methylated to form monomethylarsonic acid (MMAV). MMAV can be reduced to monomethylarsonous acid (MMAIII), which subsequently undergoes a second methylation, generating dimethylarsinic acid (DMAV) (Challenger 1945). The methylation reactions are catalyzed by As methyltransferase (AS3MT), with S-adenosylmethionine (SAM) as the methyl donor (Lin et al. 2002). Arsenic methylation plays a critical role in the elimination of As from tissue stores; AS3MT knockout mice treated with arsenate retain a significantly greater body burden of As, and excrete less As in urine, than wild-type mice (Hughes et al. 2010). Individuals with a higher percentage of MMAIII+V in urine (%uMMA) and a lower percentage of DMA in urine (%uDMA) have increased odds of bladder cancer, lung cancer, skin cancer, and skin lesions (Steinmaus et al. 2010). These findings suggest that complete methylation of As to DMA may reduce risk for As-related disease outcomes.
+
+SAM biosynthesis is regulated by one-carbon metabolism (Figure 1). This pathway is largely dependent on folate for recruitment of methyl groups; consequently, folate status is associated with individual variation in the ability to methylate As (Gamble et al. 2005b). Our previous survey of 1,650 adults in Bangladesh revealed a high prevalence of folate deficiency and hyperhomocysteinemia (Gamble et al. 2005a). In a 12-week randomized control trial (RCT), we demonstrated that supplementation of 400 μg/day folic acid (FA) to folate-deficient Bangladeshi adults significantly increased %uDMA, and lowered %uMMA and %uInAs as compared to placebo (Gamble et al. 2006). Moreover, FA supplementation resulted in a 14% reduction in blood As (bAs) and a 22% reduction in blood MMA (Gamble et al. 2007). In addition, in a nested case–control study we found folate deficiency to be associated with a 1.8 times higher odds [95% confidence interval (CI): 1.1, 2.9) of As-induced skin lesions (Pilsner et al. 2009). Collectively, these findings indicate that folate deficiency is a modifiable risk factor for As toxicity.
+
+Our group (Ahsan et al. 2007; Gamble and Liu 2005; Gamble et al. 2005b, 2006; Hall et al. 2009) and others (Basu et al. 2011; Kile et al. 2009; Nermell et al. 2008) have previously reported that urinary creatinine (uCrn) is a strong predictor of As methylation capacity; it is positively associated with
+
+*These authors contributed equally to this work.
+
+Address correspondence to M.V. Gamble, Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, 722 West 168th St., Room 1107E, New York, NY 10032 USA. Telephone: (212) 305-7949. E-mail: mvg7@cumc.columbia.edu
+
+Supplemental Material is available online (http://dx.doi.org/10.1289/ehp.1409396).
+
+We thank M. Reed, F. Nijhout, S. Hanson, and M. Khalil from Duke University for providing valuable insight based on their findings from mathematical models of one-carbon and arsenic metabolism. We also thank Y. Chen from New York University for providing an analysis of the effect of blood arsenic on the skin lesion incidence rate in HEALS for the Discussion. Finally, we thank the field workers and study participants in Bangladesh.
+
+This work was supported by funding from National Institutes of Health grants R01CA133595, P42ES10349, P30ES09089, and R00ES018890.
+
+The authors declare they have no actual or potential competing financial interests.
+
+Received: 29 October 2014; Accepted: 12 May 2015; Advance Publication: 15 May 2015; Final Publication: 1 December 2015.
+
+1294 VOLUME 123 | NUMBER 12 | December 2015 • Environmental Health Perspectives
+
+Folic acid and creatine for lowering blood arsenic
+
+%uDMA, and negatively associated with
+%uInAs. The synthesis of creatine, the
+precursor of creatinine, consumes approxi
+mately 50% of all SAM-derived methyl
+groups (Stead et al. 2006). In omnivores,
+roughly half of creatine requirements are met
+through dietary intake of creatine, primarily
+from meat (Brosnan et al. 2011). UCrn is
+therefore a reflection of both dietary creatine
+intake and endogenous creatine synthesis
+(Levey et al. 1988). It is also commonly used
+in urinalyses to adjust for hydration status.
+Dietary creatine intake lowers creatine
+biosynthesis in rodents by inhibiting synthesis
+of guanidinoacetate (GAA), the precursor
+of creatine, thereby sparing methyl groups
+and lowering total homocysteine (tHcys)
+(Guthmiller et al. 1994; Stead et al. 2001).
+We hypothesized that dietary creatine intake
+may also facilitate the methylation of As,
+and may underlie the observed associations
+between the %uAs metabolites and uCrn.
+
+In a new RCT, we sought to determine
+whether FA and/or creatine supplementa
+tion lowers bAs concentrations. Our primary
+objectives for this study were to determine
+whether a) 400-μg/day FA supplementation
+lowers bAs in the general population (both
+folate-deficient and -sufficient individuals),
+and whether a higher dose of FA (800 μg/day)
+provides an incremental benefit in lowering
+bAs; b) a rebound in bAs occurs after FA
+supplementation is ceased due to potential
+release of As from tissue stores; and c) bAs
+may also be lowered by reducing methylation
+demand (for endogenous creatine synthesis)
+via creatine supplementation.
+
+### Methods
+
+The region and participants. The Health
+Effects of Arsenic Longitudinal Study
+(HEALS) is a prospective cohort study that
+originally recruited 11,746 adults in 2000
+living within a 25-km2 region in Araihazar,
+Bangladesh (Ahsan et al. 2006). The partici
+pants for the current study were recruited
+from the HEALS cohort. Eligible participants
+for the HEALS cohort were married adults
+20–65 years of age who had been drinking
+from their current well for at least 3 years.
+For inclusion in the present study, the Folic
+Acid and Creatine Trial (FACT), participants
+were randomly selected from cohort partici
+pants who had been drinking from a house
+hold well having well water As > 50 μg/L for
+at least 1 year. Pregnant women, individuals
+taking nutritional supplements, individuals
+with protein in their urine, and individuals
+with known renal disease, diabetes, or gastro
+intestinal or other health problems were
+excluded from the study. Informed consent
+was obtained by our Bangladeshi field staff
+physicians. Ethical approval was obtained
+from the Institutional Review Board of
+
+Columbia University Medical Center and the
+Bangladesh Medical Research Council.
+
+Study design and fieldwork. We
+recruited 622 participants who were
+randomized to one of five treatment
+groups: placebo (n = 104), 400 μg FA/day
+(FA400; n = 156), 800 μg FA/day (FA800;
+n = 154), 3 g creatine/day (n = 104), and 3 g
+creatine/day+FA400/day (n = 104) (FA and
+creatine supplements supplied by Douglas
+Laboratories, Pittsburgh, PA). The FA400
+dose is based on the U.S. recommended
+dietary allowance (RDA) for adults, whereas
+the FA800 dose is twice the RDA (Institute of
+Medicine 1998). We based our creatine dose
+on the estimation of Brosnan et al. (2011) that
+the average creatine loss for a 20- to 39-year-old
+70-kg male is 14.6 mmol/day (~ 1.9 g/day),
+with the average creatine losses for women 80%
+of that of men (Brosnan et al. 2011); we there
+fore concluded that 3 g creatine/day should
+be sufficient to downregulate endogenous
+creatine synthesis.
+
+Randomization was performed separately
+for men and women and was conducted
+in blocks to ensure balance in the treat
+ment groups at any specific time. A total of
+12 participants were dropped over the course
+
+of the study for various reasons, including
+adverse events [n = 6; 1 in the placebo
+group (abdominal cramps), 1 in the FA400
+group (hypertension), 3 in the FA800 group
+(abdominal cramps; severe vertigo; bilateral
+hydronephrosis), 1 in the creatine group
+(severe vertigo)], pregnancy (n = 3; FA400,
+creatine group, and creatine+FA400 group),
+missing baseline blood sample (n = 1; creatine
+group), and dropout (n = 2; placebo group and
+FA400 group). The final sample size (n = 610)
+by treatment group was as follows: placebo
+(n = 102), FA400 (n = 153), FA800 (n = 151),
+creatine (n = 101), and creatine+FA400
+(n = 103). After week 12, the FA400 and
+FA800 groups were randomly divided so that
+half continued their assigned supplements
+[n = 77 in the FA400 group (FA400/FA),
+n = 77 in the FA800 group (FA800/FA)],
+and the other half received placebo [n = 76
+in the FA400 group (FA400/placebo), n = 74
+in the FA800 group (FA800/placebo)], for
+the remainder of the study until week 24
+(Figure 2). Also, after week 12, participants
+in the creatine and creatine+FA400 groups
+were switched to placebo to maintain the study
+blind while terminating the intervention for
+these participants.
+
+Figure 1. Overview of one-carbon metabolism. Folic acid (used in fortified foods and supplements) is reduced to dihydrofolate (DHF) and tetrahydrofolate (THF) by dihydrofolate reductase (DHFR). A methyl group is then transferred from serine to THF by serine hydroxymethyltransferase (SHMT), forming 5,10-methylene-THF and glycine. 5,10-methylene-THF can be reduced by 5,10-methylene tetrahydrofolate reductase (MTHFR) to 5-methyl-THF. The methyl group of 5-methyl-THF, the predominant naturally occurring form in dietary sources, is transferred to homocysteine by methionine synthase (MS), generating methionine and regenerating THF. Vitamin B12 is a cofactor for MS. Methionine can also be generated independently of folate and B12, by the action of betaine-homocysteine methyltransferase (BHMT), which transfers a methyl group from betaine to homocysteine. Methionine is then activated by methionine adenosyltransferase (MAT) to form S-adenosylmethionine (SAM), which serves as a universal methyl donor for numerous reactions, including the conversion of inorganic arsenic to methylated arsenicals (by arsenic methyltransferase; AS3MT), guanidinoacetate (GAA) to creatine (by guanidinoacetate methyltransferase; GAMT), and many others. The products of these methylation reactions are the methylated substrate and S-adenosylhomocysteine (SAH). SAH is subsequently hydrolyzed by SAH hydrolase (SAHH) to generate homocysteine. Homocysteine is then used either to regenerate methionine, or it is directed to the transsulfuration pathway.
+
+```jsonl
+{"source": "Folic acid", "target": "DHF", "enzyme": "DHFR"}
+{"source": "DHF", "target": "THF", "enzyme": "DHFR"}
+{"source": "Serine", "target": "5,10-methylene-THF", "enzyme": "SHMT"}
+{"source": "THF", "target": "5,10-methylene-THF", "enzyme": "SHMT"}
+{"source": "5,10-methylene-THF", "target": "Glycine", "enzyme": "SHMT"}
+{"source": "5,10-methylene-THF", "target": "5-methyl-THF", "enzyme": "MTHFR"}
+{"source": "5-methyl-THF (diet)", "target": "5-methyl-THF", "enzyme": null}
+{"source": "5-methyl-THF", "target": "THF", "enzyme": "MS (B-12)"}
+{"source": "Homocysteine", "target": "Methionine", "enzyme": "MS (B-12)"}
+{"source": "Betaine", "target": "Methionine", "enzyme": "BHMT"}
+{"source": "Homocysteine", "target": "Methionine", "enzyme": "BHMT"}
+{"source": "Methionine", "target": "SAM", "enzyme": "MAT"}
+{"source": "SAM", "target": "SAH", "enzyme": "AS3MT, GAMT"}
+{"source": "Substrate: arsenic, GAA", "target": "Product: MMA, DMA, creatine", "enzyme": "AS3MT, GAMT"}
+{"source": "SAH", "target": "Homocysteine", "enzyme": "SAHH"}
+{"source": "Homocysteine", "target": "Transsulfuration pathway", "enzyme": null}
+```
+
+Environmental Health Perspectives • VOLUME 123 | NUMBER 12 | December 2015 1295
+
+Peters et al.
+
+We refer to the first 12 weeks of the study
+as the “first phase” of the trial; the objective
+of the first phase was to determine treatment
+effects on bAs compared to placebo. We will
+refer to the period from week 12 to week 24
+as the “second phase” of the trial; the objective
+of the second phase was to determine whether
+a rebound in bAs occurs after cessation of FA
+supplementation, compared with participants
+who continue taking FA supplements.
+
+The primary outcome of the trial was
+bAs. Venous blood samples were collected
+at baseline, week 12, and week 24 for the
+measurement of bAs and other covariates
+[plasma folate, B12, homocysteine,
+creatine + creatinine (Cr+Crn), and GAA].
+Additionally, finger-stick blood samples
+were collected at weeks 1, 6, 13, and 18 for
+measurement of bAs.
+
+Five experienced teams, each having one
+interviewer and one physician (all specifically
+trained for this study) worked simultane-
+ously to recruit and follow study participants
+through house-to-house visits. These teams
+were responsible for all visits in which
+blood and urine samples were collected. All
+participants received a household-level arsenic
+removal water filter (READ-F filter; Brota
+Services International, Bangladesh), one of
+six types approved by the Bangladesh govern-
+ment (Government of Bangladesh and United
+Nations 2010), at baseline for the provision of
+low-As water (< 10 μg/L), and were instructed
+to exclusively use filtered water for all drinking
+and cooking purposes.
+
+Participants received and retained two
+bottles of pills at enrollment for the first
+phase: One bottle contained folate pills or
+folate-matched placebo pills, and the second
+bottle contained creatine or creatine-matched
+placebo pills. At week 12, participants
+received a third bottle of pills containing
+folate or folate-matched placebo pills for the
+second phase. Village health workers either
+witnessed or inquired about compliance on a
+daily basis. All bottles were retained and pill
+counts were conducted at the end of each
+phase of the study. Study investigators, field-
+work teams, village health workers, labora-
+tory technicians, and study participants were
+blinded to study treatment for the entire
+duration of the study.
+
+Sample collection and handling. Venous
+blood was collected into EDTA vacutainer
+tubes. We collected fingerstick blood at weeks
+1, 6, 13, and 18. Participants’ fingers were
+punctured with sterile lancets, and the first
+droplet of blood was wiped away; approxi-
+mately 500 μL of blood was then collected
+using BD Microtainer™ Plastic Capillary
+Blood Collectors. All samples were placed in
+IsoRack cool packs (Brinkmann Instruments)
+designed to maintain a sample temperature
+of 0°C for 6 hr; within 4 hr, samples were
+
+transported to our field clinic in Araihazar.
+Venous blood samples were centrifuged at
+3,000 × g for 10 min at 4°C, and plasma was
+separated from cells. Aliquots of whole blood
+and plasma, and fingerstick whole blood
+samples were stored at –80°C and shipped on
+dry ice to Columbia University for analysis.
+Urine samples were collected in 50-mL acid-
+washed polypropylene tubes, kept in portable
+coolers, frozen at –20°C within 4 hr, and
+similarly shipped on dry ice.
+
+Water arsenic. Nonfiltered water samples
+were tested at baseline to determine baseline As
+exposure. These water samples were collected
+in 20-mL polyethylene scintillation vials, and
+acidified to 1% with high-purity Optima HCl
+(Fisher Scientific) at least 48 hr before analysis
+(van Geen et al. 2007). Water samples were
+then analyzed by high-resolution inductively
+coupled plasma mass spectrometry after 1:10
+dilution and addition of a germanium spike
+to correct for fluctuations in instrument sensi-
+tivity. The detection limit of the method is
+typically < 0.2 μg/L. Intra- and interassay coef-
+ficients of variation (CVs) for water As were
+2% and 2.6%, respectively. Postfiltered water
+samples were tested in the field at baseline,
+week 12, and week 24 using Hach EZ Arsenic
+test kits to ensure As removal efficiency of
+filters. Approximately 45 filters were replaced
+fully or had repairs during the trial.
+
+Total urinary arsenic. Total urinary As was
+measured by graphite furnace atomic absorp-
+tion spectrophotometry using the AAnalyst
+600 graphite furnace system (PerkinElmer)
+(Nixon et al. 1991). Intra- and interassay CVs
+for urinary As were 3.1% and 5.4%, respec-
+tively. We used a method based on the Jaffe
+reaction (Slot 1965) to measure uCrn concen-
+trations. Intra- and interassay CVs for uCrn
+were 1.3% and 2.9%, respectively.
+
+Total blood arsenic. As previously
+described (Hall et al. 2006), a PerkinElmer
+Elan DRC II ICP-MS equipped with an AS
+
+93+ autosampler was used to analyze whole
+blood samples for total bAs concentrations.
+Intra- and interassay CVs for bAs were 2.7%
+and 5.7%, respectively.
+
+Folate and B12. Plasma folate and
+B12 were measured by radioimmunoassay
+(SimulTRAC-SNB; MP Biomedicals).
+Folate was measured in whole blood hemoly-
+sate by radioimmunoassay (SimulTRAC-S;
+MP Biomedicals), and red blood cell
+(RBC) folate was calculated by dividing by
+[%Hematocrit/100]. Intra- and interassay CVs
+were 5% and 13% for plasma folate, 6% and
+17% for plasma B12, and 4% and 9% for RBC
+folate, respectively. Plasma folate was measured
+for all treatment groups at baseline and 12 and
+24 weeks; RBC folate was measured only in
+the placebo, FA400, and FA800 groups.
+
+Plasma total homocysteine. Plasma tHcys
+concentrations were measured by high-
+performance liquid chromatography (HPLC)
+with fluorescence detection according to the
+method described by Pfeiffer et al. (1999).
+The intra- and interassay CVs for tHcys were
+5% and 7%, respectively.
+
+Plasma Cr+Crn and GAA. Plasma
+Cr+Crn and GAA were measured by HPLC
+with fluorescence detection according to the
+method described by Carducci et al. (2002).
+We used an Inertsil ODS-3 3-μm HPLC
+column 4.6 × 100 mm (GL Sciences Inc.)
+and an excitation and emission wavelengths
+of 335 and 435 nm, respectively. Intra- and
+interassay CVs for Cr+Crn were 7% and 9%,
+respectively, and for GAA were 8% and 9%,
+respectively. Plasma Cr+Crn and GAA were
+measured only in the placebo, creatine, and
+creatine+FA400 groups.
+
+Statistical analysis. We calculated
+summary statistics to describe the sample
+characteristics. To detect treatment group
+differences in the baseline variables, we used
+the chi-square test and the Kruskal–Wallis
+test for categorical and continuous variables,
+
+Figure 2. Overview of the FACT study design. At week 0 (baseline), all study participants were provided with arsenic removal water filters. Note changes in treatment at week 12. Dots (•) represent times of blood collection for the measurement of blood arsenic.
+
+```jsonl
+{"Treatment": "Placebo", "n": 102, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "Placebo", "Phase_2_Treatment": "Placebo", "Phase_2_n": 102}
+{"Treatment": "400 μg folic acid", "n": 153, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "400 μg folic acid", "Phase_2_Treatment": "400 μg FA", "Phase_2_n": 77}
+{"Treatment": "400 μg folic acid", "n": 153, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "400 μg folic acid", "Phase_2_Treatment": "placebo", "Phase_2_n": 76}
+{"Treatment": "800 μg folic acid", "n": 151, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "800 μg folic acid", "Phase_2_Treatment": "800 μg FA", "Phase_2_n": 77}
+{"Treatment": "800 μg folic acid", "n": 151, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "800 μg folic acid", "Phase_2_Treatment": "placebo", "Phase_2_n": 74}
+{"Treatment": "3 g creatine", "n": 101, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "3 g creatine", "Phase_2_Treatment": "placebo", "Phase_2_n": 101}
+{"Treatment": "3 g creatine + 400 μg folic acid", "n": 103, "Week_0": true, "Week_1": true, "Week_6": true, "Week_12": true, "Week_13": true, "Week_18": true, "Week_24": true, "Phase_1_Treatment": "3 g creatine + 400 μg folic acid", "Phase_2_Treatment": "placebo", "Phase_2_n": 103}
+```
+
+1296 VOLUME 123 | NUMBER 12 | December 2015 • Environmental Health Perspectives
+
+respectively. Blood As, our primary outcome
+of interest, had a skewed distribution. We
+applied a natural logarithmic transformation
+to bAs (hereafter called ln-bAs) to stabilize
+its variance and to reduce the impact of
+extreme values in the parametric model–based
+analysis. We calculated the geometric mean
+(anti-log–transformed mean of ln-bAs) at
+each time point to describe the treatment
+group specific time trend. The mean within-
+person difference in ln-bAs between two time
+points indicates the within-person change
+over the time interval, and the anti-log trans-
+formed mean difference is the ratio of the
+geometric means at these two time points.
+We calculated geometric mean ratios and
+95% CIs, by treatment group and time.
+We used the ratio of the geometric means
+at two specified time points (later/earlier) to
+determine the percent change in geometric
+mean of bAs over the time interval, using
+the equation: percent change = (geometric
+mean ratio – 1) × 100%. For example, a
+mean ratio of 0.90 implies a 10% decrease
+in the geometric mean, and a mean ratio of
+1.10 implies a 10% increase in the geometric
+mean. Because venous bAs and fingerstick
+bAs were highly correlated in a pilot sample
+(r = 0.99, n = 8), we used the fitted model
+and our fingerstick bAs measures to calculate
+venous bAs from fingerstick bAs at weeks 1,
+6, 13, and 18.
+
+The five first phase treatment groups
+were placebo, FA400, FA800, creatine, or
+creatine+FA400. The second phase compari-
+sons involved the five groups placebo/placebo,
+FA400/FA, FA400/placebo, FA800/FA,
+and FA800/placebo. We used two-sample
+
+t-tests to compare week-12 ln-bAs between
+the FA400/FA and FA400/placebo groups,
+and between the FA800/FA and FA800/
+placebo groups, in order to check for effec-
+tive randomization at week 12. In order to
+examine rebound in bAs related to cessation
+of FA supplements, we compared the change
+in ln-bAs from week 12 to week 24 between
+the FA400/FA and FA400/placebo groups,
+and between the FA800/FA and FA800/
+placebo groups, using two-sample t-tests.
+
+For our primary analysis, we modeled
+the treatment effect on bAs over the 24-week
+period using linear models with repeated-
+measures of ln-bAs. We included predic-
+tors for the pattern of time trend in placebo
+group, for the treatment groups, and for time
+by treatment interactions. The model param-
+eters for the interaction terms indicate the
+treatment group differences in mean change
+in ln-bAs over time. Generalized estimation
+equations (GEE), which use all available data
+and account for within-subject correlations in
+the repeated measures, were used to estimate
+the regression parameters.
+
+All analyses were performed as intent-to-
+treat. All statistical tests were two-sided with
+a significance level of 0.05. Analyses were
+conducted in R (version 3.1.0; R Core Team
+2014) and SAS (version 9.3; SAS Institute
+Inc., Cary, NC).
+
+Results
+
+Characteristics and compliance. Descriptive
+statistics for the sample characteristics are
+presented in Table 1. The treatment groups
+did not differ significantly at baseline on
+age, sex, history of smoking and betel nut
+
+use, body mass index, and sociodemographic
+indices such as education and land ownership.
+Additionally, the groups did not differ on
+nutritional variables including plasma folate,
+B12, tHcys, Cr+Crn, and GAA, nor on As
+exposure variables including water As, urinary
+As (micrograms per gram Cr), and bAs.
+
+Pill counts were conducted at the end of
+the first phase and second phase of the trial,
+and compliance for each participant was
+calculated as the percentage of study pills
+taken. Compliance did not differ substantially
+between treatment groups or between the first
+phase and second phase of the trial (data not
+shown). Over the course of the trial, partici-
+pants’ compliance ranged from 79.1% to
+100.0%, and the median (interquartile range)
+compliance was 99.5% (98.3%, 100.0%).
+
+Plots of the time trends in geometric
+means of plasma folate and RBC folate,
+reflecting compliance with FA supplementa-
+tion, are presented in Figure 3. As expected,
+plasma and RBC folate increased in both FA
+groups in the first phase of the trial, with a
+greater increase in the FA800 group than in
+the FA400 group. Additionally, participants
+who remained on FA supplementation in the
+second phase of the trial sustained the increase
+in plasma folate, whereas those who switched
+to placebo had a decrease in plasma folate
+in the second phase, returning close to the
+baseline concentration. RBC folate continued
+increasing during the second phase in partici-
+pants who remained on FA, and decreased
+in those who switched to placebo, although
+not returning to baseline concentrations. The
+creatine group had a time trend of plasma
+folate similar to that of the placebo group, and
+
+Table 1. Baseline characteristics of the participants in a folic acid and creatine randomized controlled trial.
+
+```jsonl
+{"Characteristic": "Age (years)", "Placebo (n = 102)": "38.0 ± 7.3b", "FA400 (μg) (n = 153)": "39.0 ± 8.0", "FA800 (μg) (n = 151)": "38.2 ± 8.1", "Creatine (n = 101)": "38.3 ± 8.2", "Creatine+FA400 (μg) (n = 103)": "38.0 ± 7.7", "p-Valuea": 0.85}
+{"Characteristic": "Male (%)", "Placebo (n = 102)": "50.0", "FA400 (μg) (n = 153)": "50.3", "FA800 (μg) (n = 151)": "49.7", "Creatine (n = 101)": "50.5", "Creatine+FA400 (μg) (n = 103)": "50.5", "p-Valuea": 0.99}
+{"Characteristic": "Smoking (%)c", "Placebo (n = 102)": "24.5", "FA400 (μg) (n = 153)": "23.8", "FA800 (μg) (n = 151)": "29.1", "Creatine (n = 101)": "28.7", "Creatine+FA400 (μg) (n = 103)": "30.1", "p-Valuea": 0.72}
+{"Characteristic": "Betel nut use (%)c", "Placebo (n = 102)": "28.4", "FA400 (μg) (n = 153)": "23.8", "FA800 (μg) (n = 151)": "24.5", "Creatine (n = 101)": "24.8", "Creatine+FA400 (μg) (n = 103)": "20.4", "p-Valuea": 0.77}
+{"Characteristic": "Education (years)", "Placebo (n = 102)": "3.5 ± 3.7", "FA400 (μg) (n = 153)": "3.3 ± 3.6", "FA800 (μg) (n = 151)": "3.5 ± 3.6", "Creatine (n = 101)": "3.3 ± 3.6", "Creatine+FA400 (μg) (n = 103)": "3.9 ± 4.1", "p-Valuea": 0.85}
+{"Characteristic": "Owns land (%)d", "Placebo (n = 102)": "46.1", "FA400 (μg) (n = 153)": "50.3", "FA800 (μg) (n = 151)": "48.3", "Creatine (n = 101)": "47.5", "Creatine+FA400 (μg) (n = 103)": "43.1", "p-Valuea": 0.85}
+{"Characteristic": "Body mass index (kg/m2)e", "Placebo (n = 102)": "20.4 ± 3.1", "FA400 (μg) (n = 153)": "19.5 ± 2.3", "FA800 (μg) (n = 151)": "19.8 ± 2.7", "Creatine (n = 101)": "20.0 ± 3.0", "Creatine+FA400 (μg) (n = 103)": "19.5 ± 2.5", "p-Valuea": 0.31}
+{"Characteristic": "Red blood cell folate (nmol/L)", "Placebo (n = 102)": "483.5 ± 189.0", "FA400 (μg) (n = 153)": "498.4 ± 332.8", "FA800 (μg) (n = 151)": "494.8 ± 172.8", "Creatine (n = 101)": "NAf", "Creatine+FA400 (μg) (n = 103)": "NAf", "p-Valuea": 0.66}
+{"Characteristic": "Plasma folate (nmol/L)", "Placebo (n = 102)": "16.6 ± 17.2", "FA400 (μg) (n = 153)": "16.7 ± 14.2", "FA800 (μg) (n = 151)": "17.9 ± 15.8", "Creatine (n = 101)": "16.0 ± 7.9", "Creatine+FA400 (μg) (n = 103)": "15.4 ± 8.7", "p-Valuea": 0.67}
+{"Characteristic": "Percent folate deficient (< 9 nmol/L in plasma)", "Placebo (n = 102)": "21.6", "FA400 (μg) (n = 153)": "23.5", "FA800 (μg) (n = 151)": "17.9", "Creatine (n = 101)": "13.9", "Creatine+FA400 (μg) (n = 103)": "20.4", "p-Valuea": 0.38}
+{"Characteristic": "Plasma B12 (pmol/L)", "Placebo (n = 102)": "225.0 ± 97.2", "FA400 (μg) (n = 153)": "246.4 ± 130.7", "FA800 (μg) (n = 151)": "248.3 ± 141.8", "Creatine (n = 101)": "255.9 ± 141.0", "Creatine+FA400 (μg) (n = 103)": "236.9 ± 121.0", "p-Valuea": 0.82}
+{"Characteristic": "Percent B12 deficient (< 151 pmol/L)", "Placebo (n = 102)": "24.5", "FA400 (μg) (n = 153)": "24.2", "FA800 (μg) (n = 151)": "25.8", "Creatine (n = 101)": "19.8", "Creatine+FA400 (μg) (n = 103)": "24.3", "p-Valuea": 0.87}
+{"Characteristic": "Plasma homocysteine (μmol/L)g", "Placebo (n = 102)": "13.9 ± 10.8", "FA400 (μg) (n = 153)": "13.6 ± 8.8", "FA800 (μg) (n = 151)": "13.6 ± 10.3", "Creatine (n = 101)": "12.4 ± 5.5", "Creatine+FA400 (μg) (n = 103)": "12.8 ± 5.6", "p-Valuea": 0.90}
+{"Characteristic": "Percent hyperhomocysteinemia (≥ 13 μmol/L)g", "Placebo (n = 102)": "42.2", "FA400 (μg) (n = 153)": "36.6", "FA800 (μg) (n = 151)": "39.3", "Creatine (n = 101)": "38.6", "Creatine+FA400 (μg) (n = 103)": "37.9", "p-Valuea": 0.93}
+{"Characteristic": "Plasma creatine + creatinine (μmol/L)", "Placebo (n = 102)": "81.3 ± 23.8", "FA400 (μg) (n = 153)": "NAh", "FA800 (μg) (n = 151)": "NAh", "Creatine (n = 101)": "77.3 ± 23.0", "Creatine+FA400 (μg) (n = 103)": "81.3 ± 28.5", "p-Valuea": 0.36}
+{"Characteristic": "Plasma guanidinoacetate (μmol/L)", "Placebo (n = 102)": "2.05 ± 0.66", "FA400 (μg) (n = 153)": "NAh", "FA800 (μg) (n = 151)": "NAh", "Creatine (n = 101)": "1.95 ± 0.57", "Creatine+FA400 (μg) (n = 103)": "1.98 ± 0.67", "p-Valuea": 0.57}
+{"Characteristic": "Water As (μg/L)i", "Placebo (n = 102)": "120.4 ± 80.2", "FA400 (μg) (n = 153)": "126.6 ± 83.9", "FA800 (μg) (n = 151)": "131.3 ± 141.6", "Creatine (n = 101)": "146.6 ± 181.2", "Creatine+FA400 (μg) (n = 103)": "124.6 ± 76.6", "p-Valuea": 0.93}
+{"Characteristic": "Urinary As (μg/L)", "Placebo (n = 102)": "137.8 ± 136.9", "FA400 (μg) (n = 153)": "160.0 ± 163.7", "FA800 (μg) (n = 151)": "145.3 ± 117.2", "Creatine (n = 101)": "180.0 ± 211.6", "Creatine+FA400 (μg) (n = 103)": "177.9 ± 155.1", "p-Valuea": 0.08}
+{"Characteristic": "Urinary As (μg/g Cr)", "Placebo (n = 102)": "303.5 ± 201.8", "FA400 (μg) (n = 153)": "339.5 ± 325.0", "FA800 (μg) (n = 151)": "307.4 ± 182.0", "Creatine (n = 101)": "328.2 ± 252.6", "Creatine+FA400 (μg) (n = 103)": "312.1 ± 164.4", "p-Valuea": 0.75}
+{"Characteristic": "Blood As (μg/L)", "Placebo (n = 102)": "9.7 ± 5.7", "FA400 (μg) (n = 153)": "11.0 ± 9.8", "FA800 (μg) (n = 151)": "10.0 ± 5.4", "Creatine (n = 101)": "10.7 ± 8.2", "Creatine+FA400 (μg) (n = 103)": "10.5 ± 5.3", "p-Valuea": 0.64}
+{"Characteristic": "Urinary creatinine (mg/dL)", "Placebo (n = 102)": "48.8 ± 35.1", "FA400 (μg) (n = 153)": "57.7 ± 45.2", "FA800 (μg) (n = 151)": "53.8 ± 41.3", "Creatine (n = 101)": "57.3 ± 36.7", "Creatine+FA400 (μg) (n = 103)": "62.4 ± 47.2", "p-Valuea": 0.26}
+```
+
+NA, not available. Values are percent or mean ± SD.
+aKruskal–Wallis test was used for continuous variables, and chi-squared test for categorical variables. bX– ± SD (all such values). cFA400 n = 151. dCr+FA n = 102. ePlacebo n = 101,
+FA400 n = 150, FA800 n = 148, Cr n = 98, Cr+FA n = 102. fRBC folate only measured in placebo (n = 100), FA400 (n = 149), and FA800 (n = 148) groups. gFA800 n = 150. hCreatine+creatinine
+and guanidinoacetate only measured in placebo (n = 101), creatine (n = 101), and Cr+FA400 (n = 102) groups. iPlacebo n = 99, FA400 n = 152, Cr+FA n = 100.
+
+Environmental Health Perspectives • volume 123 | number 12 | December 2015 1297
+
+the creatine+FA400 group had a time trend
+of plasma folate similar to the FA400 group
+(data not shown). The prevalence of folate defi-
+ciency (plasma folate < 9 nmol/L) decreased
+to < 1.5% at week 12 in groups receiving FA
+(compared with 17.9–23.5% at baseline),
+while not decreasing substantially in the
+placebo or creatine group (data not shown).
+
+The within-person increases in plasma
+Cr+Crn (micromoles per liter) from
+baseline to week 12 in the creatine-treated
+groups (57.9 ± 80.1 in the creatine group,
+51.6 ± 62.7 in the creatine+FA400 group,
+–2.1 ± 18.9 in the placebo group) also indi-
+cated high compliance with creatine supple-
+mentation. Additionally, both the creatine
+and creatine+FA400 groups experienced
+significant within-person declines in plasma
+GAA (micromoles per liter) from baseline
+to week 12, whereas the placebo group did
+not (–0.19 ± 0.54 in the creatine group,
+–0.17 ± 0.59 in the creatine+FA400 group,
+0.06 ± 0.48 in the placebo group).
+
+Description of treatment effects in the first
+phase. Table 2 presents geometric means of
+bAs and the % change in bAs from baseline
+to each follow-up time, along with 95% CIs,
+in the first phase of the study. After enroll-
+ment and following provision of an As
+removal filter, the geometric mean of bAs in
+the placebo group decreased through week 6,
+and then increased for the duration of the
+study (Tables 2 and 3). The other treatment
+arms had similar patterns in the geometric
+mean of bAs over time to that of the placebo
+group. A similar pattern was observed for
+urinary As (micrograms per gram creati-
+nine) over time (see Supplemental Material,
+Table S1). FA800 was the only treatment
+group to attain lower geometric mean bAs
+than the placebo group at any follow-up time
+point (Tables 2 and 3). Additionally, the
+FA800 group had a greater percent decline in
+geometric mean bAs from baseline than the
+placebo group at the end of weeks 1, 6, and
+12 (Table 2).
+
+Description of treatment effects in the
+second phase. Table 3 presents geometric
+means of bAs, and the percent change in
+bAs from week 12 to a follow-up time,
+along with 95% CIs, in the second phase of
+the study. Mean ln-bAs at week 12 did not
+differ significantly between the FA400/FA and
+FA400/placebo groups (p = 0.73) or between
+the FA800/FA and FA800/placebo groups
+(p = 0.53). The percent change in geometric
+mean of bAs since week 12 did not differ
+significantly between the groups with and
+without continuation of FA supplements
+(i.e., FA400/FA vs. FA400/placebo and
+FA800/FA vs. FA800/placebo). Likewise,
+the percent change in geometric mean of
+urinary As (micrograms per gram creatinine)
+since week 12 did not differ significantly
+between the FA400/FA and FA400/placebo
+groups, and the FA800/FA and FA800/
+placebo groups (see Supplemental Material,
+Table S2). These patterns suggest that there
+was no rebound in bAs related to cessation of
+
+Figure 3. Plot of geometric mean (95% CI) plasma and red blood cell folate (nmol/L) by treatment group and time in the first phase and second phase of the trial.
+In the second phase, there are two values (white and black shapes) for each folic acid group: the white shapes represent the subset of participants in the folic
+acid groups that continued on folic acid, and the black shapes represent the subset of the participants in the folic acid groups that switched to placebo. Blood
+for measurement of folate was collected only at baseline, week 12, and week 24; intermediate time points are not available; therefore, the lines do not represent
+linear trends.
+
+```jsonl
+{"series": "Placebo", "phase": "First phase", "Weeks": 0, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 480}
+{"series": "Placebo", "phase": "First phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 14, "Geometric mean RBC folate (nmol/L)": 500}
+{"series": "Placebo", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 14, "Geometric mean RBC folate (nmol/L)": 500}
+{"series": "Placebo", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 490}
+{"series": "400 µg folic acid", "phase": "First phase", "Weeks": 0, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 480}
+{"series": "400 µg folic acid", "phase": "First phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 32, "Geometric mean RBC folate (nmol/L)": 750}
+{"series": "400 µg folic acid", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 32, "Geometric mean RBC folate (nmol/L)": 750}
+{"series": "400 µg folic acid", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 31, "Geometric mean RBC folate (nmol/L)": 880}
+{"series": "400 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 32, "Geometric mean RBC folate (nmol/L)": 750}
+{"series": "400 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 15, "Geometric mean RBC folate (nmol/L)": 620}
+{"series": "800 µg folic acid", "phase": "First phase", "Weeks": 0, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 480}
+{"series": "800 µg folic acid", "phase": "First phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 62, "Geometric mean RBC folate (nmol/L)": 1000}
+{"series": "800 µg folic acid", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 62, "Geometric mean RBC folate (nmol/L)": 1000}
+{"series": "800 µg folic acid", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 46, "Geometric mean RBC folate (nmol/L)": 1200}
+{"series": "800 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 62, "Geometric mean RBC folate (nmol/L)": 1000}
+{"series": "800 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 16, "Geometric mean RBC folate (nmol/L)": 700}
+```
+
+Table 2. Geometric mean (95% CI) of blood arsenic (µg/L) and the percent change in blood arsenic from baseline to week 12 by first phase treatment group.
+
+```jsonl
+{"Time or time comparison": "Baseline", "Statistic": "Mean (95% CI)", "Placebo": "8.32 (7.42, 9.32)\n(n = 102)", "FA400 (µg)": "8.73 (7.89, 9.66)\n(n = 153)", "FA800 (µg)": "8.72 (8.00, 9.50)\n(n = 151)", "Creatine": "8.73 (7.72, 9.87)\n(n = 101)", "Creatine+FA400 (µg)": "9.26 (8.38, 10.24)\n(n = 103)"}
+{"Time or time comparison": "Week 1", "Statistic": "Mean (95% CI)", "Placebo": "6.40 (5.74, 7.14)\n(n = 102)", "FA400 (µg)": "6.88 (6.18, 7.66)\n(n = 151)", "FA800 (µg)": "6.20 (5.71, 6.74)\n(n = 151)", "Creatine": "6.54 (5.83, 7.33)\n(n = 101)", "Creatine+FA400 (µg)": "6.84 (6.18, 7.58)\n(n = 102)"}
+{"Time or time comparison": "Week 6", "Statistic": "Mean (95% CI)", "Placebo": "6.20 (5.43, 7.09)\n(n = 102)", "FA400 (µg)": "6.93 (6.17, 7.79)\n(n = 153)", "FA800 (µg)": "5.86 (5.33, 6.43)\n(n = 151)", "Creatine": "6.70 (5.92, 7.59)\n(n = 101)", "Creatine+FA400 (µg)": "7.09 (6.28, 8.01)\n(n = 103)"}
+{"Time or time comparison": "Week 12", "Statistic": "Mean (95% CI)", "Placebo": "7.62 (6.72, 8.64)\n(n = 101)", "FA400 (µg)": "8.40 (7.55, 9.36)\n(n = 153)", "FA800 (µg)": "7.19 (6.56, 7.87)\n(n = 150)", "Creatine": "8.12 (7.20, 9.15)\n(n = 101)", "Creatine+FA400 (µg)": "7.96 (7.04, 9.00)\n(n = 103)"}
+{"Time or time comparison": "Week 1 vs. baseline", "Statistic": "Percent change (95% CI)a", "Placebo": "–23.0 (–26.6, –19.3)\n(n = 102)", "FA400 (µg)": "–21.2 (–24.4, –17.8)\n(n = 151)", "FA800 (µg)": "–28.9 (–31.8, –25.8)\n(n = 151)", "Creatine": "–25.1 (–28.6, –21.4)\n(n = 101)", "Creatine+FA400 (µg)": "–25.6 (–29.7, –21.2)\n(n = 102)"}
+{"Time or time comparison": "Week 6 vs. baseline", "Statistic": "Percent change (95% CI)", "Placebo": "–25.4 (–31.5, –18.8)\n(n = 102)", "FA400 (µg)": "–20.6 (–26.3, –14.5)\n(n = 153)", "FA800 (µg)": "–32.8 (–38.0, –27.3)\n(n = 151)", "Creatine": "–23.2 (–29.5, –16.3)\n(n = 101)", "Creatine+FA400 (µg)": "–23.5 (–30.8, –15.3)\n(n = 103)"}
+{"Time or time comparison": "Week 12 vs. baseline", "Statistic": "Percent change (95% CI)", "Placebo": "–9.5 (–16.5, –1.8)\n(n = 101)", "FA400 (µg)": "–3.7 (–10.7, 3.8)\n(n = 153)", "FA800 (µg)": "–17.8 (–25.0, –9.8)\n(n = 150)", "Creatine": "–7.0 (–14.8, 1.5)\n(n = 101)", "Creatine+FA400 (µg)": "–14.0 (–22.2, –5.0)\n(n = 103)"}
+```
+
+aPercent change = (geometric mean ratio – 1) × 100.
+
+FA supplementation. Because the FA800/FA
+and FA800/placebo groups were the only
+groups to maintain a lower geometric mean
+bAs than the placebo group at every follow-
+up time point, and because there was no
+evidence of a rebound in bAs related to cessa-
+tion of FA supplementation, we conducted
+a secondary analysis in which we combined
+the FA800/FA and FA800/placebo groups in
+the second phase of the study. Overall, the
+combined FA800 groups had a greater within-
+person decline in bAs since baseline (–12.3%;
+95% CI: –19.6%, –4.3%) than the placebo
+group (–2.3%; 95% CI: –8.6%, 4.4%) at the
+end of the 24 weeks (p = 0.05).
+
+Modeling the treatment effect in the
+FA800 group. We observed that the
+geometric means of bAs after baseline in the
+FA800 group were consistently lower than in
+the placebo group, with a parallel pattern of
+trend (Figure 4). We applied linear models
+with repeated measures of ln-bAs using all
+time points in order to evaluate the treatment
+effect of FA800 over 24 weeks. The estimated
+parameters of the initial model with categor-
+ical variables for time, treatment group, and
+time by treatment interaction, suggested a
+model simplification using fewer main effect
+parameters to describe the time trend of
+ln-bAs in the placebo group, and using fewer
+interaction terms for the treatment group
+differences in the time trend. The geometric
+means of bAs over time were all close to the
+model-based estimates, suggesting that the
+model fit the data well (Figure 4). Given the
+model parameters, we estimated the group
+mean difference in ln-bAs change since
+baseline in the first phase (difference = –0.09,
+95% CI: –0.18, –0.01, p = 0.03) (Table 4),
+which indicated that the average decline in
+ln-bAs from baseline in the FA800 group
+was greater than in the placebo group. In
+the second phase, compared to the change
+in ln-bAs since baseline in the placebo group,
+the two FA800 groups had significantly
+greater reductions in ln-bAs since baseline
+
+(FA800/FA: difference = –0.12, 95% CI:
+–0.24, –0.00, p = 0.04; FA800/placebo:
+difference = –0.14, 95% CI: –0.26, –0.02,
+p = 0.02). The small difference in the
+change in ln-bAs since baseline between the
+FA800/FA group and the FA800/placebo
+group was not statistically significant (differ-
+ence = 0.02, 95% CI: –0.09, 0.12, p = 0.72),
+indicating a lack of bAs rebound in the
+FA800/placebo group.
+
+Discussion
+
+Supplementation of 800 μg FA/day to a study
+population comprised of both folate-deficient
+and -sufficient individuals lowered bAs to a
+greater extent than placebo over the course
+
+of this 24-week randomized clinical trial.
+This result is in accordance with our previous
+clinical trial in folate-deficient adults, in
+which As-removal filters were not provided
+and supplementation with 400 μg FA
+lowered bAs to a greater extent than placebo
+over 12 weeks (Gamble et al. 2007). The
+enhanced decline in bAs related to 800-μg
+FA supplementation was observed as early as
+1 week after supplementation began, which
+is also in accordance with the enhanced As
+methylation observed after 1 week of supple-
+mentation with 400 μg FA in our previous
+clinical trial in folate-deficient adults (Gamble
+et al. 2006). Additionally, the magnitude of
+the reduction in bAs (mean within-person
+
+Figure 4. Plot of geometric mean blood arsenic (μg/L) in the placebo group and 800-μg folic acid group by
+week of treatment. Symbols represent raw means, and lines connect the predicted means from a linear
+model with repeated measures of ln-blood As.
+
+```jsonl
+{"series": "Placebo (raw mean)", "x": 0, "y": 8.5}
+{"series": "Placebo (raw mean)", "x": 1, "y": 8.5}
+{"series": "Placebo (raw mean)", "x": 6, "y": 8.5}
+{"series": "Placebo (raw mean)", "x": 12, "y": 7.6}
+{"series": "Placebo (raw mean)", "x": 13, "y": 7.4}
+{"series": "Placebo (raw mean)", "x": 18, "y": 7.9}
+{"series": "Placebo (raw mean)", "x": 24, "y": 8.1}
+{"series": "800 μg folic acid (raw mean)", "x": 0, "y": 8.8}
+{"series": "800 μg folic acid (raw mean)", "x": 1, "y": 7.0}
+{"series": "800 μg folic acid (raw mean)", "x": 6, "y": 6.7}
+{"series": "800 μg folic acid (raw mean)", "x": 12, "y": 7.4}
+{"series": "800 μg folic acid (raw mean)", "x": 13, "y": 7.0}
+{"series": "800 μg folic acid (raw mean)", "x": 18, "y": 6.9}
+{"series": "800 μg folic acid (raw mean)", "x": 24, "y": 7.7}
+{"series": "800 μg folic acid switched to placebo (raw mean)", "x": 13, "y": 6.7}
+{"series": "800 μg folic acid switched to placebo (raw mean)", "x": 18, "y": 7.0}
+{"series": "800 μg folic acid switched to placebo (raw mean)", "x": 24, "y": 7.6}
+{"series": "Model prediction for placebo", "x": 0, "y": 8.5}
+{"series": "Model prediction for placebo", "x": 1, "y": 8.5}
+{"series": "Model prediction for placebo", "x": 6, "y": 8.5}
+{"series": "Model prediction for placebo", "x": 12, "y": 7.6}
+{"series": "Model prediction for placebo", "x": 13, "y": 7.4}
+{"series": "Model prediction for placebo", "x": 18, "y": 7.9}
+{"series": "Model prediction for placebo", "x": 24, "y": 8.1}
+{"series": "Model prediction for 800 μg folic acid", "x": 0, "y": 8.8}
+{"series": "Model prediction for 800 μg folic acid", "x": 1, "y": 7.0}
+{"series": "Model prediction for 800 μg folic acid", "x": 6, "y": 6.7}
+{"series": "Model prediction for 800 μg folic acid", "x": 12, "y": 7.4}
+{"series": "Model prediction for 800 μg folic acid", "x": 13, "y": 7.0}
+{"series": "Model prediction for 800 μg folic acid", "x": 18, "y": 6.9}
+{"series": "Model prediction for 800 μg folic acid", "x": 24, "y": 7.7}
+{"series": "Model prediction for 800 μg folic acid switched to placebo", "x": 13, "y": 6.7}
+{"series": "Model prediction for 800 μg folic acid switched to placebo", "x": 18, "y": 7.0}
+{"series": "Model prediction for 800 μg folic acid switched to placebo", "x": 24, "y": 7.6}
+```
+
+Table 4. Group mean difference in ln-blood As decline since baseline estimated from repeated measures
+model.a
+
+```jsonl
+{"Time period": "Week 1–12", "Group comparison": "FA800 vs. placebo", "Group mean difference\nin ln-bAs decline from baseline (95% CI)": "–0.09 (–0.18, –0.01)", "p-Value": 0.03}
+{"Time period": "Week 13–24", "Group comparison": "FA800/placebo vs. placebo", "Group mean difference\nin ln-bAs decline from baseline (95% CI)": "–0.14 (–0.26, –0.02)", "p-Value": 0.02}
+{"Time period": null, "Group comparison": "FA800/FA vs. placebo", "Group mean difference\nin ln-bAs decline from baseline (95% CI)": "–0.12 (–0.24, –0.00)", "p-Value": 0.04}
+{"Time period": null, "Group comparison": "FA800/FA vs. FA800/placebo", "Group mean difference\nin ln-bAs decline from baseline (95% CI)": "0.02 (–0.09, 0.12)", "p-Value": 0.72}
+```
+
+aThe model parameters: six for the time trend in the placebo group, one for the difference between FA800 and placebo
+groups, and three for the time by treatment group interactions to describe the differences in the time trend between the
+FA800 group(s) and the placebo group. No other covariates were adjusted for in this model.
+
+Table 3. Geometric mean (95% CI) of blood arsenic (μg/L) and the percent change in blood arsenic from week 12 to week 24 by second phase treatment group.
+
+```jsonl
+{"Time or time comparison": "Week 12", "Statistic": "Mean (95% CI)", "Placebo": "7.62 (6.72, 8.64)\n(n = 101)", "FA400 (μg)\ncontinued": "8.56 (7.33, 10.00)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "8.25 (7.09, 9.60)\n(n = 76)", "FA800 (μg)\ncontinued": "7.39 (6.56, 8.33)\n(n = 77)", "FA800 (μg)\nswitched to placebo": "6.97 (6.05, 8.04)\n(n = 73)"}
+{"Time or time comparison": "Week 13", "Statistic": "Mean (95% CI)", "Placebo": "7.37 (6.50, 8.35)\n(n = 102)", "FA400 (μg)\ncontinued": "8.22 (6.93, 9.76)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "8.28 (6.99, 9.82)\n(n = 75)", "FA800 (μg)\ncontinued": "7.04 (6.21, 7.99)\n(n = 77)", "FA800 (μg)\nswitched to placebo": "6.65 (5.73, 7.72)\n(n = 73)"}
+{"Time or time comparison": "Week 18", "Statistic": "Mean (95% CI)", "Placebo": "7.89 (6.96, 8.95)\n(n = 102)", "FA400 (μg)\ncontinued": "8.01 (6.77, 9.48)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "8.27 (7.06, 9.69)\n(n = 75)", "FA800 (μg)\ncontinued": "6.91 (5.90, 8.10)\n(n = 74)", "FA800 (μg)\nswitched to placebo": "7.04 (6.07, 8.15)\n(n = 74)"}
+{"Time or time comparison": "Week 24", "Statistic": "Mean (95% CI)", "Placebo": "8.12 (7.23, 9.13)\n(n = 102)", "FA400 (μg)\ncontinued": "8.52 (7.30, 9.95)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "8.15 (7.02, 9.46)\n(n = 74)", "FA800 (μg)\ncontinued": "7.69 (6.60, 8.96)\n(n = 76)", "FA800 (μg)\nswitched to placebo": "7.62 (6.66, 8.73)\n(n = 74)"}
+{"Time or time comparison": "Week 13 vs. Week 12", "Statistic": "Percent change (95% CI)a", "Placebo": "–2.4 (–6.7, 2.0)\n(n = 101)", "FA400 (μg)\ncontinued": "–4.0 (–8.8, 1.1)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "0.1 (–5.3, 5.7)\n(n = 75)", "FA800 (μg)\ncontinued": "–4.7 (–9.1, –0.1)\n(n = 77)", "FA800 (μg)\nswitched to placebo": "–5.0 (–9.6, –0.1)\n(n = 72)"}
+{"Time or time comparison": "Week 18 vs. Week 12", "Statistic": "Percent change (95% CI)", "Placebo": "4.3 (–2.9, 12.1)\n(n = 101)", "FA400 (μg)\ncontinued": "–6.4 (–13.8, 1.5)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "–0.5 (–9.2, 9.0)\n(n = 75)", "FA800 (μg)\ncontinued": "–5.8 (–14.5, 3.7)\n(n = 74)", "FA800 (μg)\nswitched to placebo": "0.8 (–7.9, 10.4)\n(n = 73)"}
+{"Time or time comparison": "Week 24 vs. Week 12", "Statistic": "Percent change (95% CI)", "Placebo": "7.8 (0.0, 16.2)\n(n = 101)", "FA400 (μg)\ncontinued": "–0.4 (–10.9, 11.3)\n(n = 77)", "FA400 (μg)\nswitched to placebo": "–0.8 (–12.5, 12.4)\n(n = 74)", "FA800 (μg)\ncontinued": "3.8 (–5.8, 14.5)\n(n = 76)", "FA800 (μg)\nswitched to placebo": "9.1 (–2.3, 21.7)\n(n = 73)"}
+```
+
+aPercent change = (geometric mean ratio – 1) × 100.
+
+Environmental Health Perspectives • VOLUME 123 | NUMBER 12 | December 2015 1299
+
+decline of 12%) is similar to that observed in
+our previous clinical trial (14%). Synthesis
+of SAM, the methyl donor for As methyla-
+tion, relies on folate-dependent one-carbon
+metabolism (Figure 1). By increasing meth-
+ylation of InAs to DMA, folate facilitates
+the elimination of As in urine, resulting in a
+lowering of bAs (Gamble et al. 2007). The
+finding that FA has a beneficial effect in the
+general Bangladeshi population even beyond
+the effect of As remediation alone has great
+public health significance. For example, on
+the basis of a prospective study of bAs and
+incident skin lesions in Bangladesh (Hall
+et al. 2006), we have calculated that a 12%
+decline in bAs (as observed in the FA800
+group) would be associated with an 8.2%
+decline (95% CI: 5.8%, 10.5%) in the inci-
+dence rate of skin lesions.
+
+We did not observe that cessation of
+FA supplementation at week 12 was associ-
+ated with a rebound in bAs, compared with
+remaining on FA supplementation. This indi-
+cates that the decline in bAs achieved with
+12 weeks of supplementation with FA800
+was sustained up to 12 weeks after supple-
+mentation had ceased. Although plasma folate
+returned to near baseline levels by week 24
+in the FA800/placebo group, RBC folate
+remained elevated substantially above baseline
+levels. Plasma folate is highly responsive to
+recent intake of folate, whereas RBC folate
+is more indicative of long-term folate status
+and tissue folate stores (Institute of Medicine
+1998). Because the liver is the primary site
+of As metabolism (Drobná et al. 2010), it is
+possible that liver folate, like RBC folate, was
+sustained after cessation of FA supplementa-
+tion, resulting in a sustained lowering of bAs
+in the FA800/placebo group. Alternatively,
+we may not have been able to detect a
+rebound in bAs after week 12 related to cessa-
+tion of FA800 because of the increase in bAs
+after week 6 in all treatment groups (discussed
+in further detail below).
+
+FA400, creatine, and creatine+FA400
+were not effective in lowering bAs to a greater
+extent than the placebo group over the course
+of the trial. The reason that FA400 did not
+lower bAs in this study may be an issue of
+insufficient dose, because we did observe
+that FA800 decreased bAs from baseline to a
+greater extent than placebo. Plots of bAs over
+time stratified by folate deficiency (plasma
+folate < 9 nmol/L) suggest that FA400 may
+have been effective in lowering bAs in folate-
+deficient individuals (data not shown), as we
+have observed in our previous trial in folate-
+deficient adults (Gamble et al. 2007). This
+was solely an exploratory analysis, because the
+sample sizes in the folate-deficient subgroups
+were small (placebo n = 22, FA400 n = 36,
+FA800 n = 27), and we did not have adequate
+statistical power to perform stratified analyses.
+
+Because of the strong positive association
+between uCrn and As methylation observed
+in many of our studies and those of others,
+and the knowledge that supplemental creatine
+downregulates creatine biosynthesis in rodents
+(Stead et al. 2001), we had hypothesized
+that creatine supplementation would “spare”
+SAM and thereby enhance As methylation
+and lower bAs. However, we did not observe
+that supplementation with 3 g creatine/day
+lowered bAs to a greater extent than placebo.
+It seems unlikely that this may also be an issue
+of insufficient dose, because we observed a
+significant decrease in plasma GAA in the
+creatine groups, indicating downregulation
+of endogenous creatine synthesis. However,
+the functional effect of this down-regulation
+may be smaller than anticipated due to
+long-range allosteric interactions that tightly
+regulate hepatic SAM concentrations (Wagner
+et al. 1985).
+
+FA supplementation is a very prom-
+ising nutritional intervention for lowering
+bAs; however, there may yet be “room for
+improvement” in enhancing As methylation,
+because AS3MT activity is unlikely to reach a
+plateau at physiological SAM concentrations
+[based on in vitro AS3MT activity (Song et al.
+2010) and liver SAM concentrations in rats
+(Finkelstein et al. 1982)]. Because FA is not
+a methyl donor per se, but rather recruits a
+methyl group to serve as a cofactor for remeth-
+ylation of homocysteine to methionine, FA
+cannot increase SAM if methyl groups are
+limiting (Benevenga 2007). Future studies
+should examine whether supplementation
+with 5-methyltetrahydrofolate, or co-supple-
+mentation with methyl donors such as choline
+or betaine, can provide an additional benefit
+in lowering bAs.
+
+All treatment groups experienced a
+rebound in mean bAs after week 6. This was
+unexpected, given that As exposure had ceased
+at the beginning of the study with the use of
+water filters. The most likely explanation for
+this occurrence is that there was a decline in
+compliance of filter usage. A survey adminis-
+tered to the study participants approximately
+1.5 years after the end of the clinical trial
+revealed that most (95%) had stopped using
+their filters by then because the filter flow rates
+had declined. Additionally, in an 11-week pilot
+study of n = 12 As-exposed Bangladeshi adults
+drinking bottled water supplied by our field
+staff, a rebound in bAs was not observed after
+the initial decline in bAs, further suggesting
+an issue with filter compliance in the current
+study. Alternatively, we cannot rule out other
+possibilities such as release of As from tissue
+stores (e.g., bone) following reduction in As
+exposure, given that there is some evidence
+that As may influence bone turnover (Hu et al.
+2012; Wu et al. 2014). Although the explana-
+tion for the rebound in bAs is not clear at this
+
+time, our findings do suggest that provision of
+costly individual household-use water filters
+does not represent a feasible long term solution
+for the As problem in a real-world setting.
+
+Conclusions
+
+Although removing exposure to As is the
+primary prevention approach for As-induced
+diseases, massive exposure reduction is compli-
+cated by the high cost of water filters and their
+monitoring and maintenance, the limited
+effectiveness of water filters in real-world
+settings, and the limited availability of low
+As wells in some regions. Additionally, long-
+term chronic exposure to As may lead to an
+increased body burden of As that persists long
+after exposure is removed (National Research
+Council 2013). Nutritional supplementation
+presents a low-risk and low-cost preventative
+treatment option for populations with past
+exposure who are still at risk for As-induced
+disease (Smith et al. 2012), and perhaps for
+populations currently exposed to As. We have
+demonstrated that even with provision of
+As-removal water filters, supplementation with
+800 μg FA lowered bAs to a greater extent
+than placebo. Future studies should examine
+the impact of folate supplementation on risk
+for As-induced diseases. Although at least 57
+countries worldwide currently have manda-
+tory folate fortification in place in accordance
+with World Health Organization guidelines
+(Zimmerman 2011), those countries with the
+most significant problems of As-contaminated
+drinking water, including Bangladesh,
+India, Cambodia, and Pakistan, are not
+among them. As has been demonstrated in
+Western countries such as the United States
+and Canada, folate fortification can nearly
+eradicate folate deficiency and its associated
+consequences; in As-endemic countries it may
+have the additional benefit of facilitating a
+partial reduction in the extensive public health
+burden of As exposure.
+
+REFERENCES
+
+Ahsan H, Chen Y, Kibriya MG, Slavkovich V, Parvez F,
+Jasmine F, et al. 2007. Arsenic metabolism, genetic
+susceptibility, and risk of premalignant skin lesions
+in Bangladesh. Cancer Epidemiol Biomarkers Prev
+16:1270–1278.
+
+Ahsan H, Chen Y, Parvez F, Argos M, Hussain AI,
+Momotaj H, et al. 2006. Health Effects of Arsenic
+Longitudinal Study (HEALS): description of a multi-
+disciplinary epidemiologic investigation. J Expo
+Sci Environ Epidemiol 16:191–205.
+
+Basu A, Mitra S, Chung J, Guha Mazumder DN,
+Ghosh N, Kalman D, et al. 2011. Creatinine, diet,
+micronutrients, and arsenic methylation in
+West Bengal, India. Environ Health Perspect
+119:1308–1313; doi:10.1289/ehp.1003393.
+
+Benevenga NJ. 2007. Consideration of betaine and
+one-carbon sources of N5-methyltetrahydrofolate
+for use in homocystinuria and neural tube defects.
+Am J Clin Nutr 85:946–949.
+
+Brosnan JT, da Silva RP, Brosnan ME. 2011. The
+
+1300 VOLUME 123 | NUMBER 12 | December 2015 • Environmental Health Perspectives
+
+metabolic burden of creatine synthesis. Amino
+Acids 40:1325–1331.
+
+Carducci C, Birarelli M, Leuzzi V, Carducci C, Battini R,
+Cioni G, et al. 2002. Guanidinoacetate and creatine
+plus creatinine assessment in physiologic fluids:
+an effective diagnostic tool for the biochemical
+diagnosis of arginine:glycine amidinotransferase
+and guanidinoacetate methyltransferase deficien-
+cies. Clin Chem 48:1772–1778.
+
+Challenger F. 1945. Biological methylation. Chem Rev
+36:315–361.
+
+Drobná Z, Walton FS, Paul DS, Xing W, Thomas DJ,
+Stýblo M. 2010. Metabolism of arsenic in human
+liver: the role of membrane transporters. Arch
+Toxicol 84:3–16.
+
+Finkelstein JD, Kyle WE, Harris BJ, Martin JJ. 1982.
+Methionine metabolism in mammals: concentration
+of metabolites in rat tissues. J Nutr 112:1011–1018.
+
+Gamble MV, Ahsan H, Liu X, Factor-Litvak P, Ilievski V,
+Slavkovich V, et al. 2005a. Folate and cobalamin
+deficiencies and hyperhomocysteinemia in
+Bangladesh. Am J Clin Nutr 81:1372–1377.
+
+Gamble MV, Liu X. 2005. Urinary creatinine and
+arsenic metabolism [Letter]. Environ Health
+Perspect 113:A442.
+
+Gamble MV, Liu X, Ahsan H, Pilsner R, Ilievski V,
+Slavkovich V, et al. 2005b. Folate, homocysteine,
+and arsenic metabolism in arsenic-exposed indi-
+viduals in Bangladesh. Environ Health Perspect
+113:1683–1688; doi:10.1289/ehp.8084.
+
+Gamble MV, Liu X, Ahsan H, Pilsner JR, Ilievski V,
+Slavkovich V, et al. 2006. Folate and arsenic metab-
+olism: a double-blind, placebo-controlled folic
+acid-supplementation trial in Bangladesh. Am J
+Clin Nutr 84:1093–1101.
+
+Gamble MV, Liu X, Slavkovich V, Pilsner JR, Ilievski V,
+Factor-Litvak P, et al. 2007. Folic acid supple-
+mentation lowers blood arsenic. Am J Clin Nutr
+86:1202–1209.
+
+Government of Bangladesh, United Nations.
+2010. Towards an Arsenic Safe Environment in
+Bangladesh. Available: http://www.unicef.org/
+bangladesh/knowledgecentre_6194.htm [accessed
+17 April 2015].
+
+Guthmiller P, Van Pilsum JF, Boen JR, McGuire DM.
+1994. Cloning and sequencing of rat kidney
+L-arginine:glycine amidinotransferase. Studies on
+the mechanism of regulation by growth hormone
+and creatine. J Biol Chem 269:17556–17560.
+
+Hall M, Chen Y, Ahsan H, Slavkovich V, van Geen A,
+Parvez F, et al. 2006. Blood arsenic as a biomarker
+of arsenic exposure: results from a prospective
+study. Toxicology 225:225–233.
+
+Hall MN, Liu X, Slavkovich V, Ilievski V, Pilsner JR,
+Alam S, et al. 2009. Folate, cobalamin, cysteine,
+homocysteine, and arsenic metabolism among
+
+children in Bangladesh. Environ Health Perspect
+117:825–831; doi:10.1289/ehp.0800164.
+
+Hu YC, Cheng HL, Hsieh BS, Huang LW, Huang TC,
+Chang KL. 2012. Arsenic trioxide affects bone
+remodeling by effects on osteoblast differentiation
+and function. Bone 50:1406–1415.
+
+Hughes MF, Edwards BC, Herbin-Davis KM,
+Saunders J, Styblo M, Thomas DJ. 2010. Arsenic (+3
+oxidation state) methyltransferase genotype affects
+steady-state distribution and clearance of arsenic
+in arsenate-treated mice. Toxicol Appl Pharmacol
+249:217–223.
+
+Institute of Medicine. 1998. Dietary Reference Intakes
+for Thiamin, Riboflavin, Niacin, Vitamin B6, Folate,
+Vitamin B12, Pantothenic Acid, Biotin, and Choline.
+Washington, DC:National Academies Press.
+
+Kile ML, Hoffman E, Hsueh YM, Afroz S,
+Quamruzzaman Q, Rahman M, et al. 2009. Variability
+in biomarkers of arsenic exposure and metabo-
+lism in adults over time. Environ Health Perspect
+117:455–460; doi:10.1289/ehp.11251.
+
+Kinniburgh DG, Smedley PL. 2001. Arsenic
+Contamination of Groundwater in Bangladesh.
+Technical Report WC/00/19. Keyworth, UK:British
+Geological Survey.
+
+Levey AS, Perrone RD, Madias NE. 1988. Serum creati-
+nine and renal function. Annu Rev Med 39:465–490.
+
+Lin S, Shi Q, Nix FB, Styblo M, Beck MA, Herbin-
+Davis KM, et al. 2002. A novel S-adenosyl-L-
+methionine:arsenic(III) methyltransferase from rat
+liver cytosol. J Biol Chem 277:10795–10803.
+
+National Research Council. 2013. Critical Aspects
+of EPA’s IRIS Assessment of Inorganic Arsenic.
+Washington, DC:National Academies Press.
+
+Nermell B, Lindberg AL, Rahman M, Berglund M,
+Persson LA, El Arifeen S, et al. 2008. Urinary arsenic
+concentration adjustment factors and malnutrition.
+Environ Res 106:212–218.
+
+Nixon DE, Mussmann GV, Eckdahl SJ, Moyer TP. 1991.
+Total arsenic in urine: palladium-persulfate vs
+nickel as a matrix modifier for graphite furnace
+atomic absorption spectrophotometry. Clin Chem
+37:1575–1579.
+
+Pfeiffer CM, Huff DL, Gunter EW. 1999. Rapid and
+accurate HPLC assay for plasma total homocys-
+teine and cysteine in a clinical laboratory setting.
+Clin Chem 45:290–292.
+
+Pilsner JR, Liu X, Ahsan H, Ilievski V, Slavkovich V,
+Levy D, et al. 2009. Folate deficiency, hyperhomo-
+cysteinemia, low urinary creatinine, and hypo-
+methylation of leukocyte DNA are risk factors
+for arsenic-induced skin lesions. Environ Health
+Perspect 117:254–260; doi:10.1289/ehp.11872.
+
+R Core Team. 2014. R: A Language and Environment
+for Statistical Computing. Vienna, Austria:R
+Foundation for Statistical Computing. Available:
+
+http://www.R-project.org [accessed 30 June
+2014].
+
+Slot C. 1965. Plasma creatinine determination. A new
+and specific Jaffe reaction method. Scand J Clin
+Lab Invest 17:381–387.
+
+Smith AH, Marshall G, Liaw J, Yuan Y, Ferreccio C,
+Steinmaus C. 2012. Mortality in young adults
+following in utero and childhood exposure to
+arsenic in drinking water. Environ Health Perspect
+120:1527–1531; doi:10.1289/ehp.1104867.
+
+Song X, Geng Z, Li X, Hu X, Bian N, Zhang X, et al.
+2010. New insights into the mechanism of arsenite
+methylation with the recombinant human arsenic
+(+3) methyltransferase (hAS3MT). Biochimie
+92:1397–1406.
+
+Stead LM, Au KP, Jacobs RL, Brosnan ME, Brosnan JT.
+2001. Methylation demand and homocysteine
+metabolism: effects of dietary provision of creatine
+and guanidinoacetate. Am J Physiol Endocrinol
+Metab 281:E1095–E1100.
+
+Stead LM, Brosnan JT, Brosnan ME, Vance DE,
+Jacobs RL. 2006. Is it time to reevaluate methyl
+balance in humans? Am J Clin Nutr 83:5–10.
+
+Steinmaus C, Yuan Y, Kalman D, Rey OA, Skibola CF,
+Dauphine D, et al. 2010. Individual differences in
+arsenic metabolism and lung cancer in a case-
+control study in Cordoba, Argentina. Toxicol Appl
+Pharmacol 247:138–145.
+
+van Geen A, Ahmed EB, Pitcher L, Mey JL, Ahsan H,
+Graziano JH, et al. 2014. Comparison of two blanket
+surveys of arsenic in tubewells conducted 12 years
+apart in a 25 km2 area of Bangladesh. Sci Total
+Environ 488–489:484–492.
+
+van Geen A, Ahsan H, Horneman AH, Dhar RK,
+Zheng Y, Hussain I, et al. 2002. Promotion of well-
+switching to mitigate the current arsenic crisis in
+Bangladesh. Bull World Health Organ 80:732–737.
+
+van Geen A, Cheng Z, Jia Q, Seddique AA,
+Rahman MW, Rahman MM, et al. 2007. Monitoring
+51 community wells in Araihazar, Bangladesh, for
+up to 5 years: implications for arsenic mitigation.
+J Environ Sci Health A Tox Hazard Subst Environ
+Eng 42:1729–1740.
+
+Wagner C, Briggs WT, Cook RJ. 1985. Inhibition of
+glycine N-methyltransferase activity by folate
+derivatives: implications for regulation of methyl
+group metabolism. Biochem Biophys Res Commun
+127:746–752.
+
+Wu CT, Lu TY, Chan DC, Tsai KS, Yang RS, Liu SH.
+2014. Effects of arsenic on osteoblast differen-
+tiation in vitro and on bone mineral density and
+microstructure in rats. Environ Health Perspect
+122:559–565; doi:10.1289/ehp.1307832.
+
+Zimmerman S. 2011. Fifteen years of fortifying with folic
+acid: birth defects are reduced and healthcare
+expenses are averted. Sight Life Mag 25:54–59.
+
+Environmental Health Perspectives • VOLUME 123 | NUMBER 12 | December 2015 1301
+
+Finished pdfs/columbia_Peters_EHP.pdf in 32.97s
+OCR OF /Users/ubuntu/tmpresearch/creatine_folate/pdfs/columbia_Peters_EHP.pdf SAVED TO ./.pdfmds/pdfs-columbia-Peters-EHP-pdf-88ee810.txt
+end pdfs/columbia_Peters_EHP.pdf
+
