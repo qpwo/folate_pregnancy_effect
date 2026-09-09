@@ -614,22 +614,32 @@ for measurement of folate was collected only at baseline, week 12, and week 24; 
 linear trends.
 
 ```jsonl
-{"series": "Placebo", "phase": "First phase", "Weeks": 0, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 480}
-{"series": "Placebo", "phase": "First phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 14, "Geometric mean RBC folate (nmol/L)": 500}
-{"series": "Placebo", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 14, "Geometric mean RBC folate (nmol/L)": 500}
-{"series": "Placebo", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 490}
-{"series": "400 µg folic acid", "phase": "First phase", "Weeks": 0, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 480}
-{"series": "400 µg folic acid", "phase": "First phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 32, "Geometric mean RBC folate (nmol/L)": 750}
-{"series": "400 µg folic acid", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 32, "Geometric mean RBC folate (nmol/L)": 750}
-{"series": "400 µg folic acid", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 31, "Geometric mean RBC folate (nmol/L)": 880}
-{"series": "400 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 32, "Geometric mean RBC folate (nmol/L)": 750}
-{"series": "400 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 15, "Geometric mean RBC folate (nmol/L)": 620}
-{"series": "800 µg folic acid", "phase": "First phase", "Weeks": 0, "Geometric mean plasma folate (nmol/L)": 13, "Geometric mean RBC folate (nmol/L)": 480}
-{"series": "800 µg folic acid", "phase": "First phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 62, "Geometric mean RBC folate (nmol/L)": 1000}
-{"series": "800 µg folic acid", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 62, "Geometric mean RBC folate (nmol/L)": 1000}
-{"series": "800 µg folic acid", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 46, "Geometric mean RBC folate (nmol/L)": 1200}
-{"series": "800 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 12, "Geometric mean plasma folate (nmol/L)": 62, "Geometric mean RBC folate (nmol/L)": 1000}
-{"series": "800 µg folic acid switched to placebo", "phase": "Second phase", "Weeks": 24, "Geometric mean plasma folate (nmol/L)": 16, "Geometric mean RBC folate (nmol/L)": 700}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "Placebo", "x": 0, "y": 13}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "Placebo", "x": 12, "y": 13}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "Placebo", "x": 24, "y": 13}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid", "x": 0, "y": 13}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid", "x": 12, "y": 32}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid", "x": 24, "y": 32}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid switched to placebo", "x": 12, "y": 32}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid switched to placebo", "x": 24, "y": 15}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid", "x": 0, "y": 13}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid", "x": 12, "y": 60}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid", "x": 24, "y": 45}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid switched to placebo", "x": 12, "y": 60}
+{"chart_type": "line", "y_axis_label": "Geometric mean plasma folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid switched to placebo", "x": 24, "y": 16}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "Placebo", "x": 0, "y": 450}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "Placebo", "x": 12, "y": 450}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "Placebo", "x": 24, "y": 450}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid", "x": 0, "y": 450}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid", "x": 12, "y": 750}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid", "x": 24, "y": 800}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid switched to placebo", "x": 12, "y": 750}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "400 µg folic acid switched to placebo", "x": 24, "y": 550}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid", "x": 0, "y": 450}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid", "x": 12, "y": 1100}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid", "x": 24, "y": 1200}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid switched to placebo", "x": 12, "y": 1100}
+{"chart_type": "line", "y_axis_label": "Geometric mean RBC folate (nmol/L)", "x_axis_label": "Weeks", "series": "800 µg folic acid switched to placebo", "x": 24, "y": 650}
 ```
 
 Table 2. Geometric mean (95% CI) of blood arsenic (µg/L) and the percent change in blood arsenic from baseline to week 12 by first phase treatment group.
@@ -734,40 +744,34 @@ week of treatment. Symbols represent raw means, and lines connect the predicted 
 model with repeated measures of ln-blood As.
 
 ```jsonl
-{"series": "Placebo (raw mean)", "x": 0, "y": 8.5}
-{"series": "Placebo (raw mean)", "x": 1, "y": 8.5}
-{"series": "Placebo (raw mean)", "x": 6, "y": 8.5}
-{"series": "Placebo (raw mean)", "x": 12, "y": 7.6}
-{"series": "Placebo (raw mean)", "x": 13, "y": 7.4}
-{"series": "Placebo (raw mean)", "x": 18, "y": 7.9}
-{"series": "Placebo (raw mean)", "x": 24, "y": 8.1}
-{"series": "800 μg folic acid (raw mean)", "x": 0, "y": 8.8}
-{"series": "800 μg folic acid (raw mean)", "x": 1, "y": 7.0}
-{"series": "800 μg folic acid (raw mean)", "x": 6, "y": 6.7}
-{"series": "800 μg folic acid (raw mean)", "x": 12, "y": 7.4}
-{"series": "800 μg folic acid (raw mean)", "x": 13, "y": 7.0}
-{"series": "800 μg folic acid (raw mean)", "x": 18, "y": 6.9}
-{"series": "800 μg folic acid (raw mean)", "x": 24, "y": 7.7}
-{"series": "800 μg folic acid switched to placebo (raw mean)", "x": 13, "y": 6.7}
-{"series": "800 μg folic acid switched to placebo (raw mean)", "x": 18, "y": 7.0}
-{"series": "800 μg folic acid switched to placebo (raw mean)", "x": 24, "y": 7.6}
-{"series": "Model prediction for placebo", "x": 0, "y": 8.5}
-{"series": "Model prediction for placebo", "x": 1, "y": 8.5}
-{"series": "Model prediction for placebo", "x": 6, "y": 8.5}
-{"series": "Model prediction for placebo", "x": 12, "y": 7.6}
-{"series": "Model prediction for placebo", "x": 13, "y": 7.4}
-{"series": "Model prediction for placebo", "x": 18, "y": 7.9}
-{"series": "Model prediction for placebo", "x": 24, "y": 8.1}
-{"series": "Model prediction for 800 μg folic acid", "x": 0, "y": 8.8}
-{"series": "Model prediction for 800 μg folic acid", "x": 1, "y": 7.0}
-{"series": "Model prediction for 800 μg folic acid", "x": 6, "y": 6.7}
-{"series": "Model prediction for 800 μg folic acid", "x": 12, "y": 7.4}
-{"series": "Model prediction for 800 μg folic acid", "x": 13, "y": 7.0}
-{"series": "Model prediction for 800 μg folic acid", "x": 18, "y": 6.9}
-{"series": "Model prediction for 800 μg folic acid", "x": 24, "y": 7.7}
-{"series": "Model prediction for 800 μg folic acid switched to placebo", "x": 13, "y": 6.7}
-{"series": "Model prediction for 800 μg folic acid switched to placebo", "x": 18, "y": 7.0}
-{"series": "Model prediction for 800 μg folic acid switched to placebo", "x": 24, "y": 7.6}
+{"x": 0, "y": 9.5, "series": "Placebo (raw mean)"}
+{"x": 1, "y": 8.5, "series": "Placebo (raw mean)"}
+{"x": 6, "y": 7.5, "series": "Placebo (raw mean)"}
+{"x": 12, "y": 7.6, "series": "Placebo (raw mean)"}
+{"x": 13, "y": 7.4, "series": "Placebo (raw mean)"}
+{"x": 18, "y": 7.9, "series": "Placebo (raw mean)"}
+{"x": 24, "y": 8.1, "series": "Placebo (raw mean)"}
+{"x": 0, "y": 9.5, "series": "800 μg folic acid (raw mean)"}
+{"x": 1, "y": 7.8, "series": "800 μg folic acid (raw mean)"}
+{"x": 6, "y": 6.8, "series": "800 μg folic acid (raw mean)"}
+{"x": 12, "y": 7.0, "series": "800 μg folic acid (raw mean)"}
+{"x": 13, "y": 6.7, "series": "800 μg folic acid switched to placebo (raw mean)"}
+{"x": 18, "y": 7.0, "series": "800 μg folic acid switched to placebo (raw mean)"}
+{"x": 24, "y": 7.6, "series": "800 μg folic acid switched to placebo (raw mean)"}
+{"x": 0, "y": 9.5, "series": "Model prediction for placebo"}
+{"x": 1, "y": 8.5, "series": "Model prediction for placebo"}
+{"x": 6, "y": 7.5, "series": "Model prediction for placebo"}
+{"x": 12, "y": 7.6, "series": "Model prediction for placebo"}
+{"x": 13, "y": 7.4, "series": "Model prediction for placebo"}
+{"x": 18, "y": 7.9, "series": "Model prediction for placebo"}
+{"x": 24, "y": 8.1, "series": "Model prediction for placebo"}
+{"x": 0, "y": 9.5, "series": "Model prediction for 800 μg folic acid"}
+{"x": 1, "y": 7.8, "series": "Model prediction for 800 μg folic acid"}
+{"x": 6, "y": 6.8, "series": "Model prediction for 800 μg folic acid"}
+{"x": 12, "y": 7.0, "series": "Model prediction for 800 μg folic acid"}
+{"x": 13, "y": 6.7, "series": "Model prediction for 800 μg folic acid switched to placebo"}
+{"x": 18, "y": 7.0, "series": "Model prediction for 800 μg folic acid switched to placebo"}
+{"x": 24, "y": 7.6, "series": "Model prediction for 800 μg folic acid switched to placebo"}
 ```
 
 Table 4. Group mean difference in ln-blood As decline since baseline estimated from repeated measures
@@ -1007,7 +1011,9 @@ Am J Clin Nutr 85:946–949.
 
 Brosnan JT, da Silva RP, Brosnan ME. 2011. The
 
-1300 VOLUME 123 | NUMBER 12 | December 2015 • Environmental Health Perspectives
+1300
+
+VOLUME 123 | NUMBER 12 | December 2015 • Environmental Health Perspectives
 
 metabolic burden of creatine synthesis. Amino
 Acids 40:1325–1331.
